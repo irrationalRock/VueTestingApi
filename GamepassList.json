@@ -80,8 +80,16 @@
     "Added": "Jun-19"
   },
   {
+    "Game": "Hi-Fi RUSH",
+    "Added": "Jan-23"
+  },
+  {
     "Game": "Persona 3: Portable",
     "Added": "Jan-23"
+  },
+  {
+    "Game": "DEATHLOOP",
+    "Added": "Sep-22"
   },
   {
     "Game": "Spelunky 2",
@@ -180,8 +188,8 @@
     "Added": "Nov-22"
   },
   {
-    "Game": "DEATHLOOP",
-    "Added": "Sep-22"
+    "Game": "Return to Monkey Island",
+    "Added": "Nov-22"
   },
   {
     "Game": "Assassin's Creed: Odyssey",
@@ -218,10 +226,6 @@
   {
     "Game": "Rainbow Billy: The Curse of the Leviathan",
     "Added": "Dec-22"
-  },
-  {
-    "Game": "Return to Monkey Island",
-    "Added": "Nov-22"
   },
   {
     "Game": "Ghost Song",
@@ -318,6 +322,10 @@
   {
     "Game": "Infernax",
     "Added": "Feb-22"
+  },
+  {
+    "Game": "Darkest Dungeon",
+    "Added": "Feb-23"
   },
   {
     "Game": "Two Point Campus",
@@ -480,10 +488,6 @@
     "Added": "May-22"
   },
   {
-    "Game": "Telling Lies",
-    "Added": "Feb-22"
-  },
-  {
     "Game": "Unpacking",
     "Added": "Nov-21"
   },
@@ -497,10 +501,6 @@
   },
   {
     "Game": "Yakuza 5: Remastered",
-    "Added": "Jan-21"
-  },
-  {
-    "Game": "Donut County",
     "Added": "Jan-21"
   },
   {
@@ -518,10 +518,6 @@
   {
     "Game": "Viva Pi�ata: Trouble in Paradise",
     "Added": "Jun-17"
-  },
-  {
-    "Game": "Danganronpa: Trigger Happy Havoc - Anniversary Edition",
-    "Added": "Jan-22"
   },
   {
     "Game": "Super Mega Baseball 3",
@@ -652,10 +648,6 @@
     "Added": "Apr-22"
   },
   {
-    "Game": "Skul: The Hero Slayer",
-    "Added": "Feb-22"
-  },
-  {
     "Game": "Dreamscaper",
     "Added": "Feb-22"
   },
@@ -694,6 +686,10 @@
   {
     "Game": "Fable III",
     "Added": "Jun-17"
+  },
+  {
+    "Game": "Skul: The Hero Slayer",
+    "Added": "Feb-22"
   },
   {
     "Game": "Weird West",
@@ -770,10 +766,6 @@
   {
     "Game": "Star Wars Squadrons",
     "Added": "Mar-21"
-  },
-  {
-    "Game": "Nobody Saves the World",
-    "Added": "Jan-22"
   },
   {
     "Game": "The Walking Dead: The Final Season",
@@ -968,6 +960,10 @@
     "Added": "Jan-23"
   },
   {
+    "Game": "GRID: Legends",
+    "Added": "Sep-22"
+  },
+  {
     "Game": "Midnight Fight Express",
     "Added": "Aug-22"
   },
@@ -978,10 +974,6 @@
   {
     "Game": "DJMax Respect V",
     "Added": "Jul-22"
-  },
-  {
-    "Game": "Worms W.M.D",
-    "Added": "Jul-19"
   },
   {
     "Game": "Black Desert",
@@ -1024,12 +1016,8 @@
     "Added": "Mar-21"
   },
   {
-    "Game": "Windjammers 2",
-    "Added": "Jan-22"
-  },
-  {
-    "Game": "Medieval Dynasty",
-    "Added": "Oct-22"
+    "Game": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "Added": "Jan-23"
   },
   {
     "Game": "Research and Destroy",
@@ -1038,6 +1026,10 @@
   {
     "Game": "Kill It With Fire",
     "Added": "Nov-21"
+  },
+  {
+    "Game": "Medieval Dynasty",
+    "Added": "Jun-21"
   },
   {
     "Game": "My Time at Portia",
@@ -1064,7 +1056,7 @@
     "Added": "Aug-20"
   },
   {
-    "Game": "Minecraft Dungeons",
+    "Game": "Minecraft: Dungeons",
     "Added": "May-20"
   },
   {
@@ -1228,10 +1220,6 @@
     "Added": "Feb-18"
   },
   {
-    "Game": "Pupperazzi",
-    "Added": "Jan-22"
-  },
-  {
     "Game": "High on Life",
     "Added": "Dec-22"
   },
@@ -1312,10 +1300,6 @@
     "Added": "Mar-19"
   },
   {
-    "Game": "We Happy Few",
-    "Added": "Jan-19"
-  },
-  {
     "Game": "Contrast",
     "Added": "Feb-22"
   },
@@ -1348,10 +1332,6 @@
     "Added": "Mar-22"
   },
   {
-    "Game": "The Last Kids on Earth and the Staff of Doom",
-    "Added": "Feb-22"
-  },
-  {
     "Game": "Totally Reliable Delivery Service",
     "Added": "Apr-20"
   },
@@ -1364,12 +1344,20 @@
     "Added": "Feb-19"
   },
   {
+    "Game": "The Last Kids on Earth and the Staff of Doom",
+    "Added": "Feb-22"
+  },
+  {
     "Game": "Goat Simulator",
     "Added": "Jun-19"
   },
   {
     "Game": "Dead by Daylight: Special Edition",
     "Added": "May-19"
+  },
+  {
+    "Game": "Hello Neighbor 2",
+    "Added": "Dec-22"
   },
   {
     "Game": "Gungrave G.O.R.E",
@@ -1400,8 +1388,20 @@
     "Added": "Jul-22"
   },
   {
-    "Game": "7 Days to Die",
+    "Game": "7 Days to Die (Game Preview)",
     "Added": "Apr-22"
+  },
+  {
+    "Game": "Redfall",
+    "Added": "May-23"
+  },
+  {
+    "Game": "Minecraft: Legends",
+    "Added": "Apr-23"
+  },
+  {
+    "Game": "MLB The Show 23",
+    "Added": "Mar-23"
   },
   {
     "Game": "Wo Long: Fallen Dynasty",
@@ -1412,12 +1412,20 @@
     "Added": "Mar-23"
   },
   {
+    "Game": "Way to the Woods",
+    "Added": "Mar-23"
+  },
+  {
     "Game": "Atomic Heart",
     "Added": "Feb-23"
   },
   {
-    "Game": "Hello Neighbor 2",
-    "Added": "Dec-22"
+    "Game": "Inkulinati (Game Preview)",
+    "Added": "Jan-23"
+  },
+  {
+    "Game": "GoldenEye 007 (2023)",
+    "Added": "Jan-23"
   },
   {
     "Game": "Lapin (Game Preview)",
@@ -1460,15 +1468,11 @@
     "Added": "May-22"
   },
   {
-    "Game": "Besiege (Game Preview)",
-    "Added": "Feb-22"
-  },
-  {
     "Game": "ANVIL: Vault Breakers (Game Preview)",
     "Added": "Dec-21"
   },
   {
-    "Game": "The Anacrusis (Game Preview)",
-    "Added": "Jan-22"
+    "Game": "Besiege (Game Preview)",
+    "Added": "Feb-22"
   }
 ]
