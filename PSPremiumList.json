@@ -1,1781 +1,5 @@
 [
   {
-    "Game": "Celeste",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Demon's Souls",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Uncharted 4: A Thief's End",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "INSIDE",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Bloodborne",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Hollow Knight: Voidheart Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Shadow of the Colossus",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Rayman Legends",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Tetris Effect: Connected",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Horizon Zero Dawn: Complete Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Final Fantasy VII: Remake Intergrade",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Marvel's Spider-Man: Game of the Year Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dead Cells",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Devil May Cry 5: Special Edition",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "What Remains of Edith Finch",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Deathloop",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Injustice 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Nioh",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Uncharted: Legacy of Thieves Collection",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Dragon Ball FighterZ",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Chicory: A Colorful Tale",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Fallout 4",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "XCOM 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Resident Evil 7: Biohazard",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Dragon Quest Builders 2",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Returnal",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Marvel's Spider-Man: Miles Morales",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Batman: Arkham Knight",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Desperados III",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "DOOM",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Messenger",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "UNCHARTED: The Lost Legacy",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Life is Strange",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Ys VIII: Lacrimosa of DANA",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Yakuza 0",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Yakuza Kiwami 2",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Control: Ultimate Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ghost of Tsushima: Director's Cut",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Enter The Gungeon",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Final Fantasy XII: The Zodiac Age",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Frostpunk",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Mahjong",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Outer Wilds",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Resogun",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "South Park: The Stick of Truth",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ys VIII: Lacrimosa of DANA",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Yakuza: Like a Dragon",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Middle-Earth: Shadow of Mordor",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Stray",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Avicii Invector",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Soulcalibur VI",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Tearaway Unfolded",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Tom Clancy's The Division",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Horizon: Forbidden West",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Yakuza 6: The Song of Life",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Kingdom Hearts III",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Dragon Quest Builders",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Assassin's Creed: Odyssey",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Spiritfarer: Farewell Edition",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Assassin's Creed IV: Black Flag",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Mortal Kombat 11",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Chess Ultra",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Bloodstained: Ritual of the Night",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Child of Light",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Children of Morta",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Cities: Skylines",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "ConnecTank",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Everspace",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Far Cry 4",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Final Fantasy IX",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Final Fantasy X/X-2: HD Remaster",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Legendary Fishing",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Overcooked! 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Towerfall Ascension",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Forgotten City",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Tekken 7",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "OMNO",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Tom Clancy's The Division 2",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Watch Dogs 2",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Death Stranding: Director's Cut",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Marvel's Guardians Of The Galaxy",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Age of Wonders: Planetfall",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Astebreed",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Chicken Police: Paint it RED!",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Disgaea 5: Alliance of Vengeance",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Final Fantasy VII",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Final Fantasy XV: Royal Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "South Park: The Fractured But Whole",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Last Guardian",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Warhammer Vermintide 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Far Cry 5",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "The Elder Scrolls V: Skyrim - Special Edition",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Assassin's Creed: Origins",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Ghostrunner",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "I Am Dead",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Observer: System Redux",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Wreckfest",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Abzu^",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ashen",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Defense Grid 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Final Fantasy VIII: Remastered",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Gravity Rush 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "inFAMOUS: Second Son",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Moonlighter",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "My Friend Pedro",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Nidhogg",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Oddworld: New 'n' Tasty",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Wolfenstein: The New Order",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Scarlet Nexus",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Ace Combat 7: Skies Unknown",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Judgment",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "The Pedestrian",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Middle-Earth: Shadow of War",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Oddworld: Soulstorm: Enhanced Edition",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Wheel of Fortune (2017)",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Yakuza Kiwami",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Battle Chasers: Nightwar",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Blasphemous",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Detroit: Become Human",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Far Cry 3: Blood Dragon - Classic Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Gunvolt Chronicles: Luminous Avenger iX",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Harvest Moon: Light of Hope - Special Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Prey",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Prison Architect",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Slime Rancher",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Stellaris",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Trials Rising",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Trine 4: The Nightmare Prince",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Valiant Hearts: The Great War",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Alienation",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Darksiders Genesis",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Everybody's Golf",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Hue",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Indivisible",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Joe Dever's Lone Wolf",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Little Nightmares",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "LittleBigPlanet 3",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Minit",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Momodora: Reverie Under The Moonlight",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Naruto Shippuden: Ultimate Ninja Storm 4",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Telling Lies",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Terraria",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Missing: J.J. Macfield and the Island of Memories",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Vanishing of Ethan Carter",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Thomas Was Alone",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Trials Fusion",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Until Dawn",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Watch Dogs",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Borderlands 3",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Evil Genius 2: World Domination",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Worms W.M.D",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Wytchwood",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Concrete Genie: Digital Deluxe Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "11-11 Memories Retold",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Bomber Crew",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Jotun: Valhalla Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Kingdom: New Lands",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Kingdom: Two Crowns",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Lost Words: Beyond The Page",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Moving Out",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Nidhogg 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Shadow Warrior 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Sniper Elite 4",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Sundered: Eldritch Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Long Dark",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "This War of Mine: The Little Ones",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Trackmania Turbo",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "World of Final Fantasy",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Immortals Fenyx Rising",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Life is Strange: Before the Storm",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "The Artful Escape",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Brothers: A Tale of Two Sons",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dandara: Trials of Fear Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Fury Unleashed",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Hotshot Racing",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Journey to the Savage Planet",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Surviving Mars",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "WWE 2K22",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Far Cry: Primal",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Pillars of Eternity II: Deadfire - Ultimate Edition",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Kingdom Hearts HD 2.8: Final Chapter Prologue",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Dragon Quest Heroes II: Explorer's Edition",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Assassin's Creed: Syndicate",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Trials of Mana",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Star Trek: Bridge Crew",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Werewolves Within",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "For Honor",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ghost of a Tale",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "inFAMOUS: First Light",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Last Day of June",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Observation",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Starlink: Battle For Atlas",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Surge 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Toukiden 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Tropico 5",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Victor Vran: Overkill Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ys IX: Monstrum Nox",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ghostwire: Tokyo",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Back 4 Blood",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "The Escapists 2",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "The Gardens Between",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Earth Defense Force: World Brothers",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "The Medium",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Hohokum",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Scott Pilgrim vs. The World: The Game - Complete Edition",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Bugsnax",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Saints Row IV: Re-Elected",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Chocobo's Mystery Dungeon EVERY BUDDY!",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Death Squared",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Deliver Us the Moon",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dragon Star Varnir",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Far Cry 3: Classic Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "For The King",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Gal Gunvolt Burst",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "KeyWe",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Little Big Workshop",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Through The Darkest of Times",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Wild Guns Reloaded",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Zombie Army 4: Dead War",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Quarry",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "I am Setsuna",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Kingdom Hearts: Melody of Memory",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Monster Energy Supercross: The Official Videogame 5",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Cris Tales",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "9 Monkeys of Shaolin",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Absolver",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Aragami",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Descenders",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "FIGHTING EX LAYER",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Hotline Miami 2: Wrong Number",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Infinite Minigolf",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Matterfall",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "My Time at Portia",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "R-Type Final 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Rebel Galaxy",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Elder Scrolls Online: Tamriel Unlimited",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Surge",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Virginia",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Tom Clancy's Rainbow Six: Extraction",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Chorus",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Tom Clancy's Rainbow Six Siege",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Maneater",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Eagle Flight",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Bad North",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "John Wick Hex",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Killzone Shadow Fall",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "LEGO Batman 3: Beyond Gotham",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Pile Up! Box by Box",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Pure Hold'em World Poker Championship",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Pure Pool",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Star Ocean First Departure R",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Dark Pictures Anthology: Little Hope",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Fisherman: Fishing Planet",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Wonderful 101: Remastered",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "TT Isle of Man: Ride of the Edge 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Outriders",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Earth Defense Force 5",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Assassin's Creed III: Remastered",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Dragon Ball Xenoverse 2",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Assassin's Creed: The Ezio Collection",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Skate",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dead or Alive 5: Last Round",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "El Hijo: A Wild West Tale",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Get Even",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Kingdom Come: Deliverance",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Portal Knights",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Relicta",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Tricky Towers",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Vampyr",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Far Cry: New Dawn",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "UNO",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Assassin's Creed: Freedom Cry",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Assassin's Creed: Rogue - Remastered",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Kona",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Lawn Mowing Simulator",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Transference",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Days Gone",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Death end re;Quest",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Death end re;Quest2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "No Straight Roads",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Pathfinder: Kingmaker - Definitive Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Rock of Ages 3: Make & Break",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Spitlings",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Steep",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ben 10: Power Trip",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Gigantosaurus: The Game",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Monopoly Plus",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Tom Clancy's Ghost Recon: Wildlands",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Assassin's Creed: Unity",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Last Stop",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Monster Truck Championship",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "AO Tennis 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Giana Sisters: Twisted Dreams - Director's Cut",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Megadimension Neptunia VII",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "NBA 2K Playgrounds 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Romance of the Three Kingdoms XIII",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Lego Movie Videogame",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "This is the Police 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "TRON RUN/r",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Warriors All-Stars",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Oninaki",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Erica",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Earth Defense Force: Iron Rain",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Onee Chanbara Origin",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Assassin's Creed Chronicles: China",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Assetto Corsa Competizione",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Space Junkies",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "8-Bit Armies",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Chronos: Before the Ashes",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Darksiders III",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "GRIP Combat Racing",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Magicka 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "MediEvil",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Nightmares from the Deep 2: The Siren's Call",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Payday 2: Crimewave Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Stranded Deep",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Dark Pictures Anthology: Man of Medan",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Lost Sphear",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Human: Fall Flat",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Warhammer: Chaosbane - Slayer Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Agents of Mayhem",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Caladrius Blaze",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Call of Cthulhu",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dungeons 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dynasty Warriors 8: Empires",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Entwined",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Graveyard Keeper",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Marvel Puzzle Quest",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Nights of Azure",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Shenmue III",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Space Crew: Legendary Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Velocibox",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Vikings: Wolves of Midgard",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Marvel's Avengers",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Dreamfall Chapters",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Embr",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Golf with Your Friends",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Grand Ages: Medieval",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "How to Survive: Storm Warning Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Malicious Fallen",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Mudrunner",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Crew 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Warhammer 40,000: Inquisitor - Martyr",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "ZOMBI",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Clouds & Sheep 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "DCL: The Game",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Party Hard",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Shadow of the Beast",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "This is the Police",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Townsmen: A Kingdom Rebuilt",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Just Cause 4: Reloaded",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Monopoly Madness",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Danger Zone",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Earth Defense Force 4.1: The Shadow of New Despair",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Gabbuchi",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Gods Will Fall",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "How To Survive 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Nights of Azure 2: Bride of the New Moon",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Witch and the Hundred Knight: Revival Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Windbound",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dead by Daylight",
-    "Added": "01-Aug"
-  },
-  {
-    "Game": "Saints Row: Gat out of Hell",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Spirit of the North: Enhanced Edition",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Brawlout",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "NASCAR Heat 5",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Redeemer: Enhanced Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Rogue Stormers",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Assassin's Creed Chronicles: India",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "2Dark",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Empire of Sin",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Touhou Genso Rondo: Bullet Ballet",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Adventure Time: Pirates of the Enchiridion",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Destruction AllStars",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ash of Gods Redemption",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Croixleur Sigma",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "FIA European Truck Racing Championship",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Omega Quintet",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Caligula Effect: Overdose",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Crew",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "JETT: The Far Shore",
-    "Added": "01-Jan"
-  },
-  {
-    "Game": "Naruto to Boruto: Shinobi Striker",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Damascus Gear: Operation Tokyo - HD Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Elex",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Friday the 13th: The Game",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "I Am Bread",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Legends of Ethernal",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Mitsurugi Kamui Hikae",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Power Rangers: Battle For The Grid",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Surgeon Simulator: Anniversary Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Assassin's Creed Chronicles: Russia",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Alex Kidd in Miracle World DX",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Paw Patrol: On a Roll!",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Bee Simulator",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dangerous Golf",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Monster Jam Steel Titans 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Override 2: Super Mech League",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Foreclosed",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Tennis World Tour 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Tour de France 2021",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Dark Rose Valkyrie",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Risk: Urban Assault",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Black Mirror",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Knack",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Space Hulk: Deathwing - Enhanced Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "The Technomancer",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "ReadySet Heroes",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Tom Clancy's Ghost Recon: Breakpoint",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Werewolf: The Apocalypse - Earthblood",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Disaster Report 4 Plus: Summer Memories",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Adr1ft",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Fade to Silence",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Necromunda: Underhive Wars",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "TorqueL",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Totally Reliable Delivery Service",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ice Age: Scrat's Nutty Adventure",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Car Mechanic Simulator",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Fallout 76",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Overpass",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Trials of The Blood Dragon",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Rabbids Invasion: The Interactive TV Show",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Mighty No. 9",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Ace of Seafood",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Carmageddon: Max Damage",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "MX vs. ATV: All Out",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Pixel Piracy",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Rapala Fishing: Pro Series",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Harvest Moon: One World",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Unturned",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Homefront: The Revolution",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Balan Wonderworld",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Yet Another Zombie Defense",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Hello Neighbor",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Secret Neighbor",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Bubsy: The Woolies Strike Back",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Harvest Moon: Mad Dash",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Left Alive: Day One Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Fluster Cluck",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Goosebumps: The Game",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Cartoon Network: Battle Crashers",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "JUMANJI: The Video Game",
-    "Added": "01-Jul"
-  },
-  {
-    "Game": "Tchia",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "THE ELDER SCROLLS IV: OBLIVION",
     "Added": "01-Jun"
   },
@@ -1828,6 +52,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "R4: Ridge Racer Type 4",
+    "Added": "01-Mar"
+  },
+  {
     "Game": "Oddworld: Abe's Exoddus",
     "Added": "01-Dec"
   },
@@ -1862,6 +90,10 @@
   {
     "Game": "Hot Shots Golf",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Syphon Filter: Dark Mirror",
+    "Added": "01-Mar"
   },
   {
     "Game": "Dark Cloud 2",
@@ -3509,54 +1741,1866 @@
   },
   {
     "Game": "Disney/PIXAR Toy Story Mania!",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Magus",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Air Conflicts: Vietnam",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Judge Dee: The City God Case",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Rogue Warrior",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Go! Sports Ski",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Heavy Fire: Shattered Spear",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ape Academy 2",
+    "Added": "01-Mar"
   },
   {
     "Game": "Wild Arms 2",
-    "Added": "Feb-23"
+    "Added": "01-Feb"
   },
   {
     "Game": "Hot Shots Golf 2",
-    "Added": "Jan-23"
+    "Added": "01-Jan"
   },
   {
     "Game": "Pinball Heroes",
-    "Added": "Dec-22"
+    "Added": "01-Dec"
   },
   {
     "Game": "Ridge Racer 2",
-    "Added": "Dec-22"
+    "Added": "01-Dec"
   },
   {
     "Game": "Syphon Filter 2",
-    "Added": "Sep-22"
+    "Added": "01-Sep"
   },
   {
     "Game": "Bentley's Hackpack",
-    "Added": "Sep-22"
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Celeste",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Demon's Souls",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Uncharted 4: A Thief's End",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "INSIDE",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Bloodborne",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Hollow Knight: Voidheart Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Shadow of the Colossus",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Rayman Legends",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Tetris Effect: Connected",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Horizon Zero Dawn: Complete Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy VII: Remake Intergrade",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Marvel's Spider-Man: Game of the Year Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dead Cells",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Devil May Cry 5: Special Edition",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "What Remains of Edith Finch",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Deathloop",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Injustice 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Nioh",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "UNCHARTED: Legacy of Thieves Collection",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Dragon Ball FighterZ",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Chicory: A Colorful Tale",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Fallout 4",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "XCOM 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Resident Evil 7: Biohazard",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Dragon Quest Builders 2",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Returnal",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Marvel's Spider-Man: Miles Morales",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Batman: Arkham Knight",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Desperados III",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "DOOM",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Messenger",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "UNCHARTED: The Lost Legacy",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Life is Strange",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Ys VIII: Lacrimosa of DANA",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Yakuza 0",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Yakuza Kiwami 2",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Control: Ultimate Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ghost of Tsushima: Director's Cut",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Enter The Gungeon",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy XII: The Zodiac Age",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Frostpunk",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Mahjong",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Outer Wilds",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Resogun",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "South Park: The Stick of Truth",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ys VIII: Lacrimosa of DANA",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Yakuza: Like a Dragon",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Middle-Earth: Shadow of Mordor",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Stray",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Avicii Invector",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Soulcalibur VI",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Tearaway Unfolded",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Tom Clancy's The Division",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Life Is Strange 2",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Horizon: Forbidden West",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Yakuza 6: The Song of Life",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Kingdom Hearts III",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Dragon Quest Builders",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Assassin's Creed: Odyssey",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Spiritfarer: Farewell Edition",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Assassin's Creed IV: Black Flag",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Mortal Kombat 11",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Chess Ultra",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Bloodstained: Ritual of the Night",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Child of Light",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Children of Morta",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Cities: Skylines",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "ConnecTank",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Everspace",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Far Cry 4",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy IX",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy X/X-2: HD Remaster",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Legendary Fishing",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Overcooked! 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Towerfall Ascension",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Street Fighter V: Champion Edition",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "The Forgotten City",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Tekken 7",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "OMNO",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Tom Clancy's The Division 2",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Watch Dogs 2",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Death Stranding: Director's Cut",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Marvel's Guardians Of The Galaxy",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Age of Wonders: Planetfall",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Astebreed",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Chicken Police: Paint it RED!",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Disgaea 5: Alliance of Vengeance",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy VII",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy XV: Royal Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "South Park: The Fractured But Whole",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Last Guardian",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Warhammer Vermintide 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Far Cry 5",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "The Elder Scrolls V: Skyrim - Special Edition",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Assassin's Creed: Origins",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Ghostrunner",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "I Am Dead",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Observer: System Redux",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Wreckfest",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Abzu?",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ashen",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Defense Grid 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy VIII: Remastered",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Gravity Rush 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "inFAMOUS: Second Son",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Moonlighter",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "My Friend Pedro",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Nidhogg",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Oddworld: New 'n' Tasty",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Wolfenstein: The New Order",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "NEO: The World Ends with You",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Untitled Goose Game",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Scarlet Nexus",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Ace Combat 7: Skies Unknown",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Judgment",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "The Pedestrian",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Middle-Earth: Shadow of War",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Oddworld: Soulstorm: Enhanced Edition",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Wheel of Fortune (2017)",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Yakuza Kiwami",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Battle Chasers: Nightwar",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Blasphemous",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Detroit: Become Human",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Far Cry 3: Blood Dragon - Classic Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Gunvolt Chronicles: Luminous Avenger iX",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Harvest Moon: Light of Hope - Special Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Prey",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Prison Architect",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Slime Rancher",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Stellaris",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Trials Rising",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Trine 4: The Nightmare Prince",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Valiant Hearts: The Great War",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Alienation",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Darksiders Genesis",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Everybody's Golf",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Hue",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Indivisible",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Joe Dever's Lone Wolf",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Little Nightmares",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "LittleBigPlanet 3",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Minit",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Momodora: Reverie Under The Moonlight",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Naruto Shippuden: Ultimate Ninja Storm 4",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Telling Lies",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Terraria",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Missing: J.J. Macfield and the Island of Memories",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Vanishing of Ethan Carter",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Thomas Was Alone",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Trials Fusion",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Until Dawn",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Watch Dogs",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Haven",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Life Is Strange: True Colors",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Borderlands 3",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Evil Genius 2: World Domination",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Worms W.M.D",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Wytchwood",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Concrete Genie: Digital Deluxe Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "11-11 Memories Retold",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Bomber Crew",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Jotun: Valhalla Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Kingdom: New Lands",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Kingdom: Two Crowns",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Lost Words: Beyond The Page",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Moving Out",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Nidhogg 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Shadow Warrior 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Sniper Elite 4",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Sundered: Eldritch Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Long Dark",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "This War of Mine: The Little Ones",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Trackmania Turbo",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "World of Final Fantasy",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Immortals Fenyx Rising",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Life is Strange: Before the Storm",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Dragon Quest Heroes: The World Tree's Woe and the Blight Below",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "The Artful Escape",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Brothers: A Tale of Two Sons",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dandara: Trials of Fear Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Fury Unleashed",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Hotshot Racing",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Journey to the Savage Planet",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Surviving Mars",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Far Cry: Primal",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Pillars of Eternity II: Deadfire - Ultimate Edition",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Kingdom Hearts HD 2.8: Final Chapter Prologue",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Dragon Quest Heroes II: Explorer's Edition",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Assassin's Creed: Syndicate",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Trials of Mana",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Star Trek: Bridge Crew",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Werewolves Within",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "For Honor",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ghost of a Tale",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "inFAMOUS: First Light",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Last Day of June",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Observation",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Starlink: Battle For Atlas",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Surge 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Toukiden 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Tropico 5",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Victor Vran: Overkill Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ys IX: Monstrum Nox",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ghostwire: Tokyo",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Back 4 Blood",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "The Escapists 2",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "The Gardens Between",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Earth Defense Force: World Brothers",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "The Medium",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Hohokum",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Scott Pilgrim vs. The World: The Game - Complete Edition",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Bugsnax",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Saints Row IV: Re-Elected",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Chocobo's Mystery Dungeon EVERY BUDDY!",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Death Squared",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Deliver Us the Moon",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dragon Star Varnir",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Far Cry 3: Classic Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "For The King",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Gal Gunvolt Burst",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "KeyWe",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Little Big Workshop",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Through The Darkest of Times",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Wild Guns Reloaded",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Zombie Army 4: Dead War",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Quarry",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "I am Setsuna",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Kingdom Hearts: Melody of Memory",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Monster Energy Supercross: The Official Videogame 5",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Cris Tales",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "9 Monkeys of Shaolin",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Absolver",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Aragami",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Descenders",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "FIGHTING EX LAYER",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Hotline Miami 2: Wrong Number",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Infinite Minigolf",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Matterfall",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "My Time at Portia",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "R-Type Final 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Rebel Galaxy",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Elder Scrolls Online: Tamriel Unlimited",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Surge",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Virginia",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dragon Ball Z: Kakarot",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Tom Clancy's Rainbow Six: Extraction",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Chorus",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Tom Clancy's Rainbow Six Siege",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Maneater",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Eagle Flight",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Bad North",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "John Wick Hex",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Killzone Shadow Fall",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "LEGO Batman 3: Beyond Gotham",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Pile Up! Box by Box",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Pure Hold'em World Poker Championship",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Pure Pool",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Star Ocean First Departure R",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Dark Pictures Anthology: Little Hope",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Fisherman: Fishing Planet",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Wonderful 101: Remastered",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "TT Isle of Man: Ride of the Edge 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Final Fantasy Type-0 HD",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Outriders",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Earth Defense Force 5",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Assassin's Creed III: Remastered",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Dragon Ball Xenoverse 2",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Assassin's Creed: The Ezio Collection",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Skate",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dead or Alive 5: Last Round",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "El Hijo: A Wild West Tale",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Get Even",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Kingdom Come: Deliverance",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Portal Knights",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Relicta",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Tricky Towers",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Vampyr",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Far Cry: New Dawn",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "UNO",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Assassin's Creed: Freedom Cry",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Assassin's Creed: Rogue - Remastered",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Kona",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Lawn Mowing Simulator",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Transference",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Days Gone",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Death end re;Quest",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Death end re;Quest2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "No Straight Roads",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Pathfinder: Kingmaker - Definitive Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Rock of Ages 3: Make & Break",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Spitlings",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Steep",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ben 10: Power Trip",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Gigantosaurus: The Game",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Monopoly Plus",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Tom Clancy's Ghost Recon: Wildlands",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Assassin's Creed: Unity",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Last Stop",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Monster Truck Championship",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "AO Tennis 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Giana Sisters: Twisted Dreams - Director's Cut",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Megadimension Neptunia VII",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "NBA 2K Playgrounds 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Romance of the Three Kingdoms XIII",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Lego Movie Videogame",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "This is the Police 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "TRON RUN/r",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Warriors All-Stars",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Oninaki",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Erica",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Earth Defense Force: Iron Rain",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Onee Chanbara Origin",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Assassin's Creed Chronicles: China",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Assetto Corsa Competizione",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Space Junkies",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "8-Bit Armies",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Chronos: Before the Ashes",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Darksiders III",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "GRIP Combat Racing",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Magicka 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "MediEvil",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Nightmares from the Deep 2: The Siren's Call",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Payday 2: Crimewave Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Stranded Deep",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Dark Pictures Anthology: Man of Medan",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Lost Sphear",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Human: Fall Flat",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Warhammer: Chaosbane - Slayer Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Agents of Mayhem",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Caladrius Blaze",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Call of Cthulhu",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dungeons 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dynasty Warriors 8: Empires",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Entwined",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Graveyard Keeper",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Marvel Puzzle Quest",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Nights of Azure",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Shenmue III",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Space Crew: Legendary Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Velocibox",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Vikings: Wolves of Midgard",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "RAGE 2",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Marvel's Avengers",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Dreamfall Chapters",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Embr",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Golf with Your Friends",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Grand Ages: Medieval",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "How to Survive: Storm Warning Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Malicious Fallen",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Mudrunner",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Crew 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Warhammer 40,000: Inquisitor - Martyr",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "ZOMBI",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Clouds & Sheep 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "DCL: The Game",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Party Hard",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Shadow of the Beast",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "This is the Police",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Townsmen: A Kingdom Rebuilt",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Just Cause 4: Reloaded",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Monopoly Madness",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Danger Zone",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Earth Defense Force 4.1: The Shadow of New Despair",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Gabbuchi",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Gods Will Fall",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "How To Survive 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Nights of Azure 2: Bride of the New Moon",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Witch and the Hundred Knight: Revival Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Windbound",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dead by Daylight",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Saints Row: Gat out of Hell",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Spirit of the North: Enhanced Edition",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Brawlout",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "NASCAR Heat 5",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Redeemer: Enhanced Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Rogue Stormers",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Assassin's Creed Chronicles: India",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "2Dark",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Empire of Sin",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Touhou Genso Rondo: Bullet Ballet",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Adventure Time: Pirates of the Enchiridion",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Destruction AllStars",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ash of Gods Redemption",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Croixleur Sigma",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "FIA European Truck Racing Championship",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Omega Quintet",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Caligula Effect: Overdose",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Crew",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "JETT: The Far Shore",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Naruto to Boruto: Shinobi Striker",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Damascus Gear: Operation Tokyo - HD Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Elex",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Friday the 13th: The Game",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "I Am Bread",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Legends of Ethernal",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Mitsurugi Kamui Hikae",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Power Rangers: Battle For The Grid",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Surgeon Simulator: Anniversary Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Assassin's Creed Chronicles: Russia",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Alex Kidd in Miracle World DX",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Paw Patrol: On a Roll!",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Bee Simulator",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dangerous Golf",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Monster Jam Steel Titans 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Override 2: Super Mech League",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Foreclosed",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Tennis World Tour 2",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Tour de France 2021",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Dark Rose Valkyrie",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Risk: Urban Assault",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Black Mirror",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Knack",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Space Hulk: Deathwing - Enhanced Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Technomancer",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "ReadySet Heroes",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Tom Clancy's Ghost Recon: Breakpoint",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Werewolf: The Apocalypse - Earthblood",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Disaster Report 4 Plus: Summer Memories",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Adr1ft",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Fade to Silence",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Necromunda: Underhive Wars",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "TorqueL",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Totally Reliable Delivery Service",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ice Age: Scrat's Nutty Adventure",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Car Mechanic Simulator",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Fallout 76",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Overpass",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Trials of The Blood Dragon",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Rabbids Invasion: The Interactive TV Show",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Mighty No. 9",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Ace of Seafood",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Carmageddon: Max Damage",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "MX vs. ATV: All Out",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Pixel Piracy",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Rapala Fishing: Pro Series",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Harvest Moon: One World",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Unturned",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Homefront: The Revolution",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Balan Wonderworld",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Yet Another Zombie Defense",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Hello Neighbor",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Secret Neighbor",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Bubsy: The Woolies Strike Back",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Harvest Moon: Mad Dash",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Left Alive: Day One Edition",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Fluster Cluck",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Goosebumps: The Game",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "Cartoon Network: Battle Crashers",
+    "Added": "Jun-22"
+  },
+  {
+    "Game": "JUMANJI: The Video Game",
+    "Added": "Jul-22"
+  },
+  {
+    "Game": "Tchia",
+    "Added": "Mar-23"
   }
 ]
