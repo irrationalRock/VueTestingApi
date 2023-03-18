@@ -36,10 +36,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Undertale",
-    "Added": "01-Jul"
-  },
-  {
     "Game": "Forza Horizon 4",
     "Added": "01-Oct"
   },
@@ -70,6 +66,10 @@
   {
     "Game": "Opus: Echo of Starsong - Full Bloom Edition",
     "Added": "01-Aug"
+  },
+  {
+    "Game": "Dead Space 2",
+    "Added": "01-Nov"
   },
   {
     "Game": "The Bard's Tale ARPG: Remastered and Resnarkled",
@@ -188,6 +188,10 @@
     "Added": "01-Jan"
   },
   {
+    "Game": "Sid Meier's Civilization VI",
+    "Added": "01-Mar"
+  },
+  {
     "Game": "Pentiment",
     "Added": "01-Nov"
   },
@@ -224,10 +228,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Kentucky Route Zero",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Monster Hunter: Rise",
     "Added": "01-Jan"
   },
@@ -242,10 +242,6 @@
   {
     "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenger",
     "Added": "01-Jun"
-  },
-  {
-    "Game": "Zero Escape: The Nonary Games",
-    "Added": "01-Mar"
   },
   {
     "Game": "Death�s Door",
@@ -284,12 +280,12 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Dragon Ball FighterZ",
-    "Added": "01-Oct"
-  },
-  {
     "Game": "HITMAN Trilogy",
     "Added": "01-Jan"
+  },
+  {
+    "Game": "Guilty Gear -Strive-",
+    "Added": "01-Mar"
   },
   {
     "Game": "A Plague Tale: Requiem",
@@ -420,10 +416,6 @@
     "Added": "01-May"
   },
   {
-    "Game": "Young Souls",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Yakuza 6: The Song of Life",
     "Added": "01-Mar"
   },
@@ -458,10 +450,6 @@
   {
     "Game": "theHunter: Call of the Wild",
     "Added": "01-Apr"
-  },
-  {
-    "Game": "Crown Trick",
-    "Added": "01-Sep"
   },
   {
     "Game": "Dishonored: Death of the Outsider",
@@ -552,14 +540,6 @@
     "Added": "01-May"
   },
   {
-    "Game": "Paradise Killer",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Marvel's Guardians of the Galaxy",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "The Evil Within 2",
     "Added": "01-Jun"
   },
@@ -614,6 +594,10 @@
   {
     "Game": "The Riftbreaker",
     "Added": "01-Oct"
+  },
+  {
+    "Game": "Wo Long: Fallen Dynasty",
+    "Added": "01-Mar"
   },
   {
     "Game": "LEGO Star Wars: The Skywalker Saga",
@@ -688,10 +672,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Octopath Traveler",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Weird West",
     "Added": "01-Mar"
   },
@@ -726,10 +706,6 @@
   {
     "Game": "Life Is Strange: True Colors",
     "Added": "01-Apr"
-  },
-  {
-    "Game": "For Honor",
-    "Added": "01-Jun"
   },
   {
     "Game": "Genesis Noir",
@@ -808,6 +784,10 @@
     "Added": "01-Nov"
   },
   {
+    "Game": "Dead Space 3",
+    "Added": "01-Nov"
+  },
+  {
     "Game": "Forager",
     "Added": "01-Jul"
   },
@@ -876,8 +856,8 @@
     "Added": "01-Oct"
   },
   {
-    "Game": "FAR: Changing Tides",
-    "Added": "01-Mar"
+    "Game": "Ghostwire: Tokyo",
+    "Added": "01-Apr"
   },
   {
     "Game": "Mortal Shell: Enhanced Edition",
@@ -990,6 +970,10 @@
   {
     "Game": "The Dungeon of Naheulbeuk: The Amulet of Chaos",
     "Added": "01-Mar"
+  },
+  {
+    "Game": "Soul Hackers 2",
+    "Added": "01-Feb"
   },
   {
     "Game": "Costume Quest",
@@ -1150,6 +1134,10 @@
   {
     "Game": "Maneater",
     "Added": "01-May"
+  },
+  {
+    "Game": "Merge & Blade",
+    "Added": "01-Feb"
   },
   {
     "Game": "PAW Patrol Grand Prix",
@@ -1376,10 +1364,6 @@
     "Added": "01-Feb"
   },
   {
-    "Game": "Goat Simulator",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Dead by Daylight: Special Edition",
     "Added": "01-May"
   },
@@ -1416,7 +1400,19 @@
     "Added": "01-Apr"
   },
   {
-    "Game": "Redfall",
+    "Game": "Starfield",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "The Texas Chainsaw Massacre",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Exoprimal",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Amnesia: The Bunker",
     "Added": "01-May"
   },
   {
@@ -1424,7 +1420,15 @@
     "Added": "01-May"
   },
   {
+    "Game": "Redfall",
+    "Added": "01-May"
+  },
+  {
     "Game": "The Last Case of Benedict Fox",
+    "Added": "01-Apr"
+  },
+  {
+    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
     "Added": "01-Apr"
   },
   {
@@ -1432,28 +1436,16 @@
     "Added": "01-Apr"
   },
   {
-    "Game": "MLB The Show 23",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Wo Long: Fallen Dynasty",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Amnesia: The Bunker",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Way to the Woods",
     "Added": "01-Mar"
   },
   {
-    "Game": "Merge & Blade",
-    "Added": "01-Feb"
+    "Game": "INFINITE GUITARS",
+    "Added": "01-Mar"
   },
   {
-    "Game": "Soul Hackers 2",
-    "Added": "01-Feb"
+    "Game": "MLB The Show 23",
+    "Added": "01-Mar"
   },
   {
     "Game": "Inkulinati (Game Preview)",
@@ -1473,14 +1465,14 @@
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "Aug-22"
+    "Added": "01-Aug"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "May-22"
+    "Added": "01-May"
   },
   {
     "Game": "ANVIL: Vault Breaker (Game Preview)",
-    "Added": "Dec-21"
+    "Added": "01-Dec"
   }
 ]
