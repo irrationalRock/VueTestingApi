@@ -296,10 +296,6 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Dragon Quest Builders 2",
-    "Added": "01-May"
-  },
-  {
     "Game": "Among Us",
     "Added": "01-Dec"
   },
@@ -320,6 +316,10 @@
     "Added": "01-Sep"
   },
   {
+    "Game": "Dragon Quest Builders 2",
+    "Added": "01-May"
+  },
+  {
     "Game": "Assassin's Creed: Origins",
     "Added": "01-Jun"
   },
@@ -334,10 +334,6 @@
   {
     "Game": "Umurangi Generation - Special Edition",
     "Added": "01-May"
-  },
-  {
-    "Game": "Unsouled",
-    "Added": "01-Apr"
   },
   {
     "Game": "F1 2021",
@@ -380,6 +376,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Unsouled",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Tunic",
     "Added": "01-Mar"
   },
@@ -420,7 +420,7 @@
     "Added": "01-Mar"
   },
   {
-    "Game": "DOOM (Classic)",
+    "Game": "DOOM",
     "Added": "01-Mar"
   },
   {
@@ -592,8 +592,8 @@
     "Added": "01-May"
   },
   {
-    "Game": "The Riftbreaker",
-    "Added": "01-Oct"
+    "Game": "MLB The Show 23",
+    "Added": "01-Mar"
   },
   {
     "Game": "Wo Long: Fallen Dynasty",
@@ -630,10 +630,6 @@
   {
     "Game": "Far Cry 5",
     "Added": "01-Jul"
-  },
-  {
-    "Game": "MLB The Show 22",
-    "Added": "01-Apr"
   },
   {
     "Game": "Dreamscaper",
@@ -702,10 +698,6 @@
   {
     "Game": "Jurassic World Evolution 2",
     "Added": "01-May"
-  },
-  {
-    "Game": "Life Is Strange: True Colors",
-    "Added": "01-Apr"
   },
   {
     "Game": "Genesis Noir",
@@ -816,10 +808,6 @@
     "Added": "01-May"
   },
   {
-    "Game": "Bugsnax",
-    "Added": "01-Apr"
-  },
-  {
     "Game": "Broken Age",
     "Added": "01-Dec"
   },
@@ -850,6 +838,10 @@
   {
     "Game": "Banjo-Kazooie",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Bugsnax",
+    "Added": "01-Apr"
   },
   {
     "Game": "Back 4 Blood",
@@ -908,10 +900,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "The Long Dark",
-    "Added": "01-Apr"
-  },
-  {
     "Game": "Pikuniku",
     "Added": "01-Mar"
   },
@@ -922,10 +910,6 @@
   {
     "Game": "Farming Simulator 22",
     "Added": "01-May"
-  },
-  {
-    "Game": "Moonglow Bay",
-    "Added": "01-Oct"
   },
   {
     "Game": "Zombie Army 4: Dead War",
@@ -968,20 +952,12 @@
     "Added": "01-May"
   },
   {
-    "Game": "The Dungeon of Naheulbeuk: The Amulet of Chaos",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Soul Hackers 2",
     "Added": "01-Feb"
   },
   {
     "Game": "Costume Quest",
     "Added": "01-Oct"
-  },
-  {
-    "Game": "A Memoir Blue",
-    "Added": "01-Mar"
   },
   {
     "Game": "Rubber Bandits",
@@ -1056,6 +1032,10 @@
     "Added": "01-May"
   },
   {
+    "Game": "BlazBlue: Cross Tag Battle - Special Edition",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Atomic Heart",
     "Added": "01-Feb"
   },
@@ -1090,10 +1070,6 @@
   {
     "Game": "NINJA GAIDEN: Master Collection",
     "Added": "01-Jun"
-  },
-  {
-    "Game": "Tom Clancy's Rainbow Six: Extraction",
-    "Added": "01-Jan"
   },
   {
     "Game": "Shadow Warrior 3: Definitive Edition",
@@ -1200,10 +1176,6 @@
     "Added": "01-Jan"
   },
   {
-    "Game": "ClusterTruck",
-    "Added": "01-Apr"
-  },
-  {
     "Game": "Sea of Thieves",
     "Added": "01-Mar"
   },
@@ -1244,10 +1216,6 @@
     "Added": "01-Dec"
   },
   {
-    "Game": "Chinatown Detective Agency",
-    "Added": "01-Apr"
-  },
-  {
     "Game": "Edge of Eternity",
     "Added": "01-Feb"
   },
@@ -1286,10 +1254,6 @@
   {
     "Game": "The Sims 4: Deluxe Party Edition",
     "Added": "01-Nov"
-  },
-  {
-    "Game": "Double Dragon Neon",
-    "Added": "01-Jun"
   },
   {
     "Game": "Empire of Sin",
@@ -1348,10 +1312,6 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Kraken Academy!!",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Totally Reliable Delivery Service",
     "Added": "01-Apr"
   },
@@ -1362,6 +1322,10 @@
   {
     "Game": "Crackdown 3",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "Goat Simulator",
+    "Added": "01-Apr"
   },
   {
     "Game": "Dead by Daylight: Special Edition",
@@ -1380,7 +1344,7 @@
     "Added": "01-May"
   },
   {
-    "Game": "Power Rangers: Battle for the Grid",
+    "Game": "INFINITE GUITARS",
     "Added": "01-Mar"
   },
   {
@@ -1420,11 +1384,15 @@
     "Added": "01-May"
   },
   {
+    "Game": "Way to the Woods",
+    "Added": "01-May"
+  },
+  {
     "Game": "Redfall",
     "Added": "01-May"
   },
   {
-    "Game": "The Last Case of Benedict Fox",
+    "Game": "Homestead Arcana",
     "Added": "01-Apr"
   },
   {
@@ -1434,18 +1402,6 @@
   {
     "Game": "Minecraft: Legends",
     "Added": "01-Apr"
-  },
-  {
-    "Game": "Way to the Woods",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "INFINITE GUITARS",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "MLB The Show 23",
-    "Added": "01-Mar"
   },
   {
     "Game": "Inkulinati (Game Preview)",
