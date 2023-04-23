@@ -1,0 +1,23 @@
+[
+    {
+      "game_name": "Halo Infinite",
+      "release_date": "2021-12-08",
+      "developer": "343 Industries",
+      "publisher": "Xbox Game Studios",
+      "on_gamepass": true
+    },
+    {
+      "game_name": "Psychonauts 2",
+      "release_date": "2021-08-25",
+      "developer": "Double Fine Productions",
+      "publisher": "Xbox Game Studios",
+      "on_gamepass": false
+    },
+    {
+      "game_name": "Oxenfree II: Lost Signals",
+      "release_date": "2022-03-31",
+      "developer": "Night School Studio",
+      "publisher": "MWM Interactive",
+      "on_gamepass": false
+    }
+  ]
