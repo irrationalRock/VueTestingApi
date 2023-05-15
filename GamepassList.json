@@ -132,6 +132,10 @@
     "Added": "01-Nov"
   },
   {
+    "Game": "Besiege",
+    "Added": "01-May"
+  },
+  {
     "Game": "Mass Effect: Legendary Edition",
     "Added": "01-Jan"
   },
@@ -148,7 +152,7 @@
     "Added": "01-Mar"
   },
   {
-    "Game": "Pillars of Eternity II: Deadfire � Ultimate Edition",
+    "Game": "Pillars of Eternity II: Deadfire - Ultimate Edition",
     "Added": "01-Feb"
   },
   {
@@ -328,10 +332,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Umurangi Generation - Special Edition",
-    "Added": "01-May"
-  },
-  {
     "Game": "F1 2021",
     "Added": "01-Mar"
   },
@@ -398,10 +398,6 @@
   {
     "Game": "Spacelines from the Far Out",
     "Added": "01-Jun"
-  },
-  {
-    "Game": "Danganronpa 2: Goodbye Despair - Anniversary Edition",
-    "Added": "01-May"
   },
   {
     "Game": "Fortnite",
@@ -628,10 +624,6 @@
     "Added": "01-Feb"
   },
   {
-    "Game": "My Friend Pedro",
-    "Added": "01-Nov"
-  },
-  {
     "Game": "Dicey Dungeons",
     "Added": "01-Nov"
   },
@@ -660,7 +652,7 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Weird West",
+    "Game": "Weird West: Definitive Edition",
     "Added": "01-Mar"
   },
   {
@@ -1040,10 +1032,6 @@
     "Added": "01-Apr"
   },
   {
-    "Game": "Before We Leave",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "Mirror's Edge: Catalyst",
     "Added": "01-Nov"
   },
@@ -1360,15 +1348,19 @@
     "Added": "01-Jul"
   },
   {
+    "Game": "Railway Empire 2",
+    "Added": "01-May"
+  },
+  {
     "Game": "Amnesia: The Bunker",
     "Added": "01-May"
   },
   {
-    "Game": "Fuga: Melodies of Steel 2",
+    "Game": "PLANET OF LANA",
     "Added": "01-May"
   },
   {
-    "Game": "Way to the Woods",
+    "Game": "Fuga: Melodies of Steel 2",
     "Added": "01-May"
   },
   {
@@ -1418,5 +1410,9 @@
   {
     "Game": "ANVIL: Vault Breaker (Game Preview)",
     "Added": "01-Dec"
+  },
+  {
+    "Game": "",
+    "Added": ""
   }
 ]
