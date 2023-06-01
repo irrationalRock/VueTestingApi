@@ -232,6 +232,10 @@
     "Added": "01-Aug"
   },
   {
+    "Game": "Supraland: Six Inches Under",
+    "Added": "01-May"
+  },
+  {
     "Game": "Monster Hunter: Rise",
     "Added": "01-Jan"
   },
@@ -286,6 +290,10 @@
   {
     "Game": "HITMAN Trilogy",
     "Added": "01-Jan"
+  },
+  {
+    "Game": "Fuga: Melodies of Steel 2",
+    "Added": "01-May"
   },
   {
     "Game": "Guilty Gear -Strive-",
@@ -444,6 +452,14 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Rune Factory 4: Special",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Stacking",
+    "Added": "01-Jun"
+  },
+  {
     "Game": "Eastward",
     "Added": "01-Dec"
   },
@@ -522,10 +538,6 @@
   {
     "Game": "Escape Academy",
     "Added": "01-Jul"
-  },
-  {
-    "Game": "Floppy Knights",
-    "Added": "01-May"
   },
   {
     "Game": "The Evil Within 2",
@@ -720,6 +732,10 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "The Walking Dead: The Final Season",
     "Added": "01-Dec"
   },
@@ -734,10 +750,6 @@
   {
     "Game": "Watch_Dogs 2",
     "Added": "01-Jul"
-  },
-  {
-    "Game": "Chorus",
-    "Added": "01-Jun"
   },
   {
     "Game": "Olija",
@@ -768,15 +780,23 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Bridge Constructor Portal",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "State of Decay 2: Juggernaut Edition",
     "Added": "01-May"
   },
   {
+    "Game": "Chorus",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Bridge Constructor: Portal",
+    "Added": "01-Jun"
+  },
+  {
     "Game": "For Honor: Marching Fire Edition",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "The Big Con",
     "Added": "01-Jun"
   },
   {
@@ -832,10 +852,6 @@
     "Added": "01-Apr"
   },
   {
-    "Game": "Mortal Shell: Enhanced Edition",
-    "Added": "01-Jan"
-  },
-  {
     "Game": "Moonscars",
     "Added": "01-Sep"
   },
@@ -850,10 +866,6 @@
   {
     "Game": "Lost In Random",
     "Added": "01-Apr"
-  },
-  {
-    "Game": "Evil Genius 2: World Domination",
-    "Added": "01-Nov"
   },
   {
     "Game": "Need for Speed: Hot Pursuit - Remastered",
@@ -886,6 +898,10 @@
   {
     "Game": "Totally Accurate Battle Simulator",
     "Added": "01-Dec"
+  },
+  {
+    "Game": "Mortal Shell: Enhanced Edition",
+    "Added": "01-Jan"
   },
   {
     "Game": "Farming Simulator 22",
@@ -1012,6 +1028,10 @@
     "Added": "01-May"
   },
   {
+    "Game": "Massive Chalice",
+    "Added": "01-May"
+  },
+  {
     "Game": "BlazBlue: Cross Tag Battle - Special Edition",
     "Added": "01-Apr"
   },
@@ -1080,12 +1100,12 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Lawn Mowing Simulator",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "Maneater",
     "Added": "01-May"
+  },
+  {
+    "Game": "Car Mechanic Simulator 2021",
+    "Added": "01-Jun"
   },
   {
     "Game": "Merge & Blade",
@@ -1124,6 +1144,10 @@
     "Added": "01-Jul"
   },
   {
+    "Game": "Minecraft: Legends",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Shredders",
     "Added": "01-Mar"
   },
@@ -1160,10 +1184,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Serious Sam 4",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "Fallout 76",
     "Added": "01-Jul"
   },
@@ -1182,6 +1202,10 @@
   {
     "Game": "Fable Anniversary",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "Serious Sam 4",
+    "Added": "01-Dec"
   },
   {
     "Game": "High on Life",
@@ -1210,6 +1234,10 @@
   {
     "Game": "Ben 10: Power Trip",
     "Added": "01-Dec"
+  },
+  {
+    "Game": "Ravenlok",
+    "Added": "01-May"
   },
   {
     "Game": "Battlefield 2042",
@@ -1296,6 +1324,10 @@
     "Added": "01-Feb"
   },
   {
+    "Game": "Homestead Arcana",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Goat Simulator",
     "Added": "01-Apr"
   },
@@ -1313,6 +1345,10 @@
   },
   {
     "Game": "DayZ",
+    "Added": "01-May"
+  },
+  {
+    "Game": "Redfall",
     "Added": "01-May"
   },
   {
@@ -1348,11 +1384,19 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Railway Empire 2",
-    "Added": "01-May"
+    "Game": "Dordogne",
+    "Added": "01-Jun"
   },
   {
     "Game": "Amnesia: The Bunker",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Slayers X: Terminal Aftermath - Vengance of the Slayer",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Railway Empire 2",
     "Added": "01-May"
   },
   {
@@ -1360,55 +1404,31 @@
     "Added": "01-May"
   },
   {
-    "Game": "Fuga: Melodies of Steel 2",
-    "Added": "01-May"
-  },
-  {
-    "Game": "Ravenlok",
-    "Added": "01-May"
-  },
-  {
-    "Game": "Redfall",
-    "Added": "01-May"
-  },
-  {
-    "Game": "Homestead Arcana",
-    "Added": "01-Apr"
-  },
-  {
-    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
-    "Added": "01-Apr"
-  },
-  {
-    "Game": "Minecraft: Legends",
-    "Added": "01-Apr"
-  },
-  {
     "Game": "Inkulinati (Game Preview)",
     "Added": "01-Jan"
   },
   {
     "Game": "Lapin (Game Preview)",
-    "Added": "01-Nov"
+    "Added": "Nov-22"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "01-Sep"
+    "Added": "Sep-22"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "01-Aug"
+    "Added": "Aug-22"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "01-May"
+    "Added": "May-22"
   },
   {
     "Game": "ANVIL: Vault Breaker (Game Preview)",
-    "Added": "01-Dec"
+    "Added": "Dec-21"
   }
 ]
