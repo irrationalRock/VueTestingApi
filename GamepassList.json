@@ -248,10 +248,6 @@
     "Added": "01-Nov"
   },
   {
-    "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenger",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Death�s Door",
     "Added": "01-Jan"
   },
@@ -288,6 +284,10 @@
     "Added": "01-Jul"
   },
   {
+    "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenger",
+    "Added": "01-Jun"
+  },
+  {
     "Game": "HITMAN Trilogy",
     "Added": "01-Jan"
   },
@@ -308,10 +308,6 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Among Us",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "Monster Train",
     "Added": "01-Dec"
   },
@@ -326,6 +322,10 @@
   {
     "Game": "Halo: The Master Chief Collection",
     "Added": "01-Sep"
+  },
+  {
+    "Game": "Among Us",
+    "Added": "01-Dec"
   },
   {
     "Game": "Assassin's Creed: Origins",
@@ -732,6 +732,10 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "PlateUp!",
+    "Added": "01-Oct"
+  },
+  {
     "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
     "Added": "01-Apr"
   },
@@ -782,14 +786,6 @@
   {
     "Game": "State of Decay 2: Juggernaut Edition",
     "Added": "01-May"
-  },
-  {
-    "Game": "Chorus",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Bridge Constructor: Portal",
-    "Added": "01-Jun"
   },
   {
     "Game": "For Honor: Marching Fire Edition",
@@ -898,10 +894,6 @@
   {
     "Game": "Totally Accurate Battle Simulator",
     "Added": "01-Dec"
-  },
-  {
-    "Game": "Mortal Shell: Enhanced Edition",
-    "Added": "01-Jan"
   },
   {
     "Game": "Farming Simulator 22",
@@ -1088,10 +1080,6 @@
     "Added": "01-Oct"
   },
   {
-    "Game": "NARAKA: BLADEPOINT",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Eiyuden Chronicle: Rising",
     "Added": "01-May"
   },
@@ -1100,8 +1088,8 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Maneater",
-    "Added": "01-May"
+    "Game": "NARAKA: BLADEPOINT",
+    "Added": "01-Jun"
   },
   {
     "Game": "Car Mechanic Simulator 2021",
@@ -1202,10 +1190,6 @@
   {
     "Game": "Fable Anniversary",
     "Added": "01-Feb"
-  },
-  {
-    "Game": "Serious Sam 4",
-    "Added": "01-Dec"
   },
   {
     "Game": "High on Life",
@@ -1372,6 +1356,34 @@
     "Added": "01-Apr"
   },
   {
+    "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "Persona 5: Tactica",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Cities: Skylines II",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Forza Motorsport (2023)",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "PAYDAY 3",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Party Animals",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Lies of P",
+    "Added": "01-Sep"
+  },
+  {
     "Game": "Starfield",
     "Added": "01-Sep"
   },
@@ -1409,11 +1421,11 @@
   },
   {
     "Game": "Lapin (Game Preview)",
-    "Added": "Nov-22"
+    "Added": "01-Nov"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "Oct-22"
+    "Added": "01-Oct"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
