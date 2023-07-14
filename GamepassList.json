@@ -1,5 +1,9 @@
 [
   {
+    "Game": "Grand Theft Auto V",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "GoldenEye 007 (2023)",
     "Added": "01-Jan"
   },
@@ -94,10 +98,6 @@
   {
     "Game": "DEATHLOOP",
     "Added": "01-Sep"
-  },
-  {
-    "Game": "Spelunky 2",
-    "Added": "01-Jan"
   },
   {
     "Game": "Stardew Valley",
@@ -680,10 +680,6 @@
     "Added": "01-Mar"
   },
   {
-    "Game": "Exo One",
-    "Added": "01-Nov"
-  },
-  {
     "Game": "Shadowrun Trilogy",
     "Added": "01-Jun"
   },
@@ -924,6 +920,10 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "McPixel 3",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Mount & Blade II: Bannerlord",
     "Added": "01-Feb"
   },
@@ -986,6 +986,10 @@
   {
     "Game": "The Evil Within",
     "Added": "01-Mar"
+  },
+  {
+    "Game": "Sword and Fairy: Together Forever",
+    "Added": "01-Jul"
   },
   {
     "Game": "JoJo's Bizarre Adventure: All-Star Battle R",
@@ -1141,6 +1145,10 @@
   },
   {
     "Game": "The Ascent",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "The Cave",
     "Added": "01-Jul"
   },
   {
@@ -1352,10 +1360,6 @@
     "Added": "01-Dec"
   },
   {
-    "Game": "PAW Patrol The Movie: Adventure City Calls",
-    "Added": "01-Jul"
-  },
-  {
     "Game": "7 Days to Die (Game Preview)",
     "Added": "01-Apr"
   },
@@ -1396,7 +1400,15 @@
     "Added": "01-Aug"
   },
   {
+    "Game": "Techtonica (Game Preview)",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Exoprimal",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Common'hood",
     "Added": "01-Jul"
   },
   {
@@ -1413,18 +1425,18 @@
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "01-Sep"
+    "Added": "Sep-22"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "01-Aug"
+    "Added": "Aug-22"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "01-May"
+    "Added": "May-22"
   },
   {
     "Game": "ANVIL: Vault Breaker (Game Preview)",
-    "Added": "01-Dec"
+    "Added": "Dec-21"
   }
 ]
