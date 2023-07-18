@@ -4,6 +4,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Undertale",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Demon's Souls",
     "Added": "01-Jun"
   },
@@ -32,6 +36,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Melty Blood: Type Lumina",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Rayman Legends",
     "Added": "01-Sep"
   },
@@ -42,6 +50,10 @@
   {
     "Game": "Horizon Zero Dawn: Complete Edition",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "It Takes Two",
+    "Added": "01-Jul"
   },
   {
     "Game": "Paradise Killer",
@@ -244,6 +256,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Dysmantle",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Deus Ex: Mankind Divided",
     "Added": "01-Jun"
   },
@@ -258,10 +274,6 @@
   {
     "Game": "Kingdom Hearts HD 1.5 + 2.5 ReMIX",
     "Added": "01-Nov"
-  },
-  {
-    "Game": "Stray",
-    "Added": "01-Jul"
   },
   {
     "Game": "Avicii Invector",
@@ -426,6 +438,10 @@
   {
     "Game": "Warhammer Vermintide 2",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Snowrunner",
+    "Added": "01-Jul"
   },
   {
     "Game": "Dodgeball Academia",
@@ -756,6 +772,14 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Sniper Elite 5",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "The Ascent",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Lake",
     "Added": "01-May"
   },
@@ -894,6 +918,10 @@
   {
     "Game": "Ys IX: Monstrum Nox",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Samurai Warriors 5",
+    "Added": "01-Jul"
   },
   {
     "Game": "Carto",
@@ -1188,6 +1216,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Circus Electrique",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Far Cry: New Dawn",
     "Added": "01-Dec"
   },
@@ -1368,6 +1400,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Thymesia",
     "Added": "01-May"
   },
@@ -1416,16 +1452,16 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "World War Z",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Thief (2014)",
     "Added": "01-Jun"
   },
   {
     "Game": "RAGE 2",
     "Added": "01-Mar"
-  },
-  {
-    "Game": "Marvel's Avengers",
-    "Added": "01-Jul"
   },
   {
     "Game": "Embr",
@@ -1484,6 +1520,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Dynasty Warriors 9",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Just Cause 4: Reloaded",
     "Added": "01-Jan"
   },
@@ -1512,10 +1552,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Saints Row: Gat out of Hell",
-    "Added": "01-Jul"
-  },
-  {
     "Game": "Spirit of the North: Enhanced Edition",
     "Added": "01-Jul"
   },
@@ -1525,10 +1561,6 @@
   },
   {
     "Game": "NASCAR Heat 5",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Rogue Stormers",
     "Added": "01-Jun"
   },
   {
@@ -1736,8 +1768,16 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Monster Jam: Steel Titans",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Rabbids Invasion: The Interactive TV Show",
     "Added": "01-Sep"
+  },
+  {
+    "Game": "Fast & Furious: Spy Racers Rise of SH1FT3R",
+    "Added": "01-Jul"
   },
   {
     "Game": "Ace of Seafood",
@@ -1768,6 +1808,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "My Little Pony: A Maretime Bay Adventure",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Secret Neighbor",
     "Added": "01-Jun"
   },
@@ -1777,10 +1821,6 @@
   },
   {
     "Game": "Harvest Moon: Mad Dash",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Fluster Cluck",
     "Added": "01-Jun"
   },
   {
@@ -2004,18 +2044,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Bioshock 2: Remastered",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Bioshock Infinite: The Complete Edition",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Bioshock: Remastered",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Devil May Cry 4",
     "Added": "01-Jun"
   },
@@ -2085,10 +2113,6 @@
   },
   {
     "Game": "Ape Escape 2",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Borderlands: The Handsome Collection",
     "Added": "01-Jun"
   },
   {
@@ -2664,10 +2688,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Raiden V: Director's Cut",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Sam & Max The Devil's Playhouse: Episode 3 - They Stole Max's Brain",
     "Added": "01-Jun"
   },
@@ -2870,6 +2890,10 @@
   {
     "Game": "WARRIORS OROCHI 3",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Gravity Crash Portable",
+    "Added": "01-Jul"
   },
   {
     "Game": "Super Stardust Portable",
@@ -3553,23 +3577,23 @@
   },
   {
     "Game": "Disney/PIXAR Toy Story Mania!",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Magus",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Air Conflicts: Vietnam",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Judge Dee: The City God Case",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Rogue Warrior",
-    "Added": "Jun-22"
+    "Added": "01-Jun"
   },
   {
     "Game": "Go! Sports Ski",
@@ -3578,6 +3602,14 @@
   {
     "Game": "Heavy Fire: Shattered Spear",
     "Added": "Jun-22"
+  },
+  {
+    "Game": "Twisted Metal",
+    "Added": "Jul-23"
+  },
+  {
+    "Game": "Twisted Metal 2",
+    "Added": "Jul-23"
   },
   {
     "Game": "Ape Academy 2",
