@@ -48,6 +48,10 @@
     "Added": "01-Nov"
   },
   {
+    "Game": "Celeste",
+    "Added": "01-Aug"
+  },
+  {
     "Game": "Immortality",
     "Added": "01-Aug"
   },
@@ -244,7 +248,7 @@
     "Added": "01-Nov"
   },
   {
-    "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenger",
+    "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
     "Added": "01-Jun"
   },
   {
@@ -284,8 +288,16 @@
     "Added": "01-Jul"
   },
   {
+    "Game": "Prodeus",
+    "Added": "01-Jun"
+  },
+  {
     "Game": "HITMAN Trilogy",
     "Added": "01-Jan"
+  },
+  {
+    "Game": "Limbo",
+    "Added": "01-Aug"
   },
   {
     "Game": "Fuga: Melodies of Steel 2",
@@ -330,10 +342,6 @@
   {
     "Game": "Darkest Dungeon",
     "Added": "01-Feb"
-  },
-  {
-    "Game": "Two Point Campus",
-    "Added": "01-Aug"
   },
   {
     "Game": "F1 2021",
@@ -448,6 +456,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "A Short Hike",
+    "Added": "01-Aug"
+  },
+  {
     "Game": "Rune Factory 4: Special",
     "Added": "01-Jun"
   },
@@ -518,6 +530,10 @@
   {
     "Game": "F.I.S.T.: Forged In Shadow Torch",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Everspace 2",
+    "Added": "01-Apr"
   },
   {
     "Game": "Football Manager 2023",
@@ -644,10 +660,6 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "Dreamscaper",
-    "Added": "01-Feb"
-  },
-  {
     "Game": "Dicey Dungeons",
     "Added": "01-Nov"
   },
@@ -686,6 +698,10 @@
   {
     "Game": "DiRT 5",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "TOEM",
+    "Added": "01-Jul"
   },
   {
     "Game": "Railway Empire 2",
@@ -742,6 +758,10 @@
   {
     "Game": "PlateUp!",
     "Added": "01-Oct"
+  },
+  {
+    "Game": "FIFA 23",
+    "Added": "01-May"
   },
   {
     "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
@@ -856,6 +876,10 @@
     "Added": "01-Oct"
   },
   {
+    "Game": "Airborne Kingdom",
+    "Added": "01-Aug"
+  },
+  {
     "Game": "Ghostwire: Tokyo",
     "Added": "01-Apr"
   },
@@ -940,16 +964,20 @@
     "Added": "01-Sep"
   },
   {
-    "Game": "Midnight Fight Express",
-    "Added": "01-Aug"
-  },
-  {
     "Game": "Coffee Talk",
     "Added": "01-Aug"
   },
   {
     "Game": "Black Desert",
     "Added": "01-May"
+  },
+  {
+    "Game": "Midnight Fight Express",
+    "Added": "01-Aug"
+  },
+  {
+    "Game": "Figment 2: Creed Valley",
+    "Added": "01-Jul"
   },
   {
     "Game": "Dordogne",
@@ -986,6 +1014,10 @@
   {
     "Game": "The Evil Within",
     "Added": "01-Mar"
+  },
+  {
+    "Game": "Exoprimal",
+    "Added": "01-Jul"
   },
   {
     "Game": "Sword and Fairy: Together Forever",
@@ -1108,6 +1140,14 @@
     "Added": "01-Jul"
   },
   {
+    "Game": "Serious Sam: Siberian Mayhem",
+    "Added": "01-Jul"
+  },
+  {
+    "Game": "Maquette",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "Car Mechanic Simulator 2021",
     "Added": "01-Jun"
   },
@@ -1142,10 +1182,6 @@
   {
     "Game": "Fuzion Frenzy",
     "Added": "01-Jun"
-  },
-  {
-    "Game": "The Ascent",
-    "Added": "01-Jul"
   },
   {
     "Game": "The Cave",
@@ -1216,14 +1252,6 @@
     "Added": "01-Dec"
   },
   {
-    "Game": "Edge of Eternity",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Marvel's Avengers",
-    "Added": "01-Sep"
-  },
-  {
     "Game": "Gang Beasts",
     "Added": "01-Jul"
   },
@@ -1234,6 +1262,10 @@
   {
     "Game": "Joy Ride Turbo",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Edge of Eternity",
+    "Added": "01-Feb"
   },
   {
     "Game": "Ben 10: Power Trip",
@@ -1369,7 +1401,7 @@
   },
   {
     "Game": "Persona 5: Tactica",
-    "Added": "01-Sep"
+    "Added": "01-Nov"
   },
   {
     "Game": "Cities: Skylines II",
@@ -1377,6 +1409,10 @@
   },
   {
     "Game": "Forza Motorsport (2023)",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "The Lamplighters League",
     "Added": "01-Oct"
   },
   {
@@ -1404,36 +1440,40 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Techtonica (Game Preview)",
-    "Added": "01-Jul"
+    "Game": "Broforce Forever",
+    "Added": "Aug-23"
   },
   {
-    "Game": "Exoprimal",
-    "Added": "01-Jul"
+    "Game": "The Wandering Village",
+    "Added": "Jul-23"
+  },
+  {
+    "Game": "Techtonica (Game Preview)",
+    "Added": "Jul-23"
   },
   {
     "Game": "Common'hood",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Inkulinati (Game Preview)",
-    "Added": "01-Jan"
+    "Added": "Jan-23"
   },
   {
     "Game": "Lapin (Game Preview)",
-    "Added": "01-Nov"
+    "Added": "Nov-22"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "01-Sep"
+    "Added": "Sep-22"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "01-Aug"
+    "Added": "Aug-22"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
