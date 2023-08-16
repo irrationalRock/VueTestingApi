@@ -52,10 +52,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Immortality",
-    "Added": "01-Aug"
-  },
-  {
     "Game": "Crusader Kings III",
     "Added": "01-Sep"
   },
@@ -66,6 +62,10 @@
   {
     "Game": "Gears of War 3",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Immortality",
+    "Added": "01-Aug"
   },
   {
     "Game": "Persona 4: Golden",
@@ -108,11 +108,11 @@
     "Added": "01-Dec"
   },
   {
-    "Game": "Nuclear Throne",
-    "Added": "01-Sep"
+    "Game": "Psychonauts 2",
+    "Added": "01-Aug"
   },
   {
-    "Game": "Psychonauts 2",
+    "Game": "Quake II",
     "Added": "01-Aug"
   },
   {
@@ -129,6 +129,10 @@
   },
   {
     "Game": "Fable II",
+    "Added": "01-Sep"
+  },
+  {
+    "Game": "Nuclear Throne",
     "Added": "01-Sep"
   },
   {
@@ -340,6 +344,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Gris",
+    "Added": "01-Sep"
+  },
+  {
     "Game": "Darkest Dungeon",
     "Added": "01-Feb"
   },
@@ -390,6 +398,10 @@
   {
     "Game": "Halo: Infinite",
     "Added": "01-Dec"
+  },
+  {
+    "Game": "Firewatch",
+    "Added": "01-Aug"
   },
   {
     "Game": "SOMA",
@@ -972,10 +984,6 @@
     "Added": "01-May"
   },
   {
-    "Game": "Midnight Fight Express",
-    "Added": "01-Aug"
-  },
-  {
     "Game": "Figment 2: Creed Valley",
     "Added": "01-Jul"
   },
@@ -1200,10 +1208,6 @@
     "Added": "01-Sep"
   },
   {
-    "Game": "Surgeon Simulator 2: Access All Areas",
-    "Added": "01-Sep"
-  },
-  {
     "Game": "Just Cause 4: Reloaded",
     "Added": "01-May"
   },
@@ -1218,6 +1222,10 @@
   {
     "Game": "Sea of Thieves",
     "Added": "01-Mar"
+  },
+  {
+    "Game": "Surgeon Simulator 2: Access All Areas",
+    "Added": "01-Sep"
   },
   {
     "Game": "The Gunk",
@@ -1262,10 +1270,6 @@
   {
     "Game": "Joy Ride Turbo",
     "Added": "01-Jun"
-  },
-  {
-    "Game": "Edge of Eternity",
-    "Added": "01-Feb"
   },
   {
     "Game": "Ben 10: Power Trip",
@@ -1336,10 +1340,6 @@
     "Added": "01-Sep"
   },
   {
-    "Game": "Commandos 3: HD Remaster",
-    "Added": "01-Aug"
-  },
-  {
     "Game": "Totally Reliable Delivery Service",
     "Added": "01-Apr"
   },
@@ -1350,6 +1350,10 @@
   {
     "Game": "Crackdown 3",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "Commandos 3: HD Remaster",
+    "Added": "01-Aug"
   },
   {
     "Game": "Homestead Arcana",
@@ -1441,39 +1445,39 @@
   },
   {
     "Game": "Broforce Forever",
-    "Added": "Aug-23"
+    "Added": "01-Aug"
   },
   {
     "Game": "The Wandering Village",
-    "Added": "Jul-23"
+    "Added": "01-Jul"
   },
   {
     "Game": "Techtonica (Game Preview)",
-    "Added": "Jul-23"
+    "Added": "01-Jul"
   },
   {
     "Game": "Common'hood",
-    "Added": "Jul-23"
+    "Added": "01-Jul"
   },
   {
     "Game": "Inkulinati (Game Preview)",
-    "Added": "Jan-23"
+    "Added": "01-Jan"
   },
   {
     "Game": "Lapin (Game Preview)",
-    "Added": "Nov-22"
+    "Added": "01-Nov"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "Oct-22"
+    "Added": "01-Oct"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "Sep-22"
+    "Added": "01-Sep"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "Aug-22"
+    "Added": "01-Aug"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
