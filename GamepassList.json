@@ -64,7 +64,7 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Immortality",
+    "Game": "Sea of Stars",
     "Added": "01-Aug"
   },
   {
@@ -129,10 +129,6 @@
   },
   {
     "Game": "Fable II",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Nuclear Throne",
     "Added": "01-Sep"
   },
   {
@@ -344,7 +340,7 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Gris",
+    "Game": "GRIS",
     "Added": "01-Sep"
   },
   {
@@ -980,10 +976,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Black Desert",
-    "Added": "01-May"
-  },
-  {
     "Game": "Figment 2: Creed Valley",
     "Added": "01-Jul"
   },
@@ -1224,10 +1216,6 @@
     "Added": "01-Mar"
   },
   {
-    "Game": "Surgeon Simulator 2: Access All Areas",
-    "Added": "01-Sep"
-  },
-  {
     "Game": "The Gunk",
     "Added": "01-Dec"
   },
@@ -1352,10 +1340,6 @@
     "Added": "01-Feb"
   },
   {
-    "Game": "Commandos 3: HD Remaster",
-    "Added": "01-Aug"
-  },
-  {
     "Game": "Homestead Arcana",
     "Added": "01-Apr"
   },
@@ -1401,11 +1385,15 @@
   },
   {
     "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-    "Added": "01-Dec"
+    "Added": "01-Mar"
   },
   {
     "Game": "Persona 5: Tactica",
     "Added": "01-Nov"
+  },
+  {
+    "Game": "Jusant",
+    "Added": "01-Oct"
   },
   {
     "Game": "Cities: Skylines II",
@@ -1434,10 +1422,6 @@
   {
     "Game": "Starfield",
     "Added": "01-Sep"
-  },
-  {
-    "Game": "Sea of Stars",
-    "Added": "01-Aug"
   },
   {
     "Game": "The Texas Chainsaw Massacre",
@@ -1481,10 +1465,10 @@
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "22-May"
+    "Added": "01-May"
   },
   {
     "Game": "ANVIL: Vault Breaker (Game Preview)",
-    "Added": "21-Dec"
+    "Added": "01-Dec"
   }
 ]
