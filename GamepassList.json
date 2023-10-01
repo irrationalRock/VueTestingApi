@@ -252,7 +252,7 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Death�s Door",
+    "Game": "Death’s Door",
     "Added": "01-Jan"
   },
   {
@@ -286,10 +286,6 @@
   {
     "Game": "Killer Instinct (2013): Definitive Edition",
     "Added": "01-Jul"
-  },
-  {
-    "Game": "Prodeus",
-    "Added": "01-Jun"
   },
   {
     "Game": "HITMAN Trilogy",
@@ -384,7 +380,7 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Viva Pi�ata",
+    "Game": "Viva Piñata",
     "Added": "01-Jun"
   },
   {
@@ -402,10 +398,6 @@
   {
     "Game": "SOMA",
     "Added": "01-Oct"
-  },
-  {
-    "Game": "Beacon Pines",
-    "Added": "01-Sep"
   },
   {
     "Game": "SpiderHeck",
@@ -528,12 +520,16 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Viva Pi�ata: Trouble in Paradise",
+    "Game": "Viva Piñata: Trouble in Paradise",
     "Added": "01-Jun"
   },
   {
     "Game": "Super Mega Baseball 3",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "Lies of P",
+    "Added": "01-Sep"
   },
   {
     "Game": "F.I.S.T.: Forged In Shadow Torch",
@@ -620,6 +616,10 @@
     "Added": "01-May"
   },
   {
+    "Game": "Phoenix Wright: Ace Attorney Trilogy",
+    "Added": "01-Sep"
+  },
+  {
     "Game": "Bramble: The Mountain King",
     "Added": "01-Jun"
   },
@@ -656,10 +656,6 @@
     "Added": "01-Oct"
   },
   {
-    "Game": "Despot�s Game",
-    "Added": "01-Sep"
-  },
-  {
     "Game": "Yakuza Kiwami",
     "Added": "01-Jul"
   },
@@ -694,10 +690,6 @@
   {
     "Game": "Fable III",
     "Added": "01-Jun"
-  },
-  {
-    "Game": "Weird West: Definitive Edition",
-    "Added": "01-Mar"
   },
   {
     "Game": "Shadowrun Trilogy",
@@ -760,10 +752,6 @@
     "Added": "01-Mar"
   },
   {
-    "Game": "PlateUp!",
-    "Added": "01-Oct"
-  },
-  {
     "Game": "Solar Ash",
     "Added": "01-Sep"
   },
@@ -800,10 +788,6 @@
     "Added": "01-May"
   },
   {
-    "Game": "Outriders",
-    "Added": "01-Apr"
-  },
-  {
     "Game": "Yakuza 4: Remastered",
     "Added": "01-Jan"
   },
@@ -826,6 +810,10 @@
   {
     "Game": "For Honor: Marching Fire Edition",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Party Animals",
+    "Added": "01-Sep"
   },
   {
     "Game": "Need for Speed: Unbound",
@@ -894,10 +882,6 @@
   {
     "Game": "Ghostwire: Tokyo",
     "Added": "01-Apr"
-  },
-  {
-    "Game": "Moonscars",
-    "Added": "01-Sep"
   },
   {
     "Game": "Tom Clancy's Ghost Recon: Wildlands",
@@ -1070,6 +1054,10 @@
   {
     "Game": "Minecraft: Dungeons",
     "Added": "01-May"
+  },
+  {
+    "Game": "The Texas Chainsaw Massacre",
+    "Added": "01-Aug"
   },
   {
     "Game": "Massive Chalice",
@@ -1264,6 +1252,10 @@
     "Added": "01-Dec"
   },
   {
+    "Game": "Gotham Knights",
+    "Added": "01-Oct"
+  },
+  {
     "Game": "Ravenlok",
     "Added": "01-May"
   },
@@ -1380,6 +1372,10 @@
     "Added": "01-Apr"
   },
   {
+    "Game": "Eiyuden Chronicle: Hundred Heroes",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "Added": "01-Mar"
   },
@@ -1388,7 +1384,15 @@
     "Added": "01-Nov"
   },
   {
-    "Game": "Headbangers: Rhythm Royal",
+    "Game": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Headbangers: Rhythm Royale",
+    "Added": "01-Oct"
+  },
+  {
+    "Game": "Mineko's Night Market",
     "Added": "01-Oct"
   },
   {
@@ -1410,18 +1414,6 @@
   {
     "Game": "PAYDAY 3",
     "Added": "01-Sep"
-  },
-  {
-    "Game": "Party Animals",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "Lies of P",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "The Texas Chainsaw Massacre",
-    "Added": "01-Aug"
   },
   {
     "Game": "Broforce Forever",
