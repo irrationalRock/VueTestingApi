@@ -276,14 +276,6 @@
     "Added": "Jul-19"
   },
   {
-    "Game": "Ghost Song",
-    "Added": "Nov-22"
-  },
-  {
-    "Game": "Townscaper",
-    "Added": "Dec-21"
-  },
-  {
     "Game": "HITMAN Trilogy",
     "Added": "Jan-22"
   },
@@ -408,10 +400,6 @@
     "Added": "Sep-22"
   },
   {
-    "Game": "Disc Room (2020)",
-    "Added": "Jun-22"
-  },
-  {
     "Game": "Spacelines from the Far Out",
     "Added": "Jun-22"
   },
@@ -456,6 +444,10 @@
     "Added": "Apr-18"
   },
   {
+    "Game": "Disc Room (2020)",
+    "Added": "Jun-22"
+  },
+  {
     "Game": "Dishonored: Death of the Outsider",
     "Added": "Jun-21"
   },
@@ -470,10 +462,6 @@
   {
     "Game": "Stacking",
     "Added": "Jun-23"
-  },
-  {
-    "Game": "Eastward",
-    "Added": "Dec-22"
   },
   {
     "Game": "Chivalry II",
@@ -526,6 +514,10 @@
   {
     "Game": "Viva Piñata: Trouble in Paradise",
     "Added": "Jun-17"
+  },
+  {
+    "Game": "Eastward",
+    "Added": "Dec-22"
   },
   {
     "Game": "Super Mega Baseball 3",
@@ -610,10 +602,6 @@
   {
     "Game": "Perfect Dark Zero",
     "Added": "Jun-17"
-  },
-  {
-    "Game": "Football Manager 2023",
-    "Added": "Nov-22"
   },
   {
     "Game": "This War of Mine: Final Cut",
@@ -706,6 +694,10 @@
   {
     "Game": "DiRT 5",
     "Added": "Feb-21"
+  },
+  {
+    "Game": "Rollerdrome",
+    "Added": "Nov-23"
   },
   {
     "Game": "Wild Hearts",
@@ -980,10 +972,6 @@
     "Added": "Sep-22"
   },
   {
-    "Game": "Coffee Talk",
-    "Added": "Aug-22"
-  },
-  {
     "Game": "Figment 2: Creed Valley",
     "Added": "Jul-23"
   },
@@ -1090,6 +1078,10 @@
   {
     "Game": "Hot Wheels Unleashed: Game of the Year Edition",
     "Added": "Feb-23"
+  },
+  {
+    "Game": "Dune: Spice Wars",
+    "Added": "Nov-22"
   },
   {
     "Game": "Mirror's Edge: Catalyst",
@@ -1364,10 +1356,6 @@
     "Added": "May-20"
   },
   {
-    "Game": "Gungrave G.O.R.E",
-    "Added": "Nov-22"
-  },
-  {
     "Game": "Redfall",
     "Added": "May-23"
   },
@@ -1394,6 +1382,10 @@
   {
     "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "Added": "Mar-24"
+  },
+  {
+    "Game": "SteamWorld Build",
+    "Added": "Dec-23"
   },
   {
     "Game": "Persona 5: Tactica",
@@ -1448,7 +1440,7 @@
     "Added": "Oct-22"
   },
   {
-    "Game": "Coral Island (Game Preview)",
+    "Game": "Coral Island",
     "Added": "Oct-22"
   },
   {
@@ -1466,9 +1458,5 @@
   {
     "Game": "ANVIL: Vault Breaker (Game Preview)",
     "Added": "Dec-21"
-  },
-  {
-    "Game": "Lapin (Game Preview)",
-    "Added": "Nov-22"
   }
 ]
