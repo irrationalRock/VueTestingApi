@@ -28,16 +28,16 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Chained Echoes",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "Microsoft Flight Simulator (2020): Game of the Year Edition",
     "Added": "01-Aug"
   },
   {
     "Game": "Forza Horizon 4",
     "Added": "01-Oct"
+  },
+  {
+    "Game": "Chained Echoes",
+    "Added": "01-Dec"
   },
   {
     "Game": "Forza Horizon 5",
@@ -328,6 +328,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Football Manager 2024",
+    "Added": "01-Nov"
+  },
+  {
     "Game": "Starfield",
     "Added": "01-Sep"
   },
@@ -388,6 +392,10 @@
     "Added": "01-Dec"
   },
   {
+    "Game": "Jusant",
+    "Added": "01-Oct"
+  },
+  {
     "Game": "Firewatch",
     "Added": "01-Aug"
   },
@@ -446,6 +454,10 @@
   {
     "Game": "Dishonored: Death of the Outsider",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Clone Drone in the Danger Zone",
+    "Added": "01-Dec"
   },
   {
     "Game": "A Short Hike",
@@ -608,6 +620,10 @@
     "Added": "01-Nov"
   },
   {
+    "Game": "Thirsty Suitors",
+    "Added": "01-Nov"
+  },
+  {
     "Game": "Wartales",
     "Added": "01-Oct"
   },
@@ -652,7 +668,7 @@
     "Added": "01-Oct"
   },
   {
-    "Game": "Yakuza Kiwami",
+    "Game": "Yakuza i",
     "Added": "01-Jul"
   },
   {
@@ -888,6 +904,14 @@
     "Added": "01-Oct"
   },
   {
+    "Game": "Spirittea",
+    "Added": "01-Nov"
+  },
+  {
+    "Game": "Dungeons 4",
+    "Added": "01-Nov"
+  },
+  {
     "Game": "The Lamplighters League",
     "Added": "01-Oct"
   },
@@ -956,6 +980,10 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "Persona 5: Tactica",
+    "Added": "01-Nov"
+  },
+  {
     "Game": "McPixel 3",
     "Added": "01-Jul"
   },
@@ -976,6 +1004,10 @@
     "Added": "01-Sep"
   },
   {
+    "Game": "Headbangers: Rhythm Royale",
+    "Added": "01-Oct"
+  },
+  {
     "Game": "Figment 2: Creed Valley",
     "Added": "01-Jul"
   },
@@ -990,10 +1022,6 @@
   {
     "Game": "Costume Quest",
     "Added": "01-Oct"
-  },
-  {
-    "Game": "Rubber Bandits",
-    "Added": "01-Dec"
   },
   {
     "Game": "Need for Speed: Heat - Deluxe Edition",
@@ -1012,8 +1040,20 @@
     "Added": "01-Dec"
   },
   {
+    "Game": "Rubber Bandits",
+    "Added": "01-Dec"
+  },
+  {
     "Game": "The Evil Within",
     "Added": "01-Mar"
+  },
+  {
+    "Game": "Far Cry 6",
+    "Added": "01-Dec"
+  },
+  {
+    "Game": "World War Z: Aftermath",
+    "Added": "01-Dec"
   },
   {
     "Game": "Exoprimal",
@@ -1208,6 +1248,10 @@
     "Added": "01-Dec"
   },
   {
+    "Game": "Goat Simulator 3",
+    "Added": "01-Dec"
+  },
+  {
     "Game": "PAYDAY 3",
     "Added": "01-Sep"
   },
@@ -1256,6 +1300,10 @@
     "Added": "01-Dec"
   },
   {
+    "Game": "Tin Hearts",
+    "Added": "01-Dec"
+  },
+  {
     "Game": "Mineko's Night Market",
     "Added": "01-Oct"
   },
@@ -1294,6 +1342,10 @@
   {
     "Game": "Grounded",
     "Added": "01-Jul"
+  },
+  {
+    "Game": "Spirit of the North",
+    "Added": "01-Dec"
   },
   {
     "Game": "Cooking Simulator",
@@ -1388,71 +1440,51 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "Persona 3: Reload",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "While the Iron's Hot",
+    "Added": "01-Dec"
+  },
+  {
     "Game": "SteamWorld Build",
     "Added": "01-Dec"
   },
   {
-    "Game": "Persona 5: Tactica",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Spirittea",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Dungeons 4",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Football Manager 2024",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Thirsty Suitors",
-    "Added": "01-Nov"
-  },
-  {
-    "Game": "Headbangers: Rhythm Royale",
-    "Added": "01-Oct"
-  },
-  {
-    "Game": "Jusant",
-    "Added": "01-Oct"
-  },
-  {
     "Game": "The Wandering Village",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Techtonica (Game Preview)",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Common'hood",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Inkulinati (Game Preview)",
-    "Added": "01-Jan"
+    "Added": "Jan-23"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Coral Island",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "01-Sep"
+    "Added": "Sep-22"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "01-Aug"
+    "Added": "Aug-22"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "01-May"
+    "Added": "May-22"
   }
 ]
