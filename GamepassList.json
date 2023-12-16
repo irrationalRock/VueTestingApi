@@ -36,10 +36,6 @@
     "Added": "01-Oct"
   },
   {
-    "Game": "Chained Echoes",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "Forza Horizon 5",
     "Added": "01-Nov"
   },
@@ -469,6 +465,10 @@
   },
   {
     "Game": "Stacking",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Hypnospace Outlaw",
     "Added": "01-Jun"
   },
   {
@@ -1037,10 +1037,6 @@
   },
   {
     "Game": "Phoenix Point",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Rubber Bandits",
     "Added": "01-Dec"
   },
   {
