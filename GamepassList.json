@@ -36,6 +36,10 @@
     "Added": "01-Nov"
   },
   {
+    "Game": "Resident Evil 2 (2019)",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Celeste",
     "Added": "01-Aug"
   },
@@ -54,10 +58,6 @@
   {
     "Game": "Sea of Stars",
     "Added": "01-Aug"
-  },
-  {
-    "Game": "Persona 4: Golden",
-    "Added": "01-Jan"
   },
   {
     "Game": "Opus: Echo of Starsong - Full Bloom Edition",
@@ -80,11 +80,11 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Hi-Fi RUSH",
+    "Game": "Persona 4: Golden",
     "Added": "01-Jan"
   },
   {
-    "Game": "Persona 3: Portable",
+    "Game": "Hi-Fi RUSH",
     "Added": "01-Jan"
   },
   {
@@ -118,6 +118,10 @@
   {
     "Game": "Fable II",
     "Added": "01-Sep"
+  },
+  {
+    "Game": "Persona 3: Portable",
+    "Added": "01-Jan"
   },
   {
     "Game": "It Takes Two",
@@ -548,10 +552,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "MotoGP 22",
-    "Added": "01-Jul"
-  },
-  {
     "Game": "Escape Academy",
     "Added": "01-Jul"
   },
@@ -608,8 +608,16 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "MotoGP 22",
+    "Added": "01-Jul"
+  },
+  {
     "Game": "This War of Mine: Final Cut",
     "Added": "01-May"
+  },
+  {
+    "Game": "Assassin's Creed Valhalla",
+    "Added": "01-Jan"
   },
   {
     "Game": "Remnant II",
@@ -706,6 +714,14 @@
   {
     "Game": "DiRT 5",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "Super Mega Baseball 4",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Hell Let Loose",
+    "Added": "01-Jan"
   },
   {
     "Game": "Rollerdrome",
@@ -976,6 +992,10 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "Figment",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Persona 5: Tactica",
     "Added": "01-Nov"
   },
@@ -998,6 +1018,10 @@
   {
     "Game": "GRID: Legends",
     "Added": "01-Sep"
+  },
+  {
+    "Game": "SteamWorld Build",
+    "Added": "01-Dec"
   },
   {
     "Game": "Headbangers: Rhythm Royale",
@@ -1184,10 +1208,6 @@
     "Added": "01-Sep"
   },
   {
-    "Game": "Garden Story",
-    "Added": "01-Jul"
-  },
-  {
     "Game": "Trailmakers",
     "Added": "01-Aug"
   },
@@ -1206,6 +1226,10 @@
   {
     "Game": "Fuzion Frenzy",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Garden Story",
+    "Added": "01-Jul"
   },
   {
     "Game": "The Cave",
@@ -1336,6 +1360,10 @@
     "Added": "01-Jul"
   },
   {
+    "Game": "We Happy Few",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Spirit of the North",
     "Added": "01-Dec"
   },
@@ -1358,6 +1386,10 @@
   {
     "Game": "Contrast",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "While the Iron's Hot",
+    "Added": "01-Dec"
   },
   {
     "Game": "Cricket 22",
@@ -1420,6 +1452,10 @@
     "Added": "01-Dec"
   },
   {
+    "Game": "Those Who Remain",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "7 Days to Die (Game Preview)",
     "Added": "01-Apr"
   },
@@ -1436,47 +1472,39 @@
     "Added": "01-Feb"
   },
   {
-    "Game": "While the Iron's Hot",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "SteamWorld Build",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "The Wandering Village",
     "Added": "01-Jul"
   },
   {
     "Game": "Techtonica (Game Preview)",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Common'hood",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Inkulinati (Game Preview)",
-    "Added": "01-Jan"
+    "Added": "Jan-23"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Coral Island",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "01-Sep"
+    "Added": "Sep-22"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "01-Aug"
+    "Added": "Aug-22"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "01-May"
+    "Added": "May-22"
   }
 ]
