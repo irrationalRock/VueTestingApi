@@ -20,6 +20,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Resident Evil 2 (2019)",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Dragon Quest XI S: Echoes of an Elusive Age - Definitive Edition",
     "Added": "01-Oct"
   },
@@ -64,10 +68,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "It Takes Two",
-    "Added": "01-Jul"
-  },
-  {
     "Game": "Paradise Killer",
     "Added": "01-Apr"
   },
@@ -102,10 +102,6 @@
   {
     "Game": "Horizon: Forbidden West",
     "Added": "01-Feb"
-  },
-  {
-    "Game": "Devil May Cry 5: Special Edition",
-    "Added": "01-Jan"
   },
   {
     "Game": "What Remains of Edith Finch",
@@ -206,6 +202,10 @@
   {
     "Game": "UNCHARTED: The Lost Legacy",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Shadow Tactics: Blades of the Shogun",
+    "Added": "01-Jan"
   },
   {
     "Game": "13 Sentinels: Aegis Rim",
@@ -388,6 +388,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Hardspace: Shipbreaker",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Mega Man 11",
     "Added": "01-Dec"
   },
@@ -418,10 +422,6 @@
   {
     "Game": "Tekken 7",
     "Added": "01-Feb"
-  },
-  {
-    "Game": "OMNO",
-    "Added": "01-Jan"
   },
   {
     "Game": "Tom Clancy's The Division 2",
@@ -474,10 +474,6 @@
   {
     "Game": "FAR: Changing Tides",
     "Added": "01-Oct"
-  },
-  {
-    "Game": "Snowrunner",
-    "Added": "01-Jul"
   },
   {
     "Game": "Dodgeball Academia",
@@ -546,6 +542,10 @@
   {
     "Game": "Wolfenstein: The New Order",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "LEGO City Undercover",
+    "Added": "01-Jan"
   },
   {
     "Game": "Teardown",
@@ -704,10 +704,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "The Missing: J.J. Macfield and the Island of Memories",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Thomas Was Alone",
     "Added": "01-Jun"
   },
@@ -718,6 +714,10 @@
   {
     "Game": "Until Dawn",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Tiny Tina's Wonderlands: Next-Level Edition",
+    "Added": "01-Jan"
   },
   {
     "Game": "Metal: Hellsinger",
@@ -897,10 +897,6 @@
   },
   {
     "Game": "Far Cry: Primal",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Pillars of Eternity II: Deadfire - Ultimate Edition",
     "Added": "01-Dec"
   },
   {
@@ -1268,6 +1264,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Just Cause 3",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Moonscars",
     "Added": "01-Dec"
   },
@@ -1396,6 +1396,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Surviving the Aftermath",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Star Ocean: The Divine Force",
     "Added": "01-Sep"
   },
@@ -1512,6 +1516,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Session: Skate Sim",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Gotham Knights",
     "Added": "01-Oct"
   },
@@ -1562,6 +1570,10 @@
   {
     "Game": "ZOMBI",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Vampire: The Masquerade - Swansong",
+    "Added": "01-Jan"
   },
   {
     "Game": "Redout II",
@@ -1676,19 +1688,11 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "JETT: The Far Shore",
-    "Added": "01-Jan"
-  },
-  {
     "Game": "Elex",
     "Added": "01-Jun"
   },
   {
     "Game": "I Am Bread",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Mitsurugi Kamui Hikae",
     "Added": "01-Jun"
   },
   {
@@ -2222,6 +2226,10 @@
   {
     "Game": "Super Puzzle Fighter II Turbo HD Remix",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Street Fighter: 30th Anniversary Collection",
+    "Added": "01-Jan"
   },
   {
     "Game": "Ratchet: Deadlocked",
@@ -2796,6 +2804,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Legend of Mana (2021)",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Star Ocean: The Last Hope - 4K & FHD Remaster",
     "Added": "01-Sep"
   },
@@ -3246,6 +3258,10 @@
   {
     "Game": "White Knight Chronicles: International Edition",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Secret of Mana (2018)",
+    "Added": "01-Jan"
   },
   {
     "Game": "Star Wars Demolition",
@@ -3728,12 +3744,20 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Rally Cross",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Star Wars Episode I: The Phantom Menace",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Jet Moto",
-    "Added": "Nov-23"
+    "Added": "01-Nov"
   },
   {
     "Game": "IQ Final",
-    "Added": "Oct-23"
+    "Added": "01-Oct"
   },
   {
     "Game": "Twisted Metal",
