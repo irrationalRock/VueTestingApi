@@ -264,10 +264,6 @@
     "Added": "01-Jul"
   },
   {
-    "Game": "HITMAN Trilogy",
-    "Added": "01-Jan"
-  },
-  {
     "Game": "Forza Motorsport (2023)",
     "Added": "01-Oct"
   },
@@ -330,10 +326,6 @@
   {
     "Game": "Darkest Dungeon",
     "Added": "01-Feb"
-  },
-  {
-    "Game": "F1 2021",
-    "Added": "01-Mar"
   },
   {
     "Game": "Mortal Kombat 11",
@@ -442,6 +434,10 @@
   {
     "Game": "Dishonored: Death of the Outsider",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "F1 23",
+    "Added": "01-Jan"
   },
   {
     "Game": "Clone Drone in the Danger Zone",
@@ -904,6 +900,10 @@
     "Added": "01-Oct"
   },
   {
+    "Game": "Brotato",
+    "Added": "01-Jan"
+  },
+  {
     "Game": "Spirittea",
     "Added": "01-Nov"
   },
@@ -1174,6 +1174,10 @@
   {
     "Game": "Blinx: The Time Sweeper",
     "Added": "01-Jul"
+  },
+  {
+    "Game": "Anuchard",
+    "Added": "01-Feb"
   },
   {
     "Game": "Serious Sam: Siberian Mayhem",
@@ -1452,8 +1456,28 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "MLB The Show 24",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "A Little to the Left in February",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Persona 3: Reload",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "Go Mecha Ball",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Palworld",
+    "Added": "01-Jan"
+  },
+  {
+    "Game": "Turnip Boy Robs a Bank",
+    "Added": "01-Jan"
   },
   {
     "Game": "The Wandering Village",
@@ -1465,30 +1489,30 @@
   },
   {
     "Game": "Common'hood",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Inkulinati (Game Preview)",
-    "Added": "01-Jan"
+    "Added": "Jan-23"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Coral Island",
-    "Added": "01-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "01-Sep"
+    "Added": "Sep-22"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "01-Aug"
+    "Added": "Aug-22"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "01-May"
+    "Added": "May-22"
   }
 ]
