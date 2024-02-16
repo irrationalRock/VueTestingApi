@@ -60,10 +60,6 @@
     "Added": "01-Aug"
   },
   {
-    "Game": "Opus: Echo of Starsong - Full Bloom Edition",
-    "Added": "01-Aug"
-  },
-  {
     "Game": "Dead Space 2",
     "Added": "01-Nov"
   },
@@ -184,6 +180,10 @@
     "Added": "01-Jan"
   },
   {
+    "Game": "Tales of Arise",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Pentiment",
     "Added": "01-Nov"
   },
@@ -210,6 +210,14 @@
   {
     "Game": "DOOM (2016)",
     "Added": "01-Aug"
+  },
+  {
+    "Game": "Diablo IV",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Rise of the Tomb Raider",
+    "Added": "01-Dec"
   },
   {
     "Game": "Spiritfarer",
@@ -310,6 +318,10 @@
   {
     "Game": "Assassin's Creed: Origins",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Bloodstained: Ritual of the Night",
+    "Added": "01-Feb"
   },
   {
     "Game": "Football Manager 2024",
@@ -434,6 +446,10 @@
   {
     "Game": "Dishonored: Death of the Outsider",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Turnip Boy Robs a Bank",
+    "Added": "01-Jan"
   },
   {
     "Game": "F1 23",
@@ -600,6 +616,10 @@
     "Added": "01-May"
   },
   {
+    "Game": "Train Sim World 4",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Assassin's Creed Valhalla",
     "Added": "01-Jan"
   },
@@ -700,6 +720,14 @@
     "Added": "01-Feb"
   },
   {
+    "Game": "Return to Grace",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Resident Evil 3",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Super Mega Baseball 4",
     "Added": "01-Jan"
   },
@@ -762,38 +790,6 @@
   {
     "Game": "Banjo-Kazooie: Nuts & Bolts",
     "Added": "01-Jun"
-  },
-  {
-    "Game": "Gears of War: Judgment",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Kameo: Elements of Power",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Star Wars Squadrons",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Solar Ash",
-    "Added": "01-Sep"
-  },
-  {
-    "Game": "FIFA 23",
-    "Added": "01-May"
-  },
-  {
-    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
-    "Added": "01-Apr"
-  },
-  {
-    "Game": "The Walking Dead: The Final Season",
-    "Added": "01-Dec"
-  },
-  {
-    "Game": "Warhammer 40,000: Darktide",
-    "Added": "01-Nov"
   },
   {
     "Game": "Let's Build A Zoo",
@@ -1489,30 +1485,30 @@
   },
   {
     "Game": "Common'hood",
-    "Added": "Jul-23"
+    "Added": "23-Jul"
   },
   {
     "Game": "Inkulinati (Game Preview)",
-    "Added": "Jan-23"
+    "Added": "23-Jan"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "Oct-22"
+    "Added": "22-Oct"
   },
   {
     "Game": "Coral Island",
-    "Added": "Oct-22"
+    "Added": "22-Oct"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "Sep-22"
+    "Added": "22-Sep"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "Aug-22"
+    "Added": "22-Aug"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "May-22"
+    "Added": "22-May"
   }
 ]
