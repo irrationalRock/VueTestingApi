@@ -112,6 +112,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Tales of Arise",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Shadowrun: Dragonfall - Director's Cut",
     "Added": "01-Dec"
   },
@@ -166,10 +170,6 @@
   {
     "Game": "Humanity",
     "Added": "01-May"
-  },
-  {
-    "Game": "Resident Evil 7: Biohazard",
-    "Added": "01-Feb"
   },
   {
     "Game": "Dragon Quest Builders 2",
@@ -420,10 +420,6 @@
     "Added": "01-Mar"
   },
   {
-    "Game": "Tekken 7",
-    "Added": "01-Feb"
-  },
-  {
     "Game": "Tom Clancy's The Division 2",
     "Added": "01-Nov"
   },
@@ -544,6 +540,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Assassin's Creed Valhalla",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "LEGO City Undercover",
     "Added": "01-Jan"
   },
@@ -569,10 +569,6 @@
   },
   {
     "Game": "Scarlet Nexus",
-    "Added": "01-Feb"
-  },
-  {
-    "Game": "Ace Combat 7: Skies Unknown",
     "Added": "01-Feb"
   },
   {
@@ -660,10 +656,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Tacoma",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Alienation",
     "Added": "01-Jun"
   },
@@ -673,10 +665,6 @@
   },
   {
     "Game": "Everybody's Golf",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Hue",
     "Added": "01-Jun"
   },
   {
@@ -704,16 +692,16 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Thomas Was Alone",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Trials Fusion",
     "Added": "01-Jun"
   },
   {
     "Game": "Until Dawn",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Roguebook",
+    "Added": "01-Feb"
   },
   {
     "Game": "Tiny Tina's Wonderlands: Next-Level Edition",
@@ -772,10 +760,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Lost Words: Beyond The Page",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Moving Out",
     "Added": "01-Jun"
   },
@@ -802,6 +786,10 @@
   {
     "Game": "World of Final Fantasy",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Need for Speed: Unbound",
+    "Added": "01-Feb"
   },
   {
     "Game": "Tinykin",
@@ -1068,10 +1056,6 @@
     "Added": "01-May"
   },
   {
-    "Game": "I am Setsuna",
-    "Added": "01-Feb"
-  },
-  {
     "Game": "Kingdom Hearts: Melody of Memory",
     "Added": "01-Nov"
   },
@@ -1190,6 +1174,18 @@
   {
     "Game": "The Fisherman: Fishing Planet",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "The Outer Worlds: Spacer's Choice Edition",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Rogue Lords",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Tales of Zestiria",
+    "Added": "01-Feb"
   },
   {
     "Game": "Stranger of Paradise: Final Fantasy Origin",
@@ -1320,6 +1316,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "LEGO Jurassic World",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Nobunaga's Ambition: Taishi",
     "Added": "01-Nov"
   },
@@ -1404,10 +1404,6 @@
     "Added": "01-Sep"
   },
   {
-    "Game": "Oninaki",
-    "Added": "01-Feb"
-  },
-  {
     "Game": "Erica",
     "Added": "01-Jan"
   },
@@ -1478,10 +1474,6 @@
   {
     "Game": "Conan Exiles",
     "Added": "01-May"
-  },
-  {
-    "Game": "Lost Sphear",
-    "Added": "01-Feb"
   },
   {
     "Game": "Human: Fall Flat",
@@ -1570,6 +1562,10 @@
   {
     "Game": "ZOMBI",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "LEGO Worlds",
+    "Added": "01-Feb"
   },
   {
     "Game": "Vampire: The Masquerade - Swansong",
@@ -2056,6 +2052,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Tales of Symphonia: Remastered",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "UNCHARTED: The Nathan Drake Collection",
     "Added": "01-Jun"
   },
@@ -2226,6 +2226,14 @@
   {
     "Game": "Super Puzzle Fighter II Turbo HD Remix",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Resistance: Retribution",
+    "Added": "01-Feb"
+  },
+  {
+    "Game": "Tales of Vesperia: Definitive Edition",
+    "Added": "01-Feb"
   },
   {
     "Game": "Street Fighter: 30th Anniversary Collection",
@@ -3744,6 +3752,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Jet Rider 2",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Rally Cross",
     "Added": "01-Jan"
   },
@@ -3773,15 +3785,15 @@
   },
   {
     "Game": "Wild Arms 2",
-    "Added": "01-Feb"
+    "Added": "Feb-23"
   },
   {
     "Game": "Hot Shots Golf 2",
-    "Added": "01-Jan"
+    "Added": "Jan-23"
   },
   {
     "Game": "Pinball Heroes",
-    "Added": "01-Dec"
+    "Added": "Dec-22"
   },
   {
     "Game": "Ridge Racer 2",
