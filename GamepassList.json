@@ -300,10 +300,6 @@
     "Added": "01-Dec"
   },
   {
-    "Game": "Monster Train",
-    "Added": "01-Dec"
-  },
-  {
     "Game": "The Outer Worlds",
     "Added": "01-Oct"
   },
@@ -446,6 +442,10 @@
   {
     "Game": "Dishonored: Death of the Outsider",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Indivisible",
+    "Added": "01-Feb"
   },
   {
     "Game": "Turnip Boy Robs a Bank",
@@ -1008,6 +1008,10 @@
     "Added": "01-Mar"
   },
   {
+    "Game": "Warhammer 40,000: Boltgun",
+    "Added": "01-Mar"
+  },
+  {
     "Game": "A Little to the Left",
     "Added": "01-Feb"
   },
@@ -1056,10 +1060,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Soul Hackers 2",
-    "Added": "01-Feb"
-  },
-  {
     "Game": "Costume Quest",
     "Added": "01-Oct"
   },
@@ -1082,6 +1082,10 @@
   {
     "Game": "The Evil Within",
     "Added": "01-Mar"
+  },
+  {
+    "Game": "Dead Island 2",
+    "Added": "01-Feb"
   },
   {
     "Game": "PlateUp!",
@@ -1204,12 +1208,12 @@
     "Added": "01-May"
   },
   {
-    "Game": "NARAKA: BLADEPOINT",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Blinx: The Time Sweeper",
     "Added": "01-Jul"
+  },
+  {
+    "Game": "Maneater",
+    "Added": "01-Feb"
   },
   {
     "Game": "Anuchard",
@@ -1286,6 +1290,10 @@
   {
     "Game": "The Gunk",
     "Added": "01-Dec"
+  },
+  {
+    "Game": "Space Engineers",
+    "Added": "01-Feb"
   },
   {
     "Game": "Go Mecha Ball",
@@ -1380,6 +1388,10 @@
     "Added": "01-Nov"
   },
   {
+    "Game": "Madden NFL 24",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "My Friend Peppa Pig",
     "Added": "01-Jul"
   },
@@ -1460,6 +1472,10 @@
     "Added": "01-May"
   },
   {
+    "Game": "Bluey: The Videogame",
+    "Added": "01-Feb"
+  },
+  {
     "Game": "Hello Neighbor 2",
     "Added": "01-Dec"
   },
@@ -1509,27 +1525,27 @@
   },
   {
     "Game": "Persona 3: Reload",
-    "Added": "Feb-24"
+    "Added": "01-Feb"
   },
   {
     "Game": "Palworld (Game Preview)",
-    "Added": "Jan-24"
+    "Added": "01-Jan"
   },
   {
     "Game": "The Wandering Village",
-    "Added": "Jul-23"
+    "Added": "01-Jul"
   },
   {
     "Game": "Techtonica (Game Preview)",
-    "Added": "Jul-23"
+    "Added": "01-Jul"
   },
   {
     "Game": "Common'hood",
-    "Added": "Jul-23"
+    "Added": "01-Jul"
   },
   {
     "Game": "Inkulinati (Game Preview)",
-    "Added": "Jan-23"
+    "Added": "01-Jan"
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
