@@ -792,11 +792,23 @@
     "Added": "01-Feb"
   },
   {
+    "Game": "Banjo-Kazooie: Nuts & Bolts",
+    "Added": "01-Jun"
+  },
+  {
+    "Game": "Gears of War: Judgment",
+    "Added": "01-Jun"
+  },
+  {
     "Game": "Kameo: Elements of Power",
     "Added": "01-Jun"
   },
   {
     "Game": "Star Wars Squadrons",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "MLB The Show 24",
     "Added": "01-Mar"
   },
   {
@@ -1001,6 +1013,10 @@
   },
   {
     "Game": "Wolfenstein: The Old Blood",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "No More Heroes III",
     "Added": "01-Mar"
   },
   {
@@ -1264,10 +1280,6 @@
     "Added": "01-Apr"
   },
   {
-    "Game": "Shredders",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Just Cause 4: Reloaded",
     "Added": "01-May"
   },
@@ -1286,6 +1298,10 @@
   {
     "Game": "The Gunk",
     "Added": "01-Dec"
+  },
+  {
+    "Game": "SpongeBob SquarePants: Battle for Bikini Bottom - Rehydrated",
+    "Added": "01-Mar"
   },
   {
     "Game": "Space Engineers",
@@ -1326,6 +1342,10 @@
   {
     "Game": "Fable Anniversary",
     "Added": "01-Feb"
+  },
+  {
+    "Game": "NBA 2K24",
+    "Added": "01-Mar"
   },
   {
     "Game": "High on Life",
@@ -1504,19 +1524,15 @@
     "Added": "01-Apr"
   },
   {
+    "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "Added": "01-Sep"
+  },
+  {
     "Game": "Eiyuden Chronicle: Hundred Heroes",
     "Added": "01-Apr"
   },
   {
-    "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Lightyear Frontier",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "MLB The Show 24",
     "Added": "01-Mar"
   },
   {
@@ -1545,22 +1561,22 @@
   },
   {
     "Game": "Phantom Abyss (Game Preview)",
-    "Added": "22-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Coral Island",
-    "Added": "22-Oct"
+    "Added": "Oct-22"
   },
   {
     "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "22-Sep"
+    "Added": "Sep-22"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "22-Aug"
+    "Added": "Aug-22"
   },
   {
     "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "22-May"
+    "Added": "May-22"
   }
 ]
