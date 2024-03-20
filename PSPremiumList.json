@@ -124,10 +124,6 @@
     "Added": "01-Sep"
   },
   {
-    "Game": "Sid Meier's Civilization VI",
-    "Added": "01-Sep"
-  },
-  {
     "Game": "Destiny 2: The Witch Queen",
     "Added": "01-Aug"
   },
@@ -256,10 +252,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Outer Wilds",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Resogun",
     "Added": "01-Jun"
   },
@@ -306,6 +298,10 @@
   {
     "Game": "Tom Clancy's The Division",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Marvel's Midnight Suns",
+    "Added": "01-Mar"
   },
   {
     "Game": "NieR Replicant ver.1.22474487139...",
@@ -560,10 +556,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "NEO: The World Ends with You",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "Untitled Goose Game",
     "Added": "01-Mar"
   },
@@ -638,6 +630,14 @@
   {
     "Game": "Valiant Hearts: The Great War",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Resident Evil 3",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "LEGO DC Supervillains",
+    "Added": "01-Mar"
   },
   {
     "Game": "Alien: Isolation",
@@ -718,10 +718,6 @@
   {
     "Game": "Mobile Suit Gundam: Extreme vs. MaxiBoost On",
     "Added": "01-Nov"
-  },
-  {
-    "Game": "Haven",
-    "Added": "01-Mar"
   },
   {
     "Game": "Life Is Strange 2",
@@ -817,10 +813,6 @@
   },
   {
     "Game": "Immortals Fenyx Rising",
-    "Added": "01-Mar"
-  },
-  {
-    "Game": "Tchia",
     "Added": "01-Mar"
   },
   {
@@ -976,10 +968,6 @@
     "Added": "01-May"
   },
   {
-    "Game": "Ghostwire: Tokyo",
-    "Added": "01-Mar"
-  },
-  {
     "Game": "The Gardens Between",
     "Added": "01-Nov"
   },
@@ -1030,6 +1018,10 @@
   {
     "Game": "Zombie Army 4: Dead War",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Mystic Pillars: Remastered",
+    "Added": "01-Mar"
   },
   {
     "Game": "MotoGP 23",
@@ -1456,6 +1448,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "NBA 2K24: Kobe Bryant Edition",
+    "Added": "01-Mar"
+  },
+  {
     "Game": "Outlast 2",
     "Added": "01-Oct"
   },
@@ -1698,6 +1694,14 @@
   {
     "Game": "Surgeon Simulator: Anniversary Edition",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Blood Bowl III",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Super Neptunia RPG",
+    "Added": "01-Mar"
   },
   {
     "Game": "A-Train Express",
@@ -2228,6 +2232,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Phoenix Wright: Ace Attorney Trilogy",
+    "Added": "01-Mar"
+  },
+  {
     "Game": "Resistance: Retribution",
     "Added": "01-Feb"
   },
@@ -2434,6 +2442,10 @@
   {
     "Game": "The Darkness II",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Cool Boarders",
+    "Added": "01-Mar"
   },
   {
     "Game": "Klonoa Phantasy Reverie Series",
@@ -2748,6 +2760,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "JoJos Bizarre Adventure: All-Star Battle R",
+    "Added": "01-Mar"
+  },
+  {
     "Game": "Star Ocean: First Departure R",
     "Added": "01-Sep"
   },
@@ -2902,6 +2918,14 @@
   {
     "Game": "Warlords",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Gods Eater: Burst",
+    "Added": "01-Mar"
+  },
+  {
+    "Game": "Jak and Daxter: The Lost Frontier",
+    "Added": "01-Mar"
   },
   {
     "Game": "Mega Man Legacy Collection 2",
@@ -3773,15 +3797,15 @@
   },
   {
     "Game": "Twisted Metal",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Twisted Metal 2",
-    "Added": "01-Jul"
+    "Added": "Jul-23"
   },
   {
     "Game": "Ape Academy 2",
-    "Added": "01-Mar"
+    "Added": "Mar-23"
   },
   {
     "Game": "Wild Arms 2",
