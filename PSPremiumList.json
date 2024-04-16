@@ -40,6 +40,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Dave the Diver",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Sea of Stars",
     "Added": "01-Aug"
   },
@@ -288,10 +292,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Soulcalibur VI",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Tearaway Unfolded",
     "Added": "01-Jun"
   },
@@ -360,10 +360,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Everspace",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Final Fantasy IX",
     "Added": "01-Jun"
   },
@@ -429,10 +425,6 @@
   },
   {
     "Game": "Age of Wonders: Planetfall",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Chicken Police: Paint it RED!",
     "Added": "01-Jun"
   },
   {
@@ -596,10 +588,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Gunvolt Chronicles: Luminous Avenger iX",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Harvest Moon: Light of Hope - Special Edition",
     "Added": "01-Jun"
   },
@@ -636,7 +624,7 @@
     "Added": "01-Mar"
   },
   {
-    "Game": "LEGO DC Supervillains",
+    "Game": "LEGO DC Super-Villains",
     "Added": "01-Mar"
   },
   {
@@ -698,6 +686,10 @@
   {
     "Game": "Until Dawn",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Construction Simulator",
+    "Added": "01-Apr"
   },
   {
     "Game": "Roguebook",
@@ -1064,10 +1056,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "FIGHTING EX LAYER",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Hotline Miami 2: Wrong Number",
     "Added": "01-Jun"
   },
@@ -1077,10 +1065,6 @@
   },
   {
     "Game": "Matterfall",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "R-Type Final 2",
     "Added": "01-Jun"
   },
   {
@@ -1252,6 +1236,14 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Lego Marvel's Avengers",
+    "Added": "01-Apr"
+  },
+  {
+    "Game": "Oddballers",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Just Cause 3",
     "Added": "01-Jan"
   },
@@ -1384,8 +1376,16 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Warriors All-Stars",
-    "Added": "01-Jun"
+    "Game": "Miasma Chronicles",
+    "Added": "01-Apr"
+  },
+  {
+    "Game": "Deliver Us Mars",
+    "Added": "01-Apr"
+  },
+  {
+    "Game": "Raji: An Ancient Epic",
+    "Added": "01-Apr"
   },
   {
     "Game": "Surviving the Aftermath",
@@ -1492,16 +1492,16 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Nights of Azure",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Space Crew: Legendary Edition",
     "Added": "01-Jun"
   },
   {
     "Game": "Vikings: Wolves of Midgard",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Lego Ninjago Movie Videogame",
+    "Added": "01-Apr"
   },
   {
     "Game": "Session: Skate Sim",
@@ -1608,12 +1608,12 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Nights of Azure 2: Bride of the New Moon",
+    "Game": "The Witch and the Hundred Knight: Revival Edition",
     "Added": "01-Jun"
   },
   {
-    "Game": "The Witch and the Hundred Knight: Revival Edition",
-    "Added": "01-Jun"
+    "Game": "The Crew 2",
+    "Added": "01-Apr"
   },
   {
     "Game": "Cloudpunk",
@@ -1696,6 +1696,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Stray Blade",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Blood Bowl III",
     "Added": "01-Mar"
   },
@@ -1740,10 +1744,6 @@
     "Added": "01-Jun"
   },
   {
-    "Game": "Dangerous Golf",
-    "Added": "01-Jun"
-  },
-  {
     "Game": "Monster Jam Steel Titans 2",
     "Added": "01-Jun"
   },
@@ -1762,6 +1762,10 @@
   {
     "Game": "Risk: Urban Assault",
     "Added": "01-Jun"
+  },
+  {
+    "Game": "Nour: Play With Your Food",
+    "Added": "01-Apr"
   },
   {
     "Game": "Star Ocean: Integrity and Faithlessness",
@@ -1805,10 +1809,6 @@
   },
   {
     "Game": "Fade to Silence",
-    "Added": "01-Jun"
-  },
-  {
-    "Game": "Necromunda: Underhive Wars",
     "Added": "01-Jun"
   },
   {
@@ -1906,6 +1906,14 @@
   {
     "Game": "JUMANJI: The Video Game",
     "Added": "01-Jul"
+  },
+  {
+    "Game": "Animal Well",
+    "Added": "01-May"
+  },
+  {
+    "Game": "Tales of Kenzera: ZAU",
+    "Added": "01-Apr"
   },
   {
     "Game": "Tails Noir",
@@ -3184,6 +3192,10 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Alone in the Dark: The New Nightmare",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Ape Escape: On the Loose",
     "Added": "01-Aug"
   },
@@ -3776,6 +3788,14 @@
     "Added": "01-Jun"
   },
   {
+    "Game": "Star Wars Rebel Assault II: The Hidden Empire",
+    "Added": "01-Apr"
+  },
+  {
+    "Game": "MediEvil",
+    "Added": "01-Apr"
+  },
+  {
     "Game": "Jet Rider 2",
     "Added": "01-Feb"
   },
@@ -3797,7 +3817,7 @@
   },
   {
     "Game": "Twisted Metal",
-    "Added": "Jul-23"
+    "Added": "01-Jul"
   },
   {
     "Game": "Twisted Metal 2",
