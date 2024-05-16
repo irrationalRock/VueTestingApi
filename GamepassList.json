@@ -204,8 +204,8 @@
     "Added": "Aug 2018"
   },
   {
-    "Game": "Norco",
-    "Added": "Mar 2022"
+    "Game": "Humanity",
+    "Added": "May 2024"
   },
   {
     "Game": "Tomb Raider: Definitive Edition",
@@ -264,8 +264,8 @@
     "Added": "Jul 2019"
   },
   {
-    "Game": "Supraland: Six Inches Under",
-    "Added": "May 2023"
+    "Game": "Chants of Sennaar",
+    "Added": "May 2024"
   },
   {
     "Game": "Control: Ultimate Edition",
@@ -306,10 +306,6 @@
   {
     "Game": "Halo: The Master Chief Collection",
     "Added": "Sep 2018"
-  },
-  {
-    "Game": "Fuga: Melodies of Steel 2",
-    "Added": "May 2023"
   },
   {
     "Game": "Assassin's Creed: Origins",
@@ -632,6 +628,10 @@
     "Added": "May 2022"
   },
   {
+    "Game": "Moving Out 2",
+    "Added": "May 2024"
+  },
+  {
     "Game": "Train Sim World 4",
     "Added": "Feb 2024"
   },
@@ -684,7 +684,7 @@
     "Added": "Nov 2022"
   },
   {
-    "Game": "Yakuza i",
+    "Game": "Yakuza Kiwami",
     "Added": "Jul 2022"
   },
   {
@@ -780,10 +780,6 @@
     "Added": "Jul 2023"
   },
   {
-    "Game": "Railway Empire 2",
-    "Added": "May 2023"
-  },
-  {
     "Game": "Jurassic World Evolution 2",
     "Added": "May 2022"
   },
@@ -818,6 +814,10 @@
   {
     "Game": "Kameo: Elements of Power",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "Railway Empire 2",
+    "Added": "May 2023"
   },
   {
     "Game": "Star Wars Squadrons",
@@ -1040,6 +1040,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Lords of the Fallen",
+    "Added": "May 2024"
+  },
+  {
     "Game": "No More Heroes III",
     "Added": "Mar 2024"
   },
@@ -1152,10 +1156,6 @@
     "Added": "Jul 2023"
   },
   {
-    "Game": "JoJo's Bizarre Adventure: All-Star Battle R",
-    "Added": "Jan 2023"
-  },
-  {
     "Game": "Medieval Dynasty",
     "Added": "Jun 2021"
   },
@@ -1178,6 +1178,10 @@
   {
     "Game": "Jetpac Refuelled",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "JoJo's Bizarre Adventure: All-Star Battle R",
+    "Added": "Jan 2023"
   },
   {
     "Game": "Battletoads",
@@ -1224,6 +1228,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "NHL 24",
+    "Added": "Apr 2024"
+  },
+  {
     "Game": "Kona",
     "Added": "Apr 2024"
   },
@@ -1242,14 +1250,6 @@
   {
     "Game": "Blinx: The Time Sweeper",
     "Added": "Jul 2021"
-  },
-  {
-    "Game": "SD Gundam Battle Alliance",
-    "Added": "Feb 2023"
-  },
-  {
-    "Game": "Eiyuden Chronicle: Rising",
-    "Added": "May 2022"
   },
   {
     "Game": "Maneater",
@@ -1304,6 +1304,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Immortals of Aveum",
+    "Added": "May 2024"
+  },
+  {
     "Game": "The Cave",
     "Added": "Jul 2023"
   },
@@ -1322,10 +1326,6 @@
   {
     "Game": "Sea of Thieves",
     "Added": "Mar 2018"
-  },
-  {
-    "Game": "Just Cause 4: Reloaded",
-    "Added": "May 2021"
   },
   {
     "Game": "The Gunk",
@@ -1464,16 +1464,16 @@
     "Added": "Aug 2022"
   },
   {
-    "Game": "Pac-Man Museum+",
-    "Added": "May 2022"
-  },
-  {
     "Game": "Conan Exiles",
     "Added": "May 2021"
   },
   {
     "Game": "The Walking Dead: Michonne",
     "Added": "Mar 2019"
+  },
+  {
+    "Game": "Pac-Man Museum+",
+    "Added": "May 2022"
   },
   {
     "Game": "Contrast",
@@ -1556,6 +1556,18 @@
     "Added": "Jul 2024"
   },
   {
+    "Game": "Rolling Hills: Make Sushi, Make Friends",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Galacticare",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Hauntii",
+    "Added": "May 2024"
+  },
+  {
     "Game": "Senua's Saga: Hellblade II",
     "Added": "May 2024"
   },
@@ -1590,21 +1602,5 @@
   {
     "Game": "Inkulinati (Game Preview)",
     "Added": "Jan 2023"
-  },
-  {
-    "Game": "Coral Island",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "Aug 2022"
-  },
-  {
-    "Game": "Little Witch in the Woods (Game Preview)",
-    "Added": "May 2022"
   }
 ]
