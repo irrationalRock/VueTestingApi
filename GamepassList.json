@@ -264,6 +264,10 @@
     "Added": "Jul 2019"
   },
   {
+    "Game": "Octopath Traveler II",
+    "Added": "Jun 2024"
+  },
+  {
     "Game": "Chants of Sennaar",
     "Added": "May 2024"
   },
@@ -384,6 +388,10 @@
     "Added": "Dec 2021"
   },
   {
+    "Game": "Octopath Traveler",
+    "Added": "Jun 2024"
+  },
+  {
     "Game": "Jusant",
     "Added": "Oct 2023"
   },
@@ -394,10 +402,6 @@
   {
     "Game": "SpiderHeck",
     "Added": "Sep 2022"
-  },
-  {
-    "Game": "Spacelines from the Far Out",
-    "Added": "Jun 2022"
   },
   {
     "Game": "Fortnite",
@@ -470,10 +474,6 @@
   {
     "Game": "A Short Hike",
     "Added": "Aug 2023"
-  },
-  {
-    "Game": "Rune Factory 4: Special",
-    "Added": "Jun 2023"
   },
   {
     "Game": "Stacking",
@@ -658,10 +658,6 @@
   {
     "Game": "Broforce Forever",
     "Added": "Aug 2023"
-  },
-  {
-    "Game": "Bramble: The Mountain King",
-    "Added": "Jun 2023"
   },
   {
     "Game": "Slayers X: Terminal Aftermath - Vengance of the Slayer",
@@ -1296,6 +1292,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "The Callisto Protocol",
+    "Added": "Jun 2024"
+  },
+  {
     "Game": "Immortals of Aveum",
     "Added": "May 2024"
   },
@@ -1372,12 +1372,12 @@
     "Added": "Mar 2024"
   },
   {
-    "Game": "Open Roads",
-    "Added": "Mar 2024"
+    "Game": "Isonzo",
+    "Added": "Jun 2024"
   },
   {
-    "Game": "High on Life",
-    "Added": "Dec 2022"
+    "Game": "Open Roads",
+    "Added": "Mar 2024"
   },
   {
     "Game": "Gang Beasts",
@@ -1536,12 +1536,24 @@
     "Added": "Jan 2024"
   },
   {
+    "Game": "Microsoft Flight Simulator 2024",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Call of Duty: Black Ops 6",
+    "Added": "Oct 2024"
+  },
+  {
     "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
     "Added": "Sep 2024"
   },
   {
     "Game": "Frostpunk 2",
     "Added": "Jul 2024"
+  },
+  {
+    "Game": "Still Wakes the Deep",
+    "Added": "Jun 2024"
   },
   {
     "Game": "Rolling Hills: Make Sushi, Make Friends",
@@ -1590,21 +1602,5 @@
   {
     "Game": "Inkulinati (Game Preview)",
     "Added": "Jan 2023"
-  },
-  {
-    "Game": "Coral Island",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Valheim (Game Preview)",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "Aug 2022"
   }
 ]
