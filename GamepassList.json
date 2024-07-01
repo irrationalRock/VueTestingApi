@@ -448,6 +448,10 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "SteamWorld Dig",
+    "Added": "Jun 2024"
+  },
+  {
     "Game": "Shadow of the Tomb Raider: Definitive Edition",
     "Added": "Apr 2024"
   },
@@ -556,10 +560,6 @@
     "Added": "Sep 2023"
   },
   {
-    "Game": "F.I.S.T.: Forged In Shadow Torch",
-    "Added": "Jun 2023"
-  },
-  {
     "Game": "Everspace 2",
     "Added": "Apr 2023"
   },
@@ -626,6 +626,10 @@
   {
     "Game": "This War of Mine: Final Cut",
     "Added": "May 2022"
+  },
+  {
+    "Game": "My Time at Sandrock",
+    "Added": "Jun 2024"
   },
   {
     "Game": "Moving Out 2",
@@ -1032,6 +1036,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "EA Sports FC 24",
+    "Added": "Jun 2024"
+  },
+  {
     "Game": "Lords of the Fallen",
     "Added": "May 2024"
   },
@@ -1064,16 +1072,16 @@
     "Added": "Feb 2023"
   },
   {
-    "Game": "Stranded Deep",
-    "Added": "Jan 2023"
-  },
-  {
     "Game": "Disney Dreamlight Valley: Founder's Edition",
     "Added": "Sep 2022"
   },
   {
     "Game": "GRID: Legends",
     "Added": "Sep 2022"
+  },
+  {
+    "Game": "Still Wakes the Deep",
+    "Added": "Jun 2024"
   },
   {
     "Game": "SteamWorld Build",
@@ -1141,10 +1149,6 @@
   },
   {
     "Game": "Exoprimal",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Sword and Fairy: Together Forever",
     "Added": "Jul 2023"
   },
   {
@@ -1472,12 +1476,12 @@
     "Added": "Dec 2023"
   },
   {
-    "Game": "Cricket 22",
-    "Added": "Apr 2022"
-  },
-  {
     "Game": "ReCore: Definitive Edition",
     "Added": "Aug 2017"
+  },
+  {
+    "Game": "Cricket 22",
+    "Added": "Apr 2022"
   },
   {
     "Game": "From Space",
@@ -1548,11 +1552,31 @@
     "Added": "Sep 2024"
   },
   {
+    "Game": "Age of Mythology: Retold",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Creatures of Ava",
+    "Added": "Aug 2024"
+  },
+  {
     "Game": "Frostpunk 2",
     "Added": "Jul 2024"
   },
   {
-    "Game": "Still Wakes the Deep",
+    "Game": "Kunitsu-Gami: Path of the Goddess",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Dungeons Of Hinterberg",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Flintlock: The Siege of Dawn",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Robin Hood: Sherwood Builders",
     "Added": "Jun 2024"
   },
   {
@@ -1602,5 +1626,21 @@
   {
     "Game": "Inkulinati (Game Preview)",
     "Added": "Jan 2023"
+  },
+  {
+    "Game": "Coral Island",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "Valheim (Game Preview)",
+    "Added": "Sep 2022"
+  },
+  {
+    "Game": "Slime Rancher 2 (Game Preview)",
+    "Added": "Sep 2022"
+  },
+  {
+    "Game": "Turbo Golf Racing (Game Preview)",
+    "Added": "Aug 2022"
   }
 ]
