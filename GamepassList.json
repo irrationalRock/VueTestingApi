@@ -76,6 +76,10 @@
     "Added": "Jun 2019"
   },
   {
+    "Game": "Neon White",
+    "Added": "Jul 2024"
+  },
+  {
     "Game": "Hi-Fi RUSH",
     "Added": "Jan 2023"
   },
@@ -180,6 +184,10 @@
     "Added": "Feb 2024"
   },
   {
+    "Game": "Persona 3: Reload",
+    "Added": "Feb 2024"
+  },
+  {
     "Game": "Pentiment",
     "Added": "Nov 2022"
   },
@@ -256,7 +264,7 @@
     "Added": "Aug 2020"
   },
   {
-    "Game": "Pillars of Eternity: Complete Edition",
+    "Game": "Pillars of Eternity: Definitive Edition",
     "Added": "Dec 2019"
   },
   {
@@ -314,6 +322,10 @@
   {
     "Game": "Assassin's Creed: Origins",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Case of the Golden Idol",
+    "Added": "Jul 2024"
   },
   {
     "Game": "Botany Manor",
@@ -508,10 +520,6 @@
     "Added": "Nov 2021"
   },
   {
-    "Game": "Tainted Grail: Conquest",
-    "Added": "Sep 2021"
-  },
-  {
     "Game": "Wreckfest",
     "Added": "Feb 2021"
   },
@@ -558,10 +566,6 @@
   {
     "Game": "Lies of P",
     "Added": "Sep 2023"
-  },
-  {
-    "Game": "Everspace 2",
-    "Added": "Apr 2023"
   },
   {
     "Game": "Immortals Fenyx Rising",
@@ -628,11 +632,23 @@
     "Added": "May 2022"
   },
   {
+    "Game": "Robin Hood: Sherwood Builders",
+    "Added": "Jun 2024"
+  },
+  {
     "Game": "My Time at Sandrock",
     "Added": "Jun 2024"
   },
   {
     "Game": "Moving Out 2",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Galacticare",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Senua's Saga: Hellblade II",
     "Added": "May 2024"
   },
   {
@@ -728,6 +744,10 @@
     "Added": "Feb 2021"
   },
   {
+    "Game": "Little Kitty, Big City",
+    "Added": "May 2024"
+  },
+  {
     "Game": "Kona II: Brume",
     "Added": "May 2024"
   },
@@ -776,10 +796,6 @@
     "Added": "Oct 2023"
   },
   {
-    "Game": "TOEM",
-    "Added": "Jul 2023"
-  },
-  {
     "Game": "Jurassic World Evolution 2",
     "Added": "May 2022"
   },
@@ -816,6 +832,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "TOEM",
+    "Added": "Jul 2023"
+  },
+  {
     "Game": "Star Wars Squadrons",
     "Added": "Mar 2021"
   },
@@ -834,10 +854,6 @@
   {
     "Game": "FIFA 23",
     "Added": "May 2023"
-  },
-  {
-    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
-    "Added": "Apr 2023"
   },
   {
     "Game": "The Walking Dead: The Final Season",
@@ -884,8 +900,20 @@
     "Added": "May 2018"
   },
   {
+    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "Added": "Apr 2023"
+  },
+  {
     "Game": "For Honor: Marching Fire Edition",
     "Added": "Jun 2021"
+  },
+  {
+    "Game": "Tchia",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Nickelodeon All-Star Brawl 2",
+    "Added": "Jul 2024"
   },
   {
     "Game": "Orcs Must Die! 3",
@@ -954,6 +982,10 @@
   {
     "Game": "Banjo-Kazooie",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "Journey to the Savage Planet",
+    "Added": "Jul 2024"
   },
   {
     "Game": "EA Sports PGA Tour",
@@ -1028,6 +1060,10 @@
     "Added": "May 2022"
   },
   {
+    "Game": "Everspace 2",
+    "Added": "Oct 2021"
+  },
+  {
     "Game": "Zombie Army 4: Dead War",
     "Added": "Apr 2021"
   },
@@ -1092,10 +1128,6 @@
     "Added": "Oct 2023"
   },
   {
-    "Game": "Figment 2: Creed Valley",
-    "Added": "Jul 2023"
-  },
-  {
     "Game": "Dordogne",
     "Added": "Jun 2023"
   },
@@ -1120,8 +1152,16 @@
     "Added": "Dec 2019"
   },
   {
+    "Game": "Figment 2: Creed Valley",
+    "Added": "Jul 2023"
+  },
+  {
     "Game": "The Evil Within",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "Rolling Hills: Make Sushi, Make Friends",
+    "Added": "Jun 2024"
   },
   {
     "Game": "LEGO 2K Drive",
@@ -1298,6 +1338,10 @@
   {
     "Game": "The Callisto Protocol",
     "Added": "Jun 2024"
+  },
+  {
+    "Game": "Hauntii",
+    "Added": "May 2024"
   },
   {
     "Game": "Immortals of Aveum",
@@ -1480,10 +1524,6 @@
     "Added": "Aug 2017"
   },
   {
-    "Game": "Cricket 22",
-    "Added": "Apr 2022"
-  },
-  {
     "Game": "From Space",
     "Added": "Oct 2023"
   },
@@ -1510,6 +1550,10 @@
   {
     "Game": "Dead by Daylight: Special Edition",
     "Added": "May 2019"
+  },
+  {
+    "Game": "Cricket 24",
+    "Added": "Jul 2024"
   },
   {
     "Game": "Bluey: The Videogame",
@@ -1576,44 +1620,20 @@
     "Added": "Jul 2024"
   },
   {
-    "Game": "Robin Hood: Sherwood Builders",
-    "Added": "Jun 2024"
+    "Game": "Flock",
+    "Added": "Jul 2024"
   },
   {
-    "Game": "Rolling Hills: Make Sushi, Make Friends",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Galacticare",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Hauntii",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Senua's Saga: Hellblade II",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Little Kitty, Big City",
-    "Added": "May 2024"
+    "Game": "Magical Delicacy",
+    "Added": "Jul 2024"
   },
   {
     "Game": "Lightyear Frontier (Game Preview)",
     "Added": "Mar 2024"
   },
   {
-    "Game": "Persona 3: Reload",
-    "Added": "Feb 2024"
-  },
-  {
     "Game": "Palworld (Game Preview)",
     "Added": "Jan 2024"
-  },
-  {
-    "Game": "The Wandering Village",
-    "Added": "Jul 2023"
   },
   {
     "Game": "Techtonica (Game Preview)",
@@ -1642,5 +1662,9 @@
   {
     "Game": "Turbo Golf Racing (Game Preview)",
     "Added": "Aug 2022"
+  },
+  {
+    "Game": "The Wandering Village",
+    "Added": "Jul 2023"
   }
 ]
