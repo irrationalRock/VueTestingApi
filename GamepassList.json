@@ -272,6 +272,10 @@
     "Added": "Jul 2019"
   },
   {
+    "Game": "Core Keeper",
+    "Added": "Aug 2024"
+  },
+  {
     "Game": "Octopath Traveler II",
     "Added": "Jun 2024"
   },
@@ -318,6 +322,10 @@
   {
     "Game": "Assassin's Creed: Origins",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Age of Mythology: Retold",
+    "Added": "Sep 2024"
   },
   {
     "Game": "Magical Delicacy",
@@ -412,10 +420,6 @@
     "Added": "Aug 2023"
   },
   {
-    "Game": "SpiderHeck",
-    "Added": "Sep 2022"
-  },
-  {
     "Game": "Fortnite",
     "Added": "May 2022"
   },
@@ -456,7 +460,7 @@
     "Added": "Jun 2021"
   },
   {
-    "Game": "DOOM + DOOM II",
+    "Game": "DOOM + DOOM II: Enhanced",
     "Added": "Aug 2024"
   },
   {
@@ -844,10 +848,6 @@
     "Added": "Sep 2023"
   },
   {
-    "Game": "FIFA 23",
-    "Added": "May 2023"
-  },
-  {
     "Game": "The Walking Dead: The Final Season",
     "Added": "Dec 2022"
   },
@@ -896,6 +896,18 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Train Sim World 5",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Riders Republic",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Expeditions: A MudRunner Game",
+    "Added": "Sep 2024"
+  },
+  {
     "Game": "Tchia",
     "Added": "Jul 2024"
   },
@@ -930,10 +942,6 @@
   {
     "Game": "Frog Detective: The Entire Mystery",
     "Added": "Oct 2022"
-  },
-  {
-    "Game": "You Suck at Parking",
-    "Added": "Sep 2022"
   },
   {
     "Game": "Sniper Elite 5",
@@ -1372,10 +1380,6 @@
     "Added": "Dec 2023"
   },
   {
-    "Game": "PAYDAY 3",
-    "Added": "Sep 2023"
-  },
-  {
     "Game": "House Flipper",
     "Added": "Jun 2022"
   },
@@ -1472,7 +1476,7 @@
     "Added": "Jul 2020"
   },
   {
-    "Game": "Atlas Fallen",
+    "Game": "Atlas Fallen: Reign of Sand",
     "Added": "Aug 2024"
   },
   {
@@ -1584,16 +1588,8 @@
     "Added": "Sep 2024"
   },
   {
-    "Game": "Age of Mythology: Retold",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "Star Trucker",
     "Added": "Sep 2024"
-  },
-  {
-    "Game": "Core Keeper",
-    "Added": "Aug 2024"
   },
   {
     "Game": "Lightyear Frontier (Game Preview)",
@@ -1624,7 +1620,7 @@
     "Added": "Sep 2022"
   },
   {
-    "Game": "Slime Rancher 2 (Game Preview)",
-    "Added": "Sep 2022"
+    "Game": "Turbo Golf Racing (Game Preview)",
+    "Added": "Aug 2022"
   }
 ]
