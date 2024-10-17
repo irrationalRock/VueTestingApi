@@ -472,6 +472,10 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Donut County",
+    "Added": "Oct 2024"
+  },
+  {
     "Game": "DOOM + DOOM II: Enhanced",
     "Added": "Aug 2024"
   },
@@ -760,6 +764,10 @@
     "Added": "Feb 2021"
   },
   {
+    "Game": "Call of Duty: Warzone",
+    "Added": "Oct 2024"
+  },
+  {
     "Game": "Little Kitty, Big City",
     "Added": "May 2024"
   },
@@ -820,10 +828,6 @@
     "Added": "Nov 2020"
   },
   {
-    "Game": "Lonely Mountains: Downhill",
-    "Added": "Oct 2019"
-  },
-  {
     "Game": "Perfect Dark",
     "Added": "Jun 2019"
   },
@@ -844,8 +848,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "F1 Manager 2023",
-    "Added": "Oct 2023"
+    "Game": "Lonely Mountains: Downhill",
+    "Added": "Oct 2019"
   },
   {
     "Game": "Star Wars Squadrons",
@@ -952,10 +956,6 @@
     "Added": "Jun 2023"
   },
   {
-    "Game": "Frog Detective: The Entire Mystery",
-    "Added": "Oct 2022"
-  },
-  {
     "Game": "Sniper Elite 5",
     "Added": "May 2022"
   },
@@ -990,6 +990,10 @@
   {
     "Game": "Banjo-Kazooie",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "Frog Detective: The Entire Mystery",
+    "Added": "Oct 2022"
   },
   {
     "Game": "Trials of Mana (2020)",
@@ -1080,10 +1084,6 @@
     "Added": "Mar 2021"
   },
   {
-    "Game": "Everspace 2",
-    "Added": "Oct 2021"
-  },
-  {
     "Game": "Creatures of Ava",
     "Added": "Aug 2024"
   },
@@ -1148,10 +1148,6 @@
     "Added": "Dec 2023"
   },
   {
-    "Game": "Headbangers: Rhythm Royale",
-    "Added": "Oct 2023"
-  },
-  {
     "Game": "Dordogne",
     "Added": "Jun 2023"
   },
@@ -1174,6 +1170,10 @@
   {
     "Game": "Phoenix Point",
     "Added": "Dec 2019"
+  },
+  {
+    "Game": "Headbangers: Rhythm Royale",
+    "Added": "Oct 2023"
   },
   {
     "Game": "The Evil Within",
@@ -1290,10 +1290,6 @@
   {
     "Game": "Blinx: The Time Sweeper",
     "Added": "Jul 2021"
-  },
-  {
-    "Game": "Scorn",
-    "Added": "Oct 2022"
   },
   {
     "Game": "Maneater",
@@ -1456,10 +1452,6 @@
     "Added": "Dec 2023"
   },
   {
-    "Game": "Mineko's Night Market",
-    "Added": "Oct 2023"
-  },
-  {
     "Game": "Battlefield 2042",
     "Added": "Nov 2022"
   },
@@ -1470,6 +1462,10 @@
   {
     "Game": "The Sims 4: Deluxe Party Edition",
     "Added": "Nov 2020"
+  },
+  {
+    "Game": "Mineko's Night Market",
+    "Added": "Oct 2023"
   },
   {
     "Game": "Madden NFL 24",
@@ -1536,10 +1532,6 @@
     "Added": "Feb 2019"
   },
   {
-    "Game": "From Space",
-    "Added": "Oct 2023"
-  },
-  {
     "Game": "Homestead Arcana",
     "Added": "Apr 2023"
   },
@@ -1553,6 +1545,10 @@
   },
   {
     "Game": "Cricket 24",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Call of Duty: Modern Warfare III",
     "Added": "Jul 2024"
   },
   {
@@ -1604,6 +1600,14 @@
     "Added": "Oct 2024"
   },
   {
+    "Game": "Mechwarrior 5: Clans",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "South Park: The Fractured but Whole",
+    "Added": "Oct 2024"
+  },
+  {
     "Game": "All You Need Is Help",
     "Added": "Sep 2024"
   },
@@ -1624,15 +1628,15 @@
     "Added": "Jul 2023"
   },
   {
-    "Game": "Inkulinati (Game Preview)",
-    "Added": "Jan 2023"
-  },
-  {
     "Game": "Coral Island",
     "Added": "Oct 2022"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
     "Added": "Aug 2022"
+  },
+  {
+    "Game": "Inkulinati (Game Preview)",
+    "Added": "Jan 2023"
   }
 ]
