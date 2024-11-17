@@ -472,6 +472,10 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Spyro Reignited Trilogy",
+    "Added": "Nov 2024"
+  },
+  {
     "Game": "Donut County",
     "Added": "Oct 2024"
   },
@@ -588,10 +592,6 @@
     "Added": "Nov 2023"
   },
   {
-    "Game": "Like a Dragon: Ishin!",
-    "Added": "Oct 2023"
-  },
-  {
     "Game": "Lies of P",
     "Added": "Sep 2023"
   },
@@ -680,6 +680,10 @@
     "Added": "May 2024"
   },
   {
+    "Game": "Galacticare",
+    "Added": "May 2024"
+  },
+  {
     "Game": "Senua's Saga: Hellblade II",
     "Added": "May 2024"
   },
@@ -730,10 +734,6 @@
   {
     "Game": "Far Cry 5",
     "Added": "Jul 2022"
-  },
-  {
-    "Game": "Dicey Dungeons",
-    "Added": "Nov 2021"
   },
   {
     "Game": "Plants vs. Zombies: Garden Warfare 2 - Deluxe Edition",
@@ -805,10 +805,6 @@
   },
   {
     "Game": "Rollerdrome",
-    "Added": "Nov 2023"
-  },
-  {
-    "Game": "Like a Dragon Gaiden: The Man Who Erased His Name",
     "Added": "Nov 2023"
   },
   {
@@ -1012,10 +1008,6 @@
     "Added": "Nov 2023"
   },
   {
-    "Game": "Dungeons 4",
-    "Added": "Nov 2023"
-  },
-  {
     "Game": "The Lamplighters League",
     "Added": "Oct 2023"
   },
@@ -1076,6 +1068,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "South Park: The Fractured but Whole",
+    "Added": "Oct 2024"
+  },
+  {
     "Game": "Creatures of Ava",
     "Added": "Aug 2024"
   },
@@ -1102,10 +1098,6 @@
   {
     "Game": "Figment",
     "Added": "Jan 2024"
-  },
-  {
-    "Game": "Persona 5: Tactica",
-    "Added": "Nov 2023"
   },
   {
     "Game": "McPixel 3",
@@ -1520,10 +1512,6 @@
     "Added": "Apr 2023"
   },
   {
-    "Game": "Goat Simulator",
-    "Added": "Apr 2023"
-  },
-  {
     "Game": "Dead by Daylight: Special Edition",
     "Added": "May 2019"
   },
@@ -1568,6 +1556,10 @@
     "Added": "Jan 2024"
   },
   {
+    "Game": "Atomfall",
+    "Added": "Mar 2025"
+  },
+  {
     "Game": "Indiana Jones and the Great Circle",
     "Added": "Dec 2024"
   },
@@ -1580,15 +1572,19 @@
     "Added": "Nov 2024"
   },
   {
+    "Game": "Goat Simulator Remastered",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Metal Slug: Tactics",
+    "Added": "Nov 2024"
+  },
+  {
     "Game": "Call of Duty: Black Ops 6",
     "Added": "Oct 2024"
   },
   {
     "Game": "Mechwarrior 5: Clans",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "South Park: The Fractured but Whole",
     "Added": "Oct 2024"
   },
   {
@@ -1614,5 +1610,9 @@
   {
     "Game": "Coral Island",
     "Added": "Oct 2022"
+  },
+  {
+    "Game": "Turbo Golf Racing (Game Preview)",
+    "Added": "Aug 2022"
   }
 ]
