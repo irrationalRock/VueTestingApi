@@ -196,7 +196,7 @@
     "Added": "Nov 2022"
   },
   {
-    "Game": "Assassin's Creed: Odyssey",
+    "Game": "Assassin's Creed Odyssey",
     "Added": "Sep 2022"
   },
   {
@@ -220,20 +220,12 @@
     "Added": "May 2024"
   },
   {
-    "Game": "Rise of the Tomb Raider",
-    "Added": "Dec 2023"
-  },
-  {
     "Game": "Spiritfarer",
     "Added": "Sep 2023"
   },
   {
     "Game": "Monster Hunter: Rise",
     "Added": "Jan 2023"
-  },
-  {
-    "Game": "Rainbow Billy: The Curse of the Leviathan",
-    "Added": "Dec 2022"
   },
   {
     "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
@@ -270,6 +262,14 @@
   {
     "Game": "Killer Instinct (2013): Anniversary Edition",
     "Added": "Jul 2019"
+  },
+  {
+    "Game": "Rise of the Tomb Raider",
+    "Added": "Dec 2023"
+  },
+  {
+    "Game": "Rainbow Billy: The Curse of the Leviathan",
+    "Added": "Dec 2022"
   },
   {
     "Game": "Inscryption",
@@ -328,7 +328,7 @@
     "Added": "Sep 2018"
   },
   {
-    "Game": "Assassin's Creed: Origins",
+    "Game": "Assassin's Creed Origins",
     "Added": "Jun 2022"
   },
   {
@@ -420,6 +420,10 @@
     "Added": "Nov 2024"
   },
   {
+    "Game": "Call of Duty: Black Ops 6",
+    "Added": "Oct 2024"
+  },
+  {
     "Game": "Octopath Traveler",
     "Added": "Jun 2024"
   },
@@ -470,10 +474,6 @@
   {
     "Game": "Dishonored: Death of the Outsider",
     "Added": "Jun 2021"
-  },
-  {
-    "Game": "Spyro Reignited Trilogy",
-    "Added": "Nov 2024"
   },
   {
     "Game": "Donut County",
@@ -588,10 +588,6 @@
     "Added": "Apr 2024"
   },
   {
-    "Game": "Remnant: From the Ashes",
-    "Added": "Nov 2023"
-  },
-  {
     "Game": "Lies of P",
     "Added": "Sep 2023"
   },
@@ -662,6 +658,14 @@
   {
     "Game": "Robin Hood: Sherwood Builders",
     "Added": "Jun 2024"
+  },
+  {
+    "Game": "Wildfrost",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "EA Sports WRC",
+    "Added": "Dec 2024"
   },
   {
     "Game": "Crash Bandicoot N. Sane Trilogy",
@@ -764,7 +768,19 @@
     "Added": "Feb 2021"
   },
   {
+    "Game": "Road 96",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Metal Slug: Tactics",
+    "Added": "Nov 2024"
+  },
+  {
     "Game": "Call of Duty: Warzone",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "Mechwarrior 5: Clans",
     "Added": "Oct 2024"
   },
   {
@@ -802,10 +818,6 @@
   {
     "Game": "Hell Let Loose",
     "Added": "Jan 2024"
-  },
-  {
-    "Game": "Rollerdrome",
-    "Added": "Nov 2023"
   },
   {
     "Game": "Wild Hearts",
@@ -848,6 +860,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Microsoft Flight Simulator 2024",
+    "Added": "Nov 2024"
+  },
+  {
     "Game": "The Rewinder",
     "Added": "Apr 2024"
   },
@@ -858,10 +874,6 @@
   {
     "Game": "Solar Ash",
     "Added": "Sep 2023"
-  },
-  {
-    "Game": "The Walking Dead: The Final Season",
-    "Added": "Dec 2022"
   },
   {
     "Game": "Warhammer 40,000: Darktide",
@@ -876,10 +888,6 @@
     "Added": "Jul 2022"
   },
   {
-    "Game": "Humankind",
-    "Added": "Aug 2021"
-  },
-  {
     "Game": "Yakuza 4: Remastered",
     "Added": "Jan 2021"
   },
@@ -892,12 +900,16 @@
     "Added": "Nov 2020"
   },
   {
-    "Game": "Forager",
-    "Added": "Jul 2020"
-  },
-  {
     "Game": "State of Decay 2: Juggernaut Edition",
     "Added": "May 2018"
+  },
+  {
+    "Game": "Humankind",
+    "Added": "Aug 2021"
+  },
+  {
+    "Game": "Forager",
+    "Added": "Jul 2020"
   },
   {
     "Game": "For Honor: Marching Fire Edition",
@@ -932,15 +944,7 @@
     "Added": "Mar 2024"
   },
   {
-    "Game": "Party Animals",
-    "Added": "Sep 2023"
-  },
-  {
     "Game": "Need for Speed: Unbound",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Amnesia: The Bunker",
     "Added": "Jun 2023"
   },
   {
@@ -982,6 +986,18 @@
   {
     "Game": "Banjo-Kazooie",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "Party Animals",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Amnesia: The Bunker",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Carrion",
+    "Added": "Jan 2025"
   },
   {
     "Game": "Trials of Mana (2020)",
@@ -1068,6 +1084,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Aliens: Dark Descent",
+    "Added": "Nov 2024"
+  },
+  {
     "Game": "South Park: The Fractured but Whole",
     "Added": "Oct 2024"
   },
@@ -1100,10 +1120,6 @@
     "Added": "Jan 2024"
   },
   {
-    "Game": "McPixel 3",
-    "Added": "Jul 2023"
-  },
-  {
     "Game": "Mount & Blade II: Bannerlord",
     "Added": "Feb 2023"
   },
@@ -1114,6 +1130,10 @@
   {
     "Game": "GRID: Legends",
     "Added": "Sep 2022"
+  },
+  {
+    "Game": "McPixel 3",
+    "Added": "Jul 2023"
   },
   {
     "Game": "Star Trucker",
@@ -1160,12 +1180,12 @@
     "Added": "Mar 2021"
   },
   {
-    "Game": "Rolling Hills: Make Sushi, Make Friends",
-    "Added": "Jun 2024"
+    "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+    "Added": "Nov 2024"
   },
   {
-    "Game": "LEGO 2K Drive",
-    "Added": "Apr 2024"
+    "Game": "Rolling Hills: Make Sushi, Make Friends",
+    "Added": "Jun 2024"
   },
   {
     "Game": "Evil West",
@@ -1212,6 +1232,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "LEGO 2K Drive",
+    "Added": "Apr 2024"
+  },
+  {
     "Game": "Battletoads",
     "Added": "Aug 2020"
   },
@@ -1226,10 +1250,6 @@
   {
     "Game": "Massive Chalice",
     "Added": "May 2023"
-  },
-  {
-    "Game": "BlazBlue: Cross Tag Battle - Special Edition",
-    "Added": "Apr 2023"
   },
   {
     "Game": "Dune: Spice Wars",
@@ -1248,6 +1268,10 @@
     "Added": "Jun 2019"
   },
   {
+    "Game": "BlazBlue: Cross Tag Battle - Special Edition",
+    "Added": "Apr 2023"
+  },
+  {
     "Game": "NINJA GAIDEN: Master Collection",
     "Added": "Jun 2022"
   },
@@ -1262,10 +1286,6 @@
   {
     "Game": "Kona",
     "Added": "Apr 2024"
-  },
-  {
-    "Game": "Soccer Story",
-    "Added": "Nov 2022"
   },
   {
     "Game": "Blinx: The Time Sweeper",
@@ -1424,14 +1444,6 @@
     "Added": "Apr 2024"
   },
   {
-    "Game": "Close to the Sun",
-    "Added": "Jan 2024"
-  },
-  {
-    "Game": "Tin Hearts",
-    "Added": "Dec 2023"
-  },
-  {
     "Game": "Battlefield 2042",
     "Added": "Nov 2022"
   },
@@ -1442,6 +1454,18 @@
   {
     "Game": "The Sims 4: Deluxe Party Edition",
     "Added": "Nov 2020"
+  },
+  {
+    "Game": "Close to the Sun",
+    "Added": "Jan 2024"
+  },
+  {
+    "Game": "Tin Hearts",
+    "Added": "Dec 2023"
+  },
+  {
+    "Game": "Goat Simulator: Remastered",
+    "Added": "Nov 2024"
   },
   {
     "Game": "Madden NFL 24",
@@ -1468,16 +1492,8 @@
     "Added": "Jan 2024"
   },
   {
-    "Game": "Spirit of the North",
-    "Added": "Dec 2023"
-  },
-  {
     "Game": "Cooking Simulator",
     "Added": "Aug 2022"
-  },
-  {
-    "Game": "Conan Exiles",
-    "Added": "May 2021"
   },
   {
     "Game": "The Walking Dead: Michonne",
@@ -1486,10 +1502,6 @@
   {
     "Game": "Contrast",
     "Added": "Feb 2022"
-  },
-  {
-    "Game": "While the Iron's Hot",
-    "Added": "Dec 2023"
   },
   {
     "Game": "ReCore: Definitive Edition",
@@ -1528,10 +1540,6 @@
     "Added": "Feb 2024"
   },
   {
-    "Game": "Hello Neighbor 2",
-    "Added": "Dec 2022"
-  },
-  {
     "Game": "DayZ",
     "Added": "May 2020"
   },
@@ -1564,28 +1572,8 @@
     "Added": "Dec 2024"
   },
   {
-    "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Microsoft Flight Simulator 2024",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Goat Simulator Remastered",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Metal Slug: Tactics",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Call of Duty: Black Ops 6",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "Mechwarrior 5: Clans",
-    "Added": "Oct 2024"
+    "Game": "Overthrown (Game Preview)",
+    "Added": "Dec 2024"
   },
   {
     "Game": "All You Need Is Help",
@@ -1606,10 +1594,6 @@
   {
     "Game": "Common'hood",
     "Added": "Jul 2023"
-  },
-  {
-    "Game": "Coral Island",
-    "Added": "Oct 2022"
   },
   {
     "Game": "Turbo Golf Racing (Game Preview)",
