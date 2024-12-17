@@ -432,10 +432,6 @@
     "Added": "Jun 2024"
   },
   {
-    "Game": "DREDGE",
-    "Added": "May 2024"
-  },
-  {
     "Game": "Soulcalibur: Broken Destiny",
     "Added": "Oct 2023"
   },
@@ -716,10 +712,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Mega Man Legacy Collection",
-    "Added": "Dec 2023"
-  },
-  {
     "Game": "Blood Omen 2",
     "Added": "Nov 2024"
   },
@@ -792,7 +784,7 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Sky Gunner",
+    "Game": "SkyGunner",
     "Added": "Sep 2024"
   },
   {
@@ -992,10 +984,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Siren",
-    "Added": "Oct 2024"
-  },
-  {
     "Game": "Secret Agent Clank",
     "Added": "Sep 2024"
   },
@@ -1110,10 +1098,6 @@
   {
     "Game": "Mamorukun Curse!",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Mega Man Legacy Collection 2",
-    "Added": "Dec 2023"
   },
   {
     "Game": "Thrillville: Off the Rails",
@@ -1976,7 +1960,7 @@
     "Added": "Apr 2024"
   },
   {
-    "Game": "Jet Rider 2",
+    "Game": "Jet Moto 2",
     "Added": "Feb 2024"
   },
   {
@@ -2396,10 +2380,6 @@
     "Added": "Jul 2024"
   },
   {
-    "Game": "Crime Boss: Rockay City",
-    "Added": "May 2024"
-  },
-  {
     "Game": "Hardspace: Shipbreaker",
     "Added": "Jan 2024"
   },
@@ -2454,10 +2434,6 @@
   {
     "Game": "South Park: The Fractured But Whole",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Mega Man 11",
-    "Added": "Dec 2023"
   },
   {
     "Game": "Like a Dragon: Ishin!",
@@ -2524,8 +2500,8 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "GRIME",
-    "Added": "Dec 2023"
+    "Game": "DREDGE",
+    "Added": "May 2024"
   },
   {
     "Game": "Watch Dogs",
@@ -2608,10 +2584,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Judgment",
-    "Added": "Dec 2022"
-  },
-  {
     "Game": "Road 96",
     "Added": "Sep 2024"
   },
@@ -2676,10 +2648,6 @@
     "Added": "Feb 2024"
   },
   {
-    "Game": "Metal: Hellsinger",
-    "Added": "Dec 2023"
-  },
-  {
     "Game": "Life Is Strange 2",
     "Added": "Mar 2023"
   },
@@ -2718,10 +2686,6 @@
   {
     "Game": "Trackmania Turbo",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Evil Genius 2: World Domination",
-    "Added": "Dec 2022"
   },
   {
     "Game": "Mount & Blade II: Bannerlord",
@@ -2774,10 +2738,6 @@
   {
     "Game": "Surviving Mars",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Tinykin",
-    "Added": "Dec 2023"
   },
   {
     "Game": "Dying Light 2: Stay Human",
@@ -2940,14 +2900,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Prodeus",
-    "Added": "Dec 2023"
-  },
-  {
-    "Game": "Alternate Jake Hunter: Daedalus The Awakening of Golden Jazz",
-    "Added": "Nov 2023"
-  },
-  {
     "Game": "Cat Quest",
     "Added": "May 2024"
   },
@@ -3076,10 +3028,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Gigabash",
-    "Added": "Dec 2023"
-  },
-  {
     "Game": "Wild Card Football",
     "Added": "Sep 2024"
   },
@@ -3104,15 +3052,7 @@
     "Added": "Oct 2023"
   },
   {
-    "Game": "Soulstice",
-    "Added": "Jun 2023"
-  },
-  {
     "Game": "Forager",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Vampire: The Masquerade - Coteries of New York",
     "Added": "Jun 2023"
   },
   {
@@ -3162,10 +3102,6 @@
   {
     "Game": "Vampyr",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Stranger of Paradise: Final Fantasy Origin",
-    "Added": "Dec 2023"
   },
   {
     "Game": "Steep",
@@ -3230,10 +3166,6 @@
   {
     "Game": "Steep",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Moonscars",
-    "Added": "Dec 2023"
   },
   {
     "Game": "Digimon Survive",
@@ -3596,10 +3528,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Dead Island: Definitive Edition",
-    "Added": "Oct 2023"
-  },
-  {
     "Game": "Adventure Time: Pirates of the Enchiridion",
     "Added": "Dec 2022"
   },
@@ -3800,16 +3728,16 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Dead Island: Riptide - Definitive Edition",
-    "Added": "Nov 2023"
-  },
-  {
     "Game": "Yet Another Zombie Defense",
     "Added": "Jun 2022"
   },
   {
     "Game": "Hello Neighbor",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Crime Boss: Rockay City",
+    "Added": "May 2024"
   },
   {
     "Game": "Ben 10",
