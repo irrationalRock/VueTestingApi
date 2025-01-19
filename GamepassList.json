@@ -584,10 +584,6 @@
     "Added": "Aug 2022"
   },
   {
-    "Game": "Escape Academy",
-    "Added": "Jul 2022"
-  },
-  {
     "Game": "Age of Empires IV: Anniversary Edition",
     "Added": "Oct 2021"
   },
@@ -720,10 +716,6 @@
     "Added": "Dec 2022"
   },
   {
-    "Game": "Insurgency: Sandstorm",
-    "Added": "Nov 2022"
-  },
-  {
     "Game": "Yakuza Kiwami",
     "Added": "Jul 2022"
   },
@@ -850,6 +842,10 @@
   {
     "Game": "Star Wars Squadrons",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "EA Sports UFC 5",
+    "Added": "Jan 2025"
   },
   {
     "Game": "Microsoft Flight Simulator 2024",
@@ -1096,10 +1092,6 @@
     "Added": "Feb 2024"
   },
   {
-    "Game": "Figment",
-    "Added": "Jan 2024"
-  },
-  {
     "Game": "Mount & Blade II: Bannerlord",
     "Added": "Feb 2023"
   },
@@ -1182,10 +1174,6 @@
   {
     "Game": "World War Z: Aftermath",
     "Added": "Dec 2023"
-  },
-  {
-    "Game": "Exoprimal",
-    "Added": "Jul 2023"
   },
   {
     "Game": "Medieval Dynasty",
@@ -1520,12 +1508,16 @@
     "Added": "Dec 2021"
   },
   {
-    "Game": "Those Who Remain",
-    "Added": "Jan 2024"
-  },
-  {
     "Game": "Atomfall",
     "Added": "Mar 2025"
+  },
+  {
+    "Game": "Avowed",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "Sniper Elite: Resistance",
+    "Added": "Jan 2025"
   },
   {
     "Game": "Indiana Jones and the Great Circle",
@@ -1549,10 +1541,6 @@
   },
   {
     "Game": "Techtonica (Game Preview)",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Common'hood",
     "Added": "Jul 2023"
   },
   {
