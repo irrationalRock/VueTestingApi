@@ -208,6 +208,10 @@
     "Added": "Aug 2018"
   },
   {
+    "Game": "Indiana Jones and the Great Circle",
+    "Added": "Dec 2024"
+  },
+  {
     "Game": "Humanity",
     "Added": "May 2024"
   },
@@ -226,10 +230,6 @@
   {
     "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Death’s Door",
-    "Added": "Jan 2022"
   },
   {
     "Game": "Skate",
@@ -320,6 +320,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Lonely Mountain: Snow Riders",
+    "Added": "Jan 2025"
+  },
+  {
     "Game": "Age of Mythology: Retold",
     "Added": "Sep 2024"
   },
@@ -354,10 +358,6 @@
   {
     "Game": "GRIS",
     "Added": "Sep 2023"
-  },
-  {
-    "Game": "Darkest Dungeon",
-    "Added": "Feb 2023"
   },
   {
     "Game": "Mortal Kombat 11",
@@ -596,6 +596,10 @@
     "Added": "May 2021"
   },
   {
+    "Game": "Starbound",
+    "Added": "Dec 2020"
+  },
+  {
     "Game": "Battlefield 4: Premium Edition",
     "Added": "Nov 2020"
   },
@@ -694,10 +698,6 @@
   {
     "Game": "Wartales",
     "Added": "Oct 2023"
-  },
-  {
-    "Game": "Broforce Forever",
-    "Added": "Aug 2023"
   },
   {
     "Game": "Slayers X: Terminal Aftermath - Vengance of the Slayer",
@@ -842,6 +842,10 @@
   {
     "Game": "Star Wars Squadrons",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "Shady Part of Me",
+    "Added": "Jan 2025"
   },
   {
     "Game": "EA Sports UFC 5",
@@ -1232,6 +1236,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Far Cry: New Dawn",
+    "Added": "Feb 2025"
+  },
+  {
     "Game": "Flintlock: The Siege of Dawn",
     "Added": "Jul 2024"
   },
@@ -1254,18 +1262,6 @@
   {
     "Game": "Harold Halibut",
     "Added": "Apr 2024"
-  },
-  {
-    "Game": "Anuchard",
-    "Added": "Feb 2024"
-  },
-  {
-    "Game": "Serious Sam: Siberian Mayhem",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Maquette",
-    "Added": "Jul 2023"
   },
   {
     "Game": "Car Mechanic Simulator 2021",
@@ -1412,6 +1408,10 @@
     "Added": "Nov 2020"
   },
   {
+    "Game": "Gigantic: Rampage Edition",
+    "Added": "Jan 2025"
+  },
+  {
     "Game": "Goat Simulator: Remastered",
     "Added": "Nov 2024"
   },
@@ -1508,6 +1508,14 @@
     "Added": "Dec 2021"
   },
   {
+    "Game": "DOOM: The Dark Ages",
+    "Added": "May 2025"
+  },
+  {
+    "Game": "Clair Obscur: Expedition 33",
+    "Added": "Apr 2025"
+  },
+  {
     "Game": "Atomfall",
     "Added": "Mar 2025"
   },
@@ -1516,12 +1524,24 @@
     "Added": "Feb 2025"
   },
   {
+    "Game": "Citizen Sleeper 2: Starward Vector",
+    "Added": "Jan 2025"
+  },
+  {
     "Game": "Sniper Elite: Resistance",
     "Added": "Jan 2025"
   },
   {
-    "Game": "Indiana Jones and the Great Circle",
-    "Added": "Dec 2024"
+    "Game": "Eternal Strands",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Orcs Must Die! Deathtrap",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Ninja Gaiden II: Black",
+    "Added": "Jan 2025"
   },
   {
     "Game": "Overthrown (Game Preview)",
