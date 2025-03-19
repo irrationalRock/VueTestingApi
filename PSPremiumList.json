@@ -1,5 +1,1829 @@
 [
   {
+    "Game": "Grand Theft Auto V",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "God of War: Ragnarök",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Celeste",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Witcher 3: Wild Hunt",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "Undertale",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "Demon's Souls",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Uncharted 4: A Thief's End",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Crusader Kings III",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Bloodborne",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Hollow Knight: Voidheart Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Shadow of the Colossus",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Last of Us: Part I",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Dave the Diver",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Melty Blood: Type Lumina",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "Rayman Legends",
+    "Added": "Sep 2022"
+  },
+  {
+    "Game": "Tetris Effect: Connected",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Disco Elysium: The Final Cut",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "Dreams",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "Paradise Killer",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Final Fantasy VII: Remake Intergrade",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Dead Cells",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Night in the Woods",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Monster Hunter: Rise",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Ratchet and Clank: Rift Apart",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Dishonored 2",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Rise of the Tomb Raider: 20 Year Celebration",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Slay the Spire",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Nioh",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Return to Monkey Island",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "Shadowrun: Dragonfall - Director's Cut",
+    "Added": "Dec 2023"
+  },
+  {
+    "Game": "Odin Sphere: Leifthrasir",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Destiny 2: The Witch Queen",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "Inscryption",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Rogue Legacy 2",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "DOOM: Eternal",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Monster Boy and the Cursed Kingdom",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Wolfenstein II: The New Colossus",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "UNCHARTED: Legacy of Thieves Collection",
+    "Added": "Mar 2023"
+  },
+  {
+    "Game": "Fallout 4",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "XCOM 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Prince of Persia: The Lost Crown",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Bang-On Balls: Chronicles",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Humanity",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Returnal",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Marvel's Spider-Man: Miles Morales",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Batman: Arkham Knight",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Desperados III",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "DOOM (2016)",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "UNCHARTED: The Lost Legacy",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Star Wars Jedi: Survivor",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "A Space for the Unbound",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Far Cry 4",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Shadow Tactics: Blades of the Shogun",
+    "Added": "Jan 2024"
+  },
+  {
+    "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Tomb Raider: Definitive Edition",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "The Forgotten City",
+    "Added": "Feb 2023"
+  },
+  {
+    "Game": "Ys VIII: Lacrimosa of DANA",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Control: Ultimate Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ghost of Tsushima: Director's Cut",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Enter The Gungeon",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Frostpunk",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Mahjong",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Resogun",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ys VIII: Lacrimosa of DANA",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "South Park: The Stick of Truth",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Sayonara Wild Hearts",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "The Sims 4: Island Living",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Overcooked! All You Can Eat",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Football Manager 2024",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Deus Ex: Mankind Divided",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Tearaway Unfolded",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Tom Clancy's The Division",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Stick Fight: The Game",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Two Point Campus",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "GRIS",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "The Plucky Squire",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Pathfinder: Wrath of the Righteous",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Anno 1800",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Sackboy: A Big Adventure",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Assassin's Creed Odyssey",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "Assassin's Creed IV: Black Flag",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Chess Ultra",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Bloodstained: Ritual of the Night",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Children of Morta",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Cities: Skylines",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Towerfall Ascension",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Child of Light",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Legendary Fishing",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Citizen Sleeper",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Chivalry 2",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Cult of the Lamb",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "Watch Dogs 2",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "Remnant II",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Röki",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "This War of Mine: Final Cut",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Two Point Hospital: Jumbo Edition",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "Dishonored: Death of the Outsider",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Tom Clancy's The Division 2",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Death Stranding: Director's Cut",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Marvel's Guardians Of The Galaxy",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Age of Wonders: Planetfall",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Disgaea 5: Alliance of Vengeance",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Last Guardian",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Warhammer Vermintide 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "South Park: The Fractured But Whole",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Syberia: The World Before",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "MORDHAU",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "Like a Dragon: Ishin!",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Far Cry 5",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "The Jackbox Party Pack 9",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Stranded: Alien Dawn",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Shadowrun: Hong Kong - Extended Edition",
+    "Added": "Dec 2023"
+  },
+  {
+    "Game": "FAR: Changing Tides",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "The Elder Scrolls V: Skyrim - Special Edition",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Assassin's Creed Origins",
+    "Added": "Sep 2022"
+  },
+  {
+    "Game": "Ghostrunner",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Observer: System Redux",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Gravity Rush 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "inFAMOUS: Second Son",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Moonlighter",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Oddworld: New 'n' Tasty",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Wolfenstein: The New Order",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Atlas Fallen: Reign Of Sand",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "F.I.S.T.: Forged in Shadow Torch",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "DREDGE",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Watch Dogs",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Assassin's Creed Valhalla",
+    "Added": "Feb 2024"
+  },
+  {
+    "Game": "LEGO City Undercover",
+    "Added": "Jan 2024"
+  },
+  {
+    "Game": "My Friend Peppa Pig",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Lonely Mountains: Downhill",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Untitled Goose Game",
+    "Added": "Mar 2023"
+  },
+  {
+    "Game": "The Pedestrian",
+    "Added": "Dec 2022"
+  },
+  {
+    "Game": "Oddworld: Soulstorm: Enhanced Edition",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Wheel of Fortune (2017)",
+    "Added": "Aug 2022"
+  },
+  {
+    "Game": "Battle Chasers: Nightwar",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Detroit: Become Human",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Harvest Moon: Light of Hope - Special Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Prey",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Prison Architect",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Stellaris",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Trine 4: The Nightmare Prince",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Valiant Hearts: The Great War",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Far Cry 3: Blood Dragon - Classic Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Trials Rising",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Road 96",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Wild Hearts",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "LEGO DC Super-Villains",
+    "Added": "Mar 2024"
+  },
+  {
+    "Game": "Eldest Souls",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "A Hat in Time",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Alienation",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Everybody's Golf",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Little Nightmares",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Terraria",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Until Dawn",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Trials Fusion",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "UFC 5",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Like a Dragon Gaiden: The Man Who Erased His Name",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Jurassic World Evolution 2",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "PHOGS!",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Killer Frequency",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Crisis Core: Final Fantasy VII - Reunion",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Construction Simulator",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Roguebook",
+    "Added": "Feb 2024"
+  },
+  {
+    "Game": "Worms W.M.D",
+    "Added": "Dec 2022"
+  },
+  {
+    "Game": "Concrete Genie: Digital Deluxe Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "11-11 Memories Retold",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Bomber Crew",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Kingdom: New Lands",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Shadow Warrior 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Sniper Elite 4",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Long Dark",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Trackmania Turbo",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "SaGa Frontier: Remastered",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "Orcs Must Die! 3",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Mount & Blade II: Bannerlord",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "DEADCRAFT",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Elite: Dangerous",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "Sniper Elite 5",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "The Ascent",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "Lake",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Sakuna: Of Rice and Ruin",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Immortals Fenyx Rising",
+    "Added": "Mar 2023"
+  },
+  {
+    "Game": "Fury Unleashed",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Hotshot Racing",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Journey to the Savage Planet",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Surviving Mars",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "TopSpin 2K25",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "Coffee Talk",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Dying Light 2: Stay Human",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "MotoGP 24",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Cat Quest II: The Lupus Empire",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Tales of Kenzera: ZAU",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Shadowrun Returns",
+    "Added": "Dec 2023"
+  },
+  {
+    "Game": "The Evil Within 2",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Kena: Bridge of Spirits",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Wolfenstein: The Old Blood",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Riders Republic",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Far Cry: Primal",
+    "Added": "Dec 2022"
+  },
+  {
+    "Game": "Assassin's Creed Syndicate",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "inFAMOUS: First Light",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Surge 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Toukiden 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Tropico 5",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ys IX: Monstrum Nox",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Star Trek: Bridge Crew",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Werewolves Within",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "For Honor",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Starlink: Battle For Atlas",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Chernobylite",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "RIDE 5",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "No More Heroes III",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Deceive Inc.",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Samurai Warriors 5",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "Carto",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Killing Floor 2",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Shadow of the Tomb Raider",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "The Gardens Between",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Earth Defense Force: World Brothers",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Hohokum",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "Scott Pilgrim vs. The World: The Game - Complete Edition",
+    "Added": "Sep 2022"
+  },
+  {
+    "Game": "Bugsnax",
+    "Added": "Aug 2022"
+  },
+  {
+    "Game": "Death Squared",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Deliver Us the Moon",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Dragon Star Varnir",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "For The King",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Little Big Workshop",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Zombie Army 4: Dead War",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Far Cry 3: Classic Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "You Suck at Parking",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "SD Gundam Battle Alliance",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "WRC Generations",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Cat Quest",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Mystic Pillars: Remastered",
+    "Added": "Mar 2024"
+  },
+  {
+    "Game": "Cursed to Golf",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "Hundred Days: Winemaking Simulator",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Rune Factory 4: Special",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Cris Tales",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Aragami",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Hotline Miami 2: Wrong Number",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Infinite Minigolf",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Matterfall",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Rebel Galaxy",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Elder Scrolls Online: Tamriel Unlimited",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Surge",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Arcade Paradise",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Dead Island 2",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "Tour de France 2023",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "Lego Marvel Super Heroes 2",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Salt and Sacrifice",
+    "Added": "Dec 2023"
+  },
+  {
+    "Game": "Call of the Sea",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Far Cry 6",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Tom Clancy's Rainbow Six: Extraction",
+    "Added": "Mar 2023"
+  },
+  {
+    "Game": "Tom Clancy's Rainbow Six Siege",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Maneater",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Bad North",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Killzone Shadow Fall",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "LEGO Batman 3: Beyond Gotham",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Pile Up! Box by Box",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Pure Hold'em World Poker Championship",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Pure Pool",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Dark Pictures Anthology: Little Hope",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Fisherman: Fishing Planet",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Eagle Flight",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Wild Card Football",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "LEGO The Hobbit",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Rogue Lords",
+    "Added": "Feb 2024"
+  },
+  {
+    "Game": "The Dark Pictures Anthology: House of Ashes",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "Forager",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Story of Seasons: Friends of Mineral Town",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Earth Defense Force 5",
+    "Added": "Feb 2023"
+  },
+  {
+    "Game": "Assassin's Creed III: Remastered",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "Assassin's Creed: The Ezio Collection",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Skate",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Dead or Alive 5: Last Round",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Get Even",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Portal Knights",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Tricky Towers",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Vampyr",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Somerville",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "ANNO: Mutationem",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Steep",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Lego Marvel's Avengers",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Oddballers",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Circus Electrique",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "Far Cry: New Dawn",
+    "Added": "Dec 2022"
+  },
+  {
+    "Game": "UNO",
+    "Added": "Aug 2022"
+  },
+  {
+    "Game": "Assassin's Creed Freedom Cry",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Assassin's Creed Rogue: Remastered",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Lawn Mowing Simulator",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Days Gone",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Death end re;Quest",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Rock of Ages 3: Make & Break",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Spitlings",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Transference",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Steep",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Sonic Frontiers",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Biped",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Digimon Survive",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Tom Clancy's Ghost Recon: Wildlands",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "Under The Waves",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "LEGO Jurassic World",
+    "Added": "Feb 2024"
+  },
+  {
+    "Game": "Nobunaga's Ambition: Taishi",
+    "Added": "Nov 2023"
+  },
+  {
+    "Game": "River City Melee Mach!!",
+    "Added": "Nov 2023"
+  },
+  {
+    "Game": "Lawn Mowing Simulator: Landmark Edition",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "Watch Dogs: Legion",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Ben 10: Power Trip",
+    "Added": "Dec 2022"
+  },
+  {
+    "Game": "Gigantosaurus: The Game",
+    "Added": "Dec 2022"
+  },
+  {
+    "Game": "Monopoly Plus",
+    "Added": "Aug 2022"
+  },
+  {
+    "Game": "Assassin's Creed Unity",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Monster Truck Championship",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "AO Tennis 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Megadimension Neptunia VII",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Romance of the Three Kingdoms XIII",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Lego Movie Videogame",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "TRON RUN/r",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Captain Tsubasa: Rise of New Champions",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Rabbids: Party of Legends",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "Clash: Artifacts of Chaos",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "The Dark Pictures Anthology: The Devil in Me",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "LEGO The Incredibles",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Miasma Chronicles",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Deliver Us Mars",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Raji: An Ancient Epic",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Surviving the Aftermath",
+    "Added": "Jan 2024"
+  },
+  {
+    "Game": "Erica",
+    "Added": "Jan 2023"
+  },
+  {
+    "Game": "Earth Defense Force: Iron Rain",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Onee Chanbara Origin",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Assassin's Creed Chronicles: China",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "Assetto Corsa Competizione",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Magicka 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "MediEvil",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Nightmares from the Deep 2: The Siren's Call",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Payday 2: Crimewave Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Stranded Deep",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Dark Pictures Anthology: Man of Medan",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Space Junkies",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ghostbusters: Spirits Unleashed",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "Space Engineers",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Sword Art Online: Hollow Realization",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "Outlast 2",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "Thymesia",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Conan Exiles",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Human: Fall Flat",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Warhammer: Chaosbane - Slayer Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Call of Cthulhu",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Dynasty Warriors 8: Empires",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Entwined",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Space Crew: Legendary Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Vikings: Wolves of Midgard",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Travis Strikes Again: No More Heroes - Complete Edition",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "Lego Ninjago Movie Videogame",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Session: Skate Sim",
+    "Added": "Jan 2024"
+  },
+  {
+    "Game": "Source of Madness",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "World War Z",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "Thief (2014)",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "RAGE 2",
+    "Added": "Mar 2023"
+  },
+  {
+    "Game": "Embr",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Golf with Your Friends",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Grand Ages: Medieval",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Malicious Fallen",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Mudrunner",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Warhammer 40,000: Inquisitor - Martyr",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "ZOMBI",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Mobile Suit Gundam Battle Operation Code Fairy",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Tin Hearts",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "LEGO Worlds",
+    "Added": "Feb 2024"
+  },
+  {
+    "Game": "Vampire: The Masquerade - Swansong",
+    "Added": "Jan 2024"
+  },
+  {
+    "Game": "Redout II",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Shadow of the Beast",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Townsmen: A Kingdom Rebuilt",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Sword Art Online: Last Recollection",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "After Us",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "PAW Patrol The Movie: Adventure City Calls",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Dynasty Warriors 9",
+    "Added": "Jul 2023"
+  },
+  {
+    "Game": "Monopoly Madness",
+    "Added": "Aug 2022"
+  },
+  {
+    "Game": "Earth Defense Force 4.1: The Shadow of New Despair",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Witch and the Hundred Knight: Revival Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Forspoken",
+    "Added": "Dec 2024"
+  },
+  {
+    "Game": "The Crew 2",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Dead by Daylight",
+    "Added": "Aug 2022"
+  },
+  {
+    "Game": "Spirit of the North: Enhanced Edition",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Brawlout",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "NASCAR Heat 5",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Sword Art Online: Fatal Bullet",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "West of Dead",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Hotel Transylvania: Scary-Tale Adventures",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "Wolfenstein: Youngblood",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Assassin's Creed Chronicles: India",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "Empire of Sin",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Touhou Genso Rondo: Bullet Ballet",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Adventure Time: Pirates of the Enchiridion",
+    "Added": "Dec 2022"
+  },
+  {
+    "Game": "Destruction AllStars",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "FIA European Truck Racing Championship",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Omega Quintet",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Naruto to Boruto: Shinobi Striker",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "I Am Bread",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Power Rangers: Battle For The Grid",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Surgeon Simulator: Anniversary Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Firefighting Simulator: The Squad",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "OVERPASS 2",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "Stray Blade",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Blood Bowl III",
+    "Added": "Mar 2024"
+  },
+  {
+    "Game": "Super Neptunia RPG",
+    "Added": "Mar 2024"
+  },
+  {
+    "Game": "A-Train Express",
+    "Added": "Oct 2023"
+  },
+  {
+    "Game": "PJ Masks: Heroes of the Night",
+    "Added": "Aug 2023"
+  },
+  {
+    "Game": "PAW Patrol Mighty Pups Save Adventure Bay",
+    "Added": "Jun 2023"
+  },
+  {
+    "Game": "Bus Simulator 21: Next Stop",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Assassin's Creed Chronicles: Russia",
+    "Added": "Oct 2022"
+  },
+  {
+    "Game": "Alex Kidd in Miracle World DX",
+    "Added": "Sep 2022"
+  },
+  {
+    "Game": "Paw Patrol: On a Roll!",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Bee Simulator",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Rain World",
+    "Added": "May 2023"
+  },
+  {
+    "Game": "Tennis World Tour 2",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Dark Rose Valkyrie",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Risk: Urban Assault",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Hungry Shark World",
+    "Added": "Nov 2024"
+  },
+  {
+    "Game": "Sword Art Online: Alicization Lycoris",
+    "Added": "Aug 2024"
+  },
+  {
+    "Game": "Police Simulator: Patrol Officers",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "Nour: Play With Your Food",
+    "Added": "Apr 2024"
+  },
+  {
+    "Game": "Knack",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Space Hulk: Deathwing - Enhanced Edition",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Technomancer",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Cricket 24",
+    "Added": "Jun 2024"
+  },
+  {
+    "Game": "The LEGO Movie 2 Videogame",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "ReadySet Heroes",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Tom Clancy's Ghost Recon: Breakpoint",
+    "Added": "Nov 2022"
+  },
+  {
+    "Game": "Werewolf: The Apocalypse - Earthblood",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Disaster Report 4 Plus: Summer Memories",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Fade to Silence",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Totally Reliable Delivery Service",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ice Age: Scrat's Nutty Adventure",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Car Mechanic Simulator",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Settlers: New Allies",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Fallout 76",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Overpass",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Trials of The Blood Dragon",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Rabbids Invasion: The Interactive TV Show",
+    "Added": "Sep 2022"
+  },
+  {
+    "Game": "Contra: Rogue Corps",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Rapala Fishing: Pro Series",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Harvest Moon: One World",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Poker Club",
+    "Added": "Jan 2025"
+  },
+  {
+    "Game": "Yet Another Zombie Defense",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Hello Neighbor",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Crime Boss: Rockay City",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Ben 10",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Secret Neighbor",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Bubsy: The Woolies Strike Back",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Harvest Moon: Mad Dash",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Cartoon Network: Battle Crashers",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "JUMANJI: The Video Game",
+    "Added": "Jul 2022"
+  },
+  {
+    "Game": "Lost Records: Bloom & Rage - Tape 1",
+    "Added": "Feb 2025"
+  },
+  {
+    "Game": "Animal Well",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Tails Noir",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Bassmaster Fishing",
+    "Added": "Apr 2023"
+  },
+  {
+    "Game": "Anodyne",
+    "Added": "Apr 2023"
+  },
+  {
     "Game": "THE ELDER SCROLLS IV: OBLIVION",
     "Added": "Jun 2022"
   },
@@ -370,10 +2194,6 @@
   {
     "Game": "LEGO Star Wars II: The Original Trilogy",
     "Added": "Jun 2024"
-  },
-  {
-    "Game": "Phoenix Wright: Ace Attorney Trilogy",
-    "Added": "Mar 2024"
   },
   {
     "Game": "Resistance: Retribution",
@@ -788,6 +2608,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Arcade Paradise VR",
+    "Added": "Mar 2025"
+  },
+  {
     "Game": "SkyGunner",
     "Added": "Sep 2024"
   },
@@ -926,10 +2750,6 @@
   {
     "Game": "Star Wars: The Clone Wars",
     "Added": "Jun 2024"
-  },
-  {
-    "Game": "JoJo's Bizarre Adventure: All-Star Battle R",
-    "Added": "Mar 2024"
   },
   {
     "Game": "Pursuit Force: Extreme Justice",
@@ -1940,6 +3760,18 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Armored Core",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Armored Core: Project Phantasma",
+    "Added": "Mar 2025"
+  },
+  {
+    "Game": "Armored Core: Master of Arena",
+    "Added": "Mar 2025"
+  },
+  {
     "Game": "MediEvil II",
     "Added": "Jan 2025"
   },
@@ -2018,1829 +3850,5 @@
   {
     "Game": "Bentley's Hackpack",
     "Added": "Sep 2022"
-  },
-  {
-    "Game": "Grand Theft Auto V",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "God of War: Ragnarök",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "Celeste",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Witcher 3: Wild Hunt",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "Undertale",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Demon's Souls",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Uncharted 4: A Thief's End",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Crusader Kings III",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Bloodborne",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Hollow Knight: Voidheart Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Shadow of the Colossus",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Last of Us: Part I",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "Dave the Diver",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Melty Blood: Type Lumina",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Rayman Legends",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Tetris Effect: Connected",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Disco Elysium: The Final Cut",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "Dreams",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "Paradise Killer",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Final Fantasy VII: Remake Intergrade",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Dead Cells",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Night in the Woods",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "Monster Hunter: Rise",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Ratchet and Clank: Rift Apart",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Dishonored 2",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Rise of the Tomb Raider: 20 Year Celebration",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Slay the Spire",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Nioh",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Return to Monkey Island",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "Shadowrun: Dragonfall - Director's Cut",
-    "Added": "Dec 2023"
-  },
-  {
-    "Game": "Odin Sphere: Leifthrasir",
-    "Added": "Sep 2023"
-  },
-  {
-    "Game": "Destiny 2: The Witch Queen",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "Inscryption",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Rogue Legacy 2",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "DOOM: Eternal",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Monster Boy and the Cursed Kingdom",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Wolfenstein II: The New Colossus",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "UNCHARTED: Legacy of Thieves Collection",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Fallout 4",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "XCOM 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Humanity",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Returnal",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Marvel's Spider-Man: Miles Morales",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Batman: Arkham Knight",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Desperados III",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "DOOM (2016)",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "UNCHARTED: The Lost Legacy",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Star Wars Jedi: Survivor",
-    "Added": "Feb 2025"
-  },
-  {
-    "Game": "A Space for the Unbound",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Far Cry 4",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Shadow Tactics: Blades of the Shogun",
-    "Added": "Jan 2024"
-  },
-  {
-    "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Tomb Raider: Definitive Edition",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "The Forgotten City",
-    "Added": "Feb 2023"
-  },
-  {
-    "Game": "Ys VIII: Lacrimosa of DANA",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Control: Ultimate Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Ghost of Tsushima: Director's Cut",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Enter The Gungeon",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Frostpunk",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Mahjong",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Resogun",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Ys VIII: Lacrimosa of DANA",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "South Park: The Stick of Truth",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Sayonara Wild Hearts",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "The Sims 4: Island Living",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Overcooked! All You Can Eat",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Football Manager 2024",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Deus Ex: Mankind Divided",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Tearaway Unfolded",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Tom Clancy's The Division",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Stick Fight: The Game",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Two Point Campus",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "GRIS",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "The Plucky Squire",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "Pathfinder: Wrath of the Righteous",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Anno 1800",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Sackboy: A Big Adventure",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Assassin's Creed Odyssey",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Assassin's Creed IV: Black Flag",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Mortal Kombat 11",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Chess Ultra",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Bloodstained: Ritual of the Night",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Children of Morta",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Cities: Skylines",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Towerfall Ascension",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Child of Light",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Legendary Fishing",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Citizen Sleeper",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "Chivalry 2",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Cult of the Lamb",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "Watch Dogs 2",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "Remnant II",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Röki",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "This War of Mine: Final Cut",
-    "Added": "Sep 2023"
-  },
-  {
-    "Game": "Two Point Hospital: Jumbo Edition",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "Dishonored: Death of the Outsider",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Street Fighter V: Champion Edition",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Tom Clancy's The Division 2",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Death Stranding: Director's Cut",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Marvel's Guardians Of The Galaxy",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Age of Wonders: Planetfall",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Disgaea 5: Alliance of Vengeance",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Last Guardian",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Warhammer Vermintide 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "South Park: The Fractured But Whole",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "MORDHAU",
-    "Added": "Feb 2025"
-  },
-  {
-    "Game": "Like a Dragon: Ishin!",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Far Cry 5",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "The Jackbox Party Pack 9",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Stranded: Alien Dawn",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Shadowrun: Hong Kong - Extended Edition",
-    "Added": "Dec 2023"
-  },
-  {
-    "Game": "FAR: Changing Tides",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "Life Is Strange: True Colors",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "The Elder Scrolls V: Skyrim - Special Edition",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Assassin's Creed Origins",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Ghostrunner",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Observer: System Redux",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Gravity Rush 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "inFAMOUS: Second Son",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Moonlighter",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Oddworld: New 'n' Tasty",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Wolfenstein: The New Order",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Atlas Fallen: Reign Of Sand",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "F.I.S.T.: Forged in Shadow Torch",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "DREDGE",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Watch Dogs",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Assassin's Creed Valhalla",
-    "Added": "Feb 2024"
-  },
-  {
-    "Game": "LEGO City Undercover",
-    "Added": "Jan 2024"
-  },
-  {
-    "Game": "My Friend Peppa Pig",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Lonely Mountains: Downhill",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Untitled Goose Game",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "The Pedestrian",
-    "Added": "Dec 2022"
-  },
-  {
-    "Game": "Oddworld: Soulstorm: Enhanced Edition",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Wheel of Fortune (2017)",
-    "Added": "Aug 2022"
-  },
-  {
-    "Game": "Battle Chasers: Nightwar",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Detroit: Become Human",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Harvest Moon: Light of Hope - Special Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Prey",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Prison Architect",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Stellaris",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Trine 4: The Nightmare Prince",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Valiant Hearts: The Great War",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Far Cry 3: Blood Dragon - Classic Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Trials Rising",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Road 96",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "Wild Hearts",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "Resident Evil 3",
-    "Added": "Mar 2024"
-  },
-  {
-    "Game": "LEGO DC Super-Villains",
-    "Added": "Mar 2024"
-  },
-  {
-    "Game": "Eldest Souls",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "A Hat in Time",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Alienation",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Everybody's Golf",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Little Nightmares",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Terraria",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Until Dawn",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Trials Fusion",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Like a Dragon Gaiden: The Man Who Erased His Name",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "Jurassic World Evolution 2",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "PHOGS!",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Killer Frequency",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Crisis Core: Final Fantasy VII - Reunion",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Construction Simulator",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Roguebook",
-    "Added": "Feb 2024"
-  },
-  {
-    "Game": "Life Is Strange 2",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Worms W.M.D",
-    "Added": "Dec 2022"
-  },
-  {
-    "Game": "Concrete Genie: Digital Deluxe Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "11-11 Memories Retold",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Bomber Crew",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Kingdom: New Lands",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Shadow Warrior 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Sniper Elite 4",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Long Dark",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Trackmania Turbo",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "SaGa Frontier: Remastered",
-    "Added": "Feb 2025"
-  },
-  {
-    "Game": "Orcs Must Die! 3",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "Mount & Blade II: Bannerlord",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "DEADCRAFT",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Elite: Dangerous",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "Sniper Elite 5",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "The Ascent",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Lake",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Sakuna: Of Rice and Ruin",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Immortals Fenyx Rising",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Fury Unleashed",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Hotshot Racing",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Journey to the Savage Planet",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Surviving Mars",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "TopSpin 2K25",
-    "Added": "Feb 2025"
-  },
-  {
-    "Game": "Coffee Talk",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Dying Light 2: Stay Human",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "MotoGP 24",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Cat Quest II: The Lupus Empire",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Tales of Kenzera: ZAU",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Shadowrun Returns",
-    "Added": "Dec 2023"
-  },
-  {
-    "Game": "The Evil Within 2",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Kena: Bridge of Spirits",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Wolfenstein: The Old Blood",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Riders Republic",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Far Cry: Primal",
-    "Added": "Dec 2022"
-  },
-  {
-    "Game": "Assassin's Creed Syndicate",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "inFAMOUS: First Light",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Surge 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Toukiden 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Tropico 5",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Ys IX: Monstrum Nox",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Star Trek: Bridge Crew",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Werewolves Within",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "For Honor",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Starlink: Battle For Atlas",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Chernobylite",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "RIDE 5",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "No More Heroes III",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Deceive Inc.",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Samurai Warriors 5",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Carto",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Killing Floor 2",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Shadow of the Tomb Raider",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "The Gardens Between",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Earth Defense Force: World Brothers",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Hohokum",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Scott Pilgrim vs. The World: The Game - Complete Edition",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Bugsnax",
-    "Added": "Aug 2022"
-  },
-  {
-    "Game": "Death Squared",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Deliver Us the Moon",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Dragon Star Varnir",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "For The King",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Little Big Workshop",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Zombie Army 4: Dead War",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Far Cry 3: Classic Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "SD Gundam Battle Alliance",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "WRC Generations",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Cat Quest",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Mystic Pillars: Remastered",
-    "Added": "Mar 2024"
-  },
-  {
-    "Game": "Cursed to Golf",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "Hundred Days: Winemaking Simulator",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Rune Factory 4: Special",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Cris Tales",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Aragami",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Hotline Miami 2: Wrong Number",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Infinite Minigolf",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Matterfall",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Rebel Galaxy",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Elder Scrolls Online: Tamriel Unlimited",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Surge",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Dead Island 2",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "Tour de France 2023",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "Lego Marvel Super Heroes 2",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Salt and Sacrifice",
-    "Added": "Dec 2023"
-  },
-  {
-    "Game": "Call of the Sea",
-    "Added": "Sep 2023"
-  },
-  {
-    "Game": "Far Cry 6",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Dragon Ball Z: Kakarot",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Tom Clancy's Rainbow Six: Extraction",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Tom Clancy's Rainbow Six Siege",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Maneater",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Bad North",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Killzone Shadow Fall",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "LEGO Batman 3: Beyond Gotham",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Pile Up! Box by Box",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Pure Hold'em World Poker Championship",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Pure Pool",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Dark Pictures Anthology: Little Hope",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Fisherman: Fishing Planet",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Eagle Flight",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Wild Card Football",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "LEGO The Hobbit",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Rogue Lords",
-    "Added": "Feb 2024"
-  },
-  {
-    "Game": "The Dark Pictures Anthology: House of Ashes",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "Forager",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Story of Seasons: Friends of Mineral Town",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Final Fantasy Type-0 HD",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Earth Defense Force 5",
-    "Added": "Feb 2023"
-  },
-  {
-    "Game": "Assassin's Creed III: Remastered",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Assassin's Creed: The Ezio Collection",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Skate",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Dead or Alive 5: Last Round",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Get Even",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Portal Knights",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Tricky Towers",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Vampyr",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Somerville",
-    "Added": "Feb 2025"
-  },
-  {
-    "Game": "ANNO: Mutationem",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "Steep",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Lego Marvel's Avengers",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Oddballers",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Circus Electrique",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Far Cry: New Dawn",
-    "Added": "Dec 2022"
-  },
-  {
-    "Game": "UNO",
-    "Added": "Aug 2022"
-  },
-  {
-    "Game": "Assassin's Creed Freedom Cry",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Assassin's Creed Rogue: Remastered",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Lawn Mowing Simulator",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Days Gone",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Death end re;Quest",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Rock of Ages 3: Make & Break",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Spitlings",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Transference",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Steep",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Sonic Frontiers",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Biped",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Digimon Survive",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Tom Clancy's Ghost Recon: Wildlands",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "Under The Waves",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "LEGO Jurassic World",
-    "Added": "Feb 2024"
-  },
-  {
-    "Game": "Nobunaga's Ambition: Taishi",
-    "Added": "Nov 2023"
-  },
-  {
-    "Game": "River City Melee Mach!!",
-    "Added": "Nov 2023"
-  },
-  {
-    "Game": "Lawn Mowing Simulator: Landmark Edition",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "Watch Dogs: Legion",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Ben 10: Power Trip",
-    "Added": "Dec 2022"
-  },
-  {
-    "Game": "Gigantosaurus: The Game",
-    "Added": "Dec 2022"
-  },
-  {
-    "Game": "Monopoly Plus",
-    "Added": "Aug 2022"
-  },
-  {
-    "Game": "Assassin's Creed Unity",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Monster Truck Championship",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "AO Tennis 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Megadimension Neptunia VII",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Romance of the Three Kingdoms XIII",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Lego Movie Videogame",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "TRON RUN/r",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Rabbids: Party of Legends",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "Clash: Artifacts of Chaos",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "The Dark Pictures Anthology: The Devil in Me",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "LEGO The Incredibles",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Miasma Chronicles",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Deliver Us Mars",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Raji: An Ancient Epic",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Surviving the Aftermath",
-    "Added": "Jan 2024"
-  },
-  {
-    "Game": "Erica",
-    "Added": "Jan 2023"
-  },
-  {
-    "Game": "Earth Defense Force: Iron Rain",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Onee Chanbara Origin",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Assassin's Creed Chronicles: China",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Assetto Corsa Competizione",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Magicka 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "MediEvil",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Nightmares from the Deep 2: The Siren's Call",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Payday 2: Crimewave Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Stranded Deep",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Dark Pictures Anthology: Man of Medan",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Space Junkies",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Ghostbusters: Spirits Unleashed",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "Space Engineers",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "Sword Art Online: Hollow Realization",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "Monster Energy Supercross - The Official Videogame 6",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Outlast 2",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "Thymesia",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Conan Exiles",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Human: Fall Flat",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Warhammer: Chaosbane - Slayer Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Call of Cthulhu",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Dynasty Warriors 8: Empires",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Entwined",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Space Crew: Legendary Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Vikings: Wolves of Midgard",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Travis Strikes Again: No More Heroes - Complete Edition",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Lego Ninjago Movie Videogame",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Session: Skate Sim",
-    "Added": "Jan 2024"
-  },
-  {
-    "Game": "Source of Madness",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "World War Z",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Thief (2014)",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "RAGE 2",
-    "Added": "Mar 2023"
-  },
-  {
-    "Game": "Embr",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Golf with Your Friends",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Grand Ages: Medieval",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Malicious Fallen",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Mudrunner",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Warhammer 40,000: Inquisitor - Martyr",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "ZOMBI",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Tin Hearts",
-    "Added": "Feb 2025"
-  },
-  {
-    "Game": "LEGO Worlds",
-    "Added": "Feb 2024"
-  },
-  {
-    "Game": "Vampire: The Masquerade - Swansong",
-    "Added": "Jan 2024"
-  },
-  {
-    "Game": "Redout II",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Shadow of the Beast",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Townsmen: A Kingdom Rebuilt",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Sword Art Online: Last Recollection",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "After Us",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "PAW Patrol The Movie: Adventure City Calls",
-    "Added": "Sep 2023"
-  },
-  {
-    "Game": "Dynasty Warriors 9",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "Monopoly Madness",
-    "Added": "Aug 2022"
-  },
-  {
-    "Game": "Earth Defense Force 4.1: The Shadow of New Despair",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Witch and the Hundred Knight: Revival Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Forspoken",
-    "Added": "Dec 2024"
-  },
-  {
-    "Game": "The Crew 2",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Dead by Daylight",
-    "Added": "Aug 2022"
-  },
-  {
-    "Game": "Spirit of the North: Enhanced Edition",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Brawlout",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "NASCAR Heat 5",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Sword Art Online: Fatal Bullet",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "West of Dead",
-    "Added": "Sep 2023"
-  },
-  {
-    "Game": "Hotel Transylvania: Scary-Tale Adventures",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "Wolfenstein: Youngblood",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Assassin's Creed Chronicles: India",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Empire of Sin",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Touhou Genso Rondo: Bullet Ballet",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Adventure Time: Pirates of the Enchiridion",
-    "Added": "Dec 2022"
-  },
-  {
-    "Game": "Destruction AllStars",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "FIA European Truck Racing Championship",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Omega Quintet",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Naruto to Boruto: Shinobi Striker",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "I Am Bread",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Power Rangers: Battle For The Grid",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Surgeon Simulator: Anniversary Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Firefighting Simulator: The Squad",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "OVERPASS 2",
-    "Added": "Oct 2024"
-  },
-  {
-    "Game": "Stray Blade",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Blood Bowl III",
-    "Added": "Mar 2024"
-  },
-  {
-    "Game": "Super Neptunia RPG",
-    "Added": "Mar 2024"
-  },
-  {
-    "Game": "A-Train Express",
-    "Added": "Oct 2023"
-  },
-  {
-    "Game": "PJ Masks: Heroes of the Night",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "PAW Patrol Mighty Pups Save Adventure Bay",
-    "Added": "Jun 2023"
-  },
-  {
-    "Game": "Bus Simulator 21: Next Stop",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Assassin's Creed Chronicles: Russia",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Alex Kidd in Miracle World DX",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Paw Patrol: On a Roll!",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Bee Simulator",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Rain World",
-    "Added": "May 2023"
-  },
-  {
-    "Game": "Tennis World Tour 2",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Dark Rose Valkyrie",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Risk: Urban Assault",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Hungry Shark World",
-    "Added": "Nov 2024"
-  },
-  {
-    "Game": "Sword Art Online: Alicization Lycoris",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "Police Simulator: Patrol Officers",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Nour: Play With Your Food",
-    "Added": "Apr 2024"
-  },
-  {
-    "Game": "Knack",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Space Hulk: Deathwing - Enhanced Edition",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Technomancer",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Cricket 24",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "The LEGO Movie 2 Videogame",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "ReadySet Heroes",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Tom Clancy's Ghost Recon: Breakpoint",
-    "Added": "Nov 2022"
-  },
-  {
-    "Game": "Werewolf: The Apocalypse - Earthblood",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Disaster Report 4 Plus: Summer Memories",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Fade to Silence",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Totally Reliable Delivery Service",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Ice Age: Scrat's Nutty Adventure",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Car Mechanic Simulator",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "The Settlers: New Allies",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Fallout 76",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Overpass",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Trials of The Blood Dragon",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Rabbids Invasion: The Interactive TV Show",
-    "Added": "Sep 2022"
-  },
-  {
-    "Game": "Contra: Rogue Corps",
-    "Added": "Sep 2023"
-  },
-  {
-    "Game": "Rapala Fishing: Pro Series",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Harvest Moon: One World",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Poker Club",
-    "Added": "Jan 2025"
-  },
-  {
-    "Game": "Yet Another Zombie Defense",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Hello Neighbor",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Crime Boss: Rockay City",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Ben 10",
-    "Added": "Sep 2024"
-  },
-  {
-    "Game": "Secret Neighbor",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Bubsy: The Woolies Strike Back",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Harvest Moon: Mad Dash",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "Cartoon Network: Battle Crashers",
-    "Added": "Jun 2022"
-  },
-  {
-    "Game": "JUMANJI: The Video Game",
-    "Added": "Jul 2022"
-  },
-  {
-    "Game": "Lost Records: Bloom & Rage – Tape 1",
-    "Added": "Feb 2025"
-  },
-  {
-    "Game": "Animal Well",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Tails Noir",
-    "Added": "Sep 2023"
-  },
-  {
-    "Game": "Bassmaster Fishing",
-    "Added": "Apr 2023"
-  },
-  {
-    "Game": "Anodyne",
-    "Added": "Apr 2023"
   }
 ]
