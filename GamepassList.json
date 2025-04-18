@@ -1,5 +1,9 @@
 [
   {
+    "Game": "Grand Theft Auto V",
+    "Added": "Apr 2025"
+  },
+  {
     "Game": "GoldenEye 007 (2023)",
     "Added": "Jan 2023"
   },
@@ -10,6 +14,10 @@
   {
     "Game": "The Elder Scrolls IV: Oblivion",
     "Added": "Jul 2018"
+  },
+  {
+    "Game": "Blue Prince",
+    "Added": "Apr 2025"
   },
   {
     "Game": "Inside",
@@ -256,6 +264,10 @@
     "Added": "Jul 2019"
   },
   {
+    "Game": "Far Cry 4",
+    "Added": "Apr 2025"
+  },
+  {
     "Game": "Enter the Gungeon",
     "Added": "Mar 2025"
   },
@@ -386,10 +398,6 @@
   {
     "Game": "Viva Piñata",
     "Added": "Jun 2017"
-  },
-  {
-    "Game": "Botany Manor",
-    "Added": "Apr 2024"
   },
   {
     "Game": "Tunic",
@@ -540,6 +548,10 @@
     "Added": "Feb 2022"
   },
   {
+    "Game": "Anno 1800",
+    "Added": "May 2025"
+  },
+  {
     "Game": "Avowed",
     "Added": "Feb 2025"
   },
@@ -626,6 +638,10 @@
   {
     "Game": "Robin Hood: Sherwood Builders",
     "Added": "Jun 2024"
+  },
+  {
+    "Game": "DREDGE",
+    "Added": "May 2025"
   },
   {
     "Game": "Ninja Gaiden II: Black",
@@ -920,8 +936,12 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Orcs Must Die! 3",
-    "Added": "Apr 2024"
+    "Game": "Crime Scene Cleaner",
+    "Added": "Apr 2025"
+  },
+  {
+    "Game": "Commandos: Origins",
+    "Added": "Apr 2025"
   },
   {
     "Game": "Watch Dogs: Legion",
@@ -1014,6 +1034,10 @@
   {
     "Game": "Wolfenstein: The Old Blood",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "Call of Duty: Modern Warfare II",
+    "Added": "May 2025"
   },
   {
     "Game": "Atomfall",
@@ -1200,10 +1224,6 @@
     "Added": "Jul 2021"
   },
   {
-    "Game": "Kona",
-    "Added": "Apr 2024"
-  },
-  {
     "Game": "Madden NFL 25 (2024)",
     "Added": "Feb 2025"
   },
@@ -1234,10 +1254,6 @@
   {
     "Game": "Fuzion Frenzy",
     "Added": "Jun 2017"
-  },
-  {
-    "Game": "Harold Halibut",
-    "Added": "Apr 2024"
   },
   {
     "Game": "The Callisto Protocol",
@@ -1310,6 +1326,10 @@
   {
     "Game": "Fable Anniversary",
     "Added": "Feb 2018"
+  },
+  {
+    "Game": "SpongeBob SquarePants: The Patrick Star Game",
+    "Added": "Apr 2025"
   },
   {
     "Game": "Isonzo",
@@ -1416,10 +1436,6 @@
     "Added": "Aug 2018"
   },
   {
-    "Game": "Homestead Arcana",
-    "Added": "Apr 2023"
-  },
-  {
     "Game": "Dead by Daylight: Special Edition",
     "Added": "May 2019"
   },
@@ -1472,7 +1488,7 @@
     "Added": "May 2025"
   },
   {
-    "Game": "Towerborne",
+    "Game": "Towerborne (Game Preview)",
     "Added": "Apr 2025"
   },
   {
@@ -1480,11 +1496,7 @@
     "Added": "Apr 2025"
   },
   {
-    "Game": "Blue Prince",
-    "Added": "Apr 2025"
-  },
-  {
-    "Game": "Commandos: Origins",
+    "Game": "Tempopo",
     "Added": "Apr 2025"
   },
   {
@@ -1510,13 +1522,5 @@
   {
     "Game": "Techtonica (Game Preview)",
     "Added": "Jul 2023"
-  },
-  {
-    "Game": "Coral Island",
-    "Added": "Oct 2022"
-  },
-  {
-    "Game": "Turbo Golf Racing (Game Preview)",
-    "Added": "Aug 2022"
   }
 ]
