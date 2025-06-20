@@ -228,6 +228,10 @@
     "Added": "Aug 2018"
   },
   {
+    "Game": "Rise of the Tomb Raider",
+    "Added": "Jul 2025"
+  },
+  {
     "Game": "Warhammer 40,000: Rogue Trader",
     "Added": "Feb 2025"
   },
@@ -480,6 +484,10 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Little Nightmares II",
+    "Added": "Jul 2025"
+  },
+  {
     "Game": "Crypt Custodian",
     "Added": "Jun 2025"
   },
@@ -502,10 +510,6 @@
   {
     "Game": "Dungeons Of Hinterberg",
     "Added": "Jul 2024"
-  },
-  {
-    "Game": "SteamWorld Dig",
-    "Added": "Jun 2024"
   },
   {
     "Game": "Shadow of the Tomb Raider: Definitive Edition",
@@ -568,8 +572,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Hypnospace Outlaw",
-    "Added": "Jun 2023"
+    "Game": "SteamWorld Dig",
+    "Added": "Jun 2024"
   },
   {
     "Game": "Super Mega Baseball 3",
@@ -664,6 +668,10 @@
     "Added": "Jun 2024"
   },
   {
+    "Game": "Volcano Princess",
+    "Added": "Jun 2025"
+  },
+  {
     "Game": "Barbie Project Friendship",
     "Added": "Jun 2025"
   },
@@ -750,10 +758,6 @@
   {
     "Game": "Fable III",
     "Added": "Jun 2017"
-  },
-  {
-    "Game": "My Time at Sandrock",
-    "Added": "Jun 2024"
   },
   {
     "Game": "Shadowrun Trilogy",
@@ -846,6 +850,10 @@
   {
     "Game": "Star Wars Squadrons",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "Rematch",
+    "Added": "Jun 2025"
   },
   {
     "Game": "Baldur's Gate: Enhanced Edition",
@@ -1004,10 +1012,6 @@
     "Added": "Aug 2024"
   },
   {
-    "Game": "Journey to the Savage Planet",
-    "Added": "Jul 2024"
-  },
-  {
     "Game": "EA Sports PGA Tour",
     "Added": "Apr 2024"
   },
@@ -1062,6 +1066,10 @@
   {
     "Game": "Totally Accurate Battle Simulator",
     "Added": "Dec 2019"
+  },
+  {
+    "Game": "Journey to the Savage Planet",
+    "Added": "Jul 2024"
   },
   {
     "Game": "Farming Simulator 22",
@@ -1164,10 +1172,6 @@
     "Added": "Dec 2019"
   },
   {
-    "Game": "Dordogne",
-    "Added": "Jun 2023"
-  },
-  {
     "Game": "The Evil Within",
     "Added": "Mar 2021"
   },
@@ -1210,10 +1214,6 @@
   {
     "Game": "Jetpac Refuelled",
     "Added": "Jun 2017"
-  },
-  {
-    "Game": "Rolling Hills: Make Sushi, Make Friends",
-    "Added": "Jun 2024"
   },
   {
     "Game": "Battletoads",
@@ -1388,10 +1388,6 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Isonzo",
-    "Added": "Jun 2024"
-  },
-  {
     "Game": "Ben 10: Power Trip",
     "Added": "Dec 2021"
   },
@@ -1428,16 +1424,16 @@
     "Added": "Feb 2024"
   },
   {
-    "Game": "My Friend Peppa Pig",
-    "Added": "Jul 2022"
-  },
-  {
     "Game": "PAW Patrol Mighty Pups: Save Adventure Bay",
     "Added": "Dec 2021"
   },
   {
     "Game": "Grounded",
     "Added": "Jul 2020"
+  },
+  {
+    "Game": "My Friend Peppa Pig",
+    "Added": "Jul 2022"
   },
   {
     "Game": "Atlas Fallen: Reign of Sand",
