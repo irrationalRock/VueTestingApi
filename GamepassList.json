@@ -364,14 +364,6 @@
     "Added": "Sep 2024"
   },
   {
-    "Game": "Magical Delicacy",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "The Case of the Golden Idol",
-    "Added": "Jul 2024"
-  },
-  {
     "Game": "Football Manager 2024",
     "Added": "Nov 2023"
   },
@@ -414,6 +406,14 @@
   {
     "Game": "Viva Piñata",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "Magical Delicacy",
+    "Added": "Jul 2024"
+  },
+  {
+    "Game": "The Case of the Golden Idol",
+    "Added": "Jul 2024"
   },
   {
     "Game": "Tunic",
@@ -572,10 +572,6 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "SteamWorld Dig",
-    "Added": "Jun 2024"
-  },
-  {
     "Game": "Super Mega Baseball 3",
     "Added": "Feb 2022"
   },
@@ -664,8 +660,8 @@
     "Added": "May 2022"
   },
   {
-    "Game": "Robin Hood: Sherwood Builders",
-    "Added": "Jun 2024"
+    "Game": "Ultimate Chicken Horse",
+    "Added": "Jul 2025"
   },
   {
     "Game": "Volcano Princess",
@@ -852,6 +848,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Minami Lane",
+    "Added": "Jul 2025"
+  },
+  {
     "Game": "Rematch",
     "Added": "Jun 2025"
   },
@@ -928,10 +928,6 @@
     "Added": "Sep 2024"
   },
   {
-    "Game": "Tchia",
-    "Added": "Jul 2024"
-  },
-  {
     "Game": "Nickelodeon All-Star Brawl 2",
     "Added": "Jul 2024"
   },
@@ -972,6 +968,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Tchia",
+    "Added": "Jul 2024"
+  },
+  {
     "Game": "Crime Scene Cleaner",
     "Added": "Apr 2025"
   },
@@ -1006,10 +1006,6 @@
   {
     "Game": "Trials of Mana (2020)",
     "Added": "Sep 2024"
-  },
-  {
-    "Game": "Mafia: Definitive Edition",
-    "Added": "Aug 2024"
   },
   {
     "Game": "EA Sports PGA Tour",
@@ -1068,8 +1064,8 @@
     "Added": "Dec 2019"
   },
   {
-    "Game": "Journey to the Savage Planet",
-    "Added": "Jul 2024"
+    "Game": "Mafia: Definitive Edition",
+    "Added": "Aug 2024"
   },
   {
     "Game": "Farming Simulator 22",
@@ -1140,10 +1136,6 @@
     "Added": "Sep 2024"
   },
   {
-    "Game": "Flock (2024)",
-    "Added": "Jul 2024"
-  },
-  {
     "Game": "Still Wakes the Deep",
     "Added": "Jun 2024"
   },
@@ -1170,6 +1162,10 @@
   {
     "Game": "Phoenix Point",
     "Added": "Dec 2019"
+  },
+  {
+    "Game": "Flock (2024)",
+    "Added": "Jul 2024"
   },
   {
     "Game": "The Evil Within",
@@ -1304,8 +1300,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "The Callisto Protocol",
-    "Added": "Jun 2024"
+    "Game": "The Ascent",
+    "Added": "Jul 2025"
   },
   {
     "Game": "Immortals of Aveum",
@@ -1330,6 +1326,10 @@
   {
     "Game": "Sea of Thieves",
     "Added": "Mar 2018"
+  },
+  {
+    "Game": "The Callisto Protocol",
+    "Added": "Jun 2024"
   },
   {
     "Game": "The Gunk",
@@ -1370,6 +1370,10 @@
   {
     "Game": "Fable Anniversary",
     "Added": "Feb 2018"
+  },
+  {
+    "Game": "High on Life",
+    "Added": "Jul 2025"
   },
   {
     "Game": "SpongeBob SquarePants: The Patrick Star Game",
@@ -1430,10 +1434,6 @@
   {
     "Game": "Grounded",
     "Added": "Jul 2020"
-  },
-  {
-    "Game": "My Friend Peppa Pig",
-    "Added": "Jul 2022"
   },
   {
     "Game": "Atlas Fallen: Reign of Sand",
@@ -1529,6 +1529,26 @@
   },
   {
     "Game": "Tony Hawk's Pro Skater 3 + 4",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Cosmic Commuter",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Heart of China",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Skiing",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Solar Storm",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Subterranea",
     "Added": "Jul 2025"
   },
   {
