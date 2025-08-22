@@ -28,10 +28,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "The Witcher 3: Wild Hunt",
-    "Added": "Aug 2024"
-  },
-  {
     "Game": "Crusader Kings III",
     "Added": "Jun 2024"
   },
@@ -84,12 +80,12 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Battlefield 1",
-    "Added": "Apr 2025"
+    "Game": "Abiotic Factor",
+    "Added": "Jul 2025"
   },
   {
-    "Game": "Night in the Woods",
-    "Added": "Sep 2024"
+    "Game": "Battlefield 1",
+    "Added": "Apr 2025"
   },
   {
     "Game": "Ratchet and Clank: Rift Apart",
@@ -108,16 +104,20 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Night in the Woods",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Marvel's Spider-Man",
+    "Added": "Aug 2025"
+  },
+  {
     "Game": "Return to Monkey Island",
     "Added": "Oct 2024"
   },
   {
     "Game": "Shadowrun: Dragonfall - Director's Cut",
     "Added": "Dec 2023"
-  },
-  {
-    "Game": "Odin Sphere: Leifthrasir",
-    "Added": "Sep 2023"
   },
   {
     "Game": "Destiny 2: The Witch Queen",
@@ -146,6 +146,14 @@
   {
     "Game": "XCOM 2",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Odin Sphere: Leifthrasir",
+    "Added": "Sep 2023"
+  },
+  {
+    "Game": "Unicorn Overlord",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Cyberpunk 2077",
@@ -244,10 +252,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Star Wars Jedi: Survivor",
-    "Added": "Feb 2025"
-  },
-  {
     "Game": "Hogwarts Legacy",
     "Added": "Apr 2025"
   },
@@ -276,6 +280,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Mortal Kombat 1",
+    "Added": "Aug 2025"
+  },
+  {
     "Game": "S.T.A.L.K.E.R.: Legends of the Zone Trilogy",
     "Added": "May 2025"
   },
@@ -290,10 +298,6 @@
   {
     "Game": "GRIS",
     "Added": "Oct 2024"
-  },
-  {
-    "Game": "The Plucky Squire",
-    "Added": "Sep 2024"
   },
   {
     "Game": "Pathfinder: Wrath of the Righteous",
@@ -338,6 +342,14 @@
   {
     "Game": "Legendary Fishing",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Plucky Squire",
+    "Added": "Sep 2024"
+  },
+  {
+    "Game": "Coral Island",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Gloomhaven: Mercenaries Edition",
@@ -406,6 +418,10 @@
   {
     "Game": "South Park: The Fractured But Whole",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Planet Zoo",
@@ -480,6 +496,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "INDIKA",
+    "Added": "Aug 2025"
+  },
+  {
     "Game": "Five Nights at Freddy's: Help Wanted 2",
     "Added": "Jun 2025"
   },
@@ -490,10 +510,6 @@
   {
     "Game": "Atlas Fallen: Reign Of Sand",
     "Added": "Jan 2025"
-  },
-  {
-    "Game": "F.I.S.T.: Forged in Shadow Torch",
-    "Added": "Dec 2024"
   },
   {
     "Game": "DREDGE",
@@ -576,16 +592,16 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "F.I.S.T.: Forged in Shadow Torch",
+    "Added": "Dec 2024"
+  },
+  {
     "Game": "Eiyuden Chronicle: Hundred Heroes",
     "Added": "Jun 2025"
   },
   {
     "Game": "Coffee Talk Episode 2: Hibiscus & Butterfly",
     "Added": "Dec 2024"
-  },
-  {
-    "Game": "Road 96",
-    "Added": "Sep 2024"
   },
   {
     "Game": "LEGO DC Super-Villains",
@@ -624,8 +640,8 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Wild Hearts",
-    "Added": "Aug 2024"
+    "Game": "Road 96",
+    "Added": "Sep 2024"
   },
   {
     "Game": "PlateUp!",
@@ -702,10 +718,6 @@
   {
     "Game": "Trackmania Turbo",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "UFC 5",
-    "Added": "Mar 2025"
   },
   {
     "Game": "Humankind",
@@ -832,10 +844,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "TopSpin 2K25",
-    "Added": "Feb 2025"
-  },
-  {
     "Game": "New World: Aeternum",
     "Added": "Jul 2025"
   },
@@ -920,14 +928,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "RIDE 5",
-    "Added": "Aug 2024"
-  },
-  {
-    "Game": "Bugsnax",
-    "Added": "Aug 2022"
-  },
-  {
     "Game": "Soul Hackers 2",
     "Added": "May 2025"
   },
@@ -994,6 +994,10 @@
   {
     "Game": "The Surge",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Earth Defense Force 6",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Train Sim World 5",
@@ -1284,6 +1288,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Harold Halibut",
+    "Added": "Aug 2025"
+  },
+  {
     "Game": "Captain Tsubasa: Rise of New Champions",
     "Added": "Mar 2025"
   },
@@ -1408,10 +1416,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Sword Art Online: Hollow Realization",
-    "Added": "Aug 2024"
-  },
-  {
     "Game": "Travis Strikes Again: No More Heroes - Complete Edition",
     "Added": "Jul 2024"
   },
@@ -1516,10 +1520,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Sword Art Online: Last Recollection",
-    "Added": "Aug 2024"
-  },
-  {
     "Game": "theHunter: Call of the Wild",
     "Added": "Jun 2025"
   },
@@ -1572,10 +1572,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Sword Art Online: Fatal Bullet",
-    "Added": "Aug 2024"
-  },
-  {
     "Game": "Adventure Time: Pirates of the Enchiridion",
     "Added": "Dec 2022"
   },
@@ -1602,10 +1598,6 @@
   {
     "Game": "Surgeon Simulator: Anniversary Edition",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Naruto to Boruto: Shinobi Striker",
-    "Added": "Aug 2024"
   },
   {
     "Game": "Firefighting Simulator: The Squad",
@@ -1694,10 +1686,6 @@
   {
     "Game": "The Technomancer",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Sword Art Online: Alicization Lycoris",
-    "Added": "Aug 2024"
   },
   {
     "Game": "Cricket 24",
@@ -1812,8 +1800,8 @@
     "Added": "Jul 2022"
   },
   {
-    "Game": "Abiotic Factor",
-    "Added": "Jul 2025"
+    "Game": "Sword of the Sea",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Destiny 2: Legacy Collection",
@@ -1834,6 +1822,14 @@
   {
     "Game": "Anodyne",
     "Added": "Apr 2023"
+  },
+  {
+    "Game": "THE ELDER SCROLLS IV: OBLIVION",
+    "Added": "Jun 2022"
+  },
+  {
+    "Game": "Resident Evil 2",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Ratchet and Clank: Up Your Arsenal",
@@ -2092,10 +2088,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "Pistol Whip",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "TimeSplitters: Future Perfect",
     "Added": "Aug 2024"
   },
@@ -2140,16 +2132,16 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Pistol Whip",
+    "Added": "Sep 2024"
+  },
+  {
     "Game": "DOOM + DOOM II: Enhanced",
     "Added": "Sep 2024"
   },
   {
     "Game": "Tekken 6",
     "Added": "Oct 2023"
-  },
-  {
-    "Game": "Dragon's Crown Pro",
-    "Added": "Sep 2023"
   },
   {
     "Game": "Harvest Moon: Back to Nature",
@@ -2186,6 +2178,10 @@
   {
     "Game": "Super Puzzle Fighter II Turbo HD Remix",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Dragon's Crown Pro",
+    "Added": "Sep 2023"
   },
   {
     "Game": "TimeSplitters",
@@ -2354,6 +2350,10 @@
   {
     "Game": "The Darkness",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Resident Evil 3: Nemesis",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Heavenly Sword",
@@ -2526,10 +2526,6 @@
   {
     "Game": "The Last Guy",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Vacation Simulator",
-    "Added": "Aug 2024"
   },
   {
     "Game": "Battle Engine Aquila",
@@ -3322,10 +3318,6 @@
   {
     "Game": "Zombie Tycoon 2: Brainhov's Revenge",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Sword Art Online: Lost Song",
-    "Added": "Aug 2024"
   },
   {
     "Game": "Armageddon Riders",
