@@ -68,16 +68,16 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Persona 4: Golden",
+    "Added": "Aug 2025"
+  },
+  {
     "Game": "Monster Train 2",
     "Added": "May 2025"
   },
   {
     "Game": "Balatro",
     "Added": "Feb 2025"
-  },
-  {
-    "Game": "Sea of Stars",
-    "Added": "Aug 2023"
   },
   {
     "Game": "Dead Space 2",
@@ -134,6 +134,10 @@
   {
     "Game": "It Takes Two",
     "Added": "Nov 2021"
+  },
+  {
+    "Game": "Abiotic Factor",
+    "Added": "Jul 2025"
   },
   {
     "Game": "Mullet Madjack",
@@ -300,10 +304,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "Wargroove 2",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "Core Keeper",
     "Added": "Aug 2024"
   },
@@ -342,6 +342,10 @@
   {
     "Game": "Halo: The Master Chief Collection",
     "Added": "Sep 2018"
+  },
+  {
+    "Game": "Wargroove 2",
+    "Added": "Sep 2024"
   },
   {
     "Game": "Assassin's Creed Origins",
@@ -476,6 +480,14 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Dragon Age: The Veilguard",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Heretic + Hexen",
+    "Added": "Aug 2025"
+  },
+  {
     "Game": "Tony Hawk's Pro Skater 3 + 4",
     "Added": "Jul 2025"
   },
@@ -584,10 +596,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "We Love Katamari Reroll + Royal Reverie",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "Have A Nice Death",
     "Added": "Apr 2024"
   },
@@ -652,8 +660,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "This War of Mine: Final Cut",
-    "Added": "May 2022"
+    "Game": "We Love Katamari Reroll + Royal Reverie",
+    "Added": "Sep 2024"
   },
   {
     "Game": "Ultimate Chicken Horse",
@@ -754,6 +762,18 @@
   {
     "Game": "DiRT 5",
     "Added": "Feb 2021"
+  },
+  {
+    "Game": "PAW Patrol World",
+    "Added": "Sep 2025"
+  },
+  {
+    "Game": "I Am Your Beast",
+    "Added": "Sep 2025"
+  },
+  {
+    "Game": "Gears of War: Reloaded",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Road 96",
@@ -908,12 +928,16 @@
     "Added": "Jun 2021"
   },
   {
-    "Game": "Revenge of the Savage Planet",
-    "Added": "May 2025"
+    "Game": "RoadCraft",
+    "Added": "Sep 2025"
   },
   {
-    "Game": "Borderlands 3: Ultimate Edition",
-    "Added": "Apr 2025"
+    "Game": "Herdling",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Revenge of the Savage Planet",
+    "Added": "May 2025"
   },
   {
     "Game": "Train Sim World 5",
@@ -1124,6 +1148,10 @@
     "Added": "Sep 2022"
   },
   {
+    "Game": "WUCHANG: Fallen Feathers",
+    "Added": "Jul 2025"
+  },
+  {
     "Game": "Tempopo",
     "Added": "Apr 2025"
   },
@@ -1250,6 +1278,10 @@
   {
     "Game": "NINJA GAIDEN: Master Collection",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Wheel World",
+    "Added": "Jul 2025"
   },
   {
     "Game": "Far Cry: New Dawn",
@@ -1392,10 +1424,6 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Ben 10: Power Trip",
-    "Added": "Dec 2021"
-  },
-  {
     "Game": "Ark: Survival Ascended",
     "Added": "Apr 2024"
   },
@@ -1422,10 +1450,6 @@
   {
     "Game": "Madden NFL 24",
     "Added": "Feb 2024"
-  },
-  {
-    "Game": "PAW Patrol Mighty Pups: Save Adventure Bay",
-    "Added": "Dec 2021"
   },
   {
     "Game": "Grounded",
@@ -1528,7 +1552,35 @@
     "Added": "Dec 2021"
   },
   {
-    "Game": "Gears of War: Reloaded",
+    "Game": "Hollow Knight: Silksong",
+    "Added": "Sep 2025"
+  },
+  {
+    "Game": "Caesar III",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Climber 5",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "The Colonel's Bequest",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Private Eye",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Oystron",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Shootin' Gallery",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Wing War",
     "Added": "Aug 2025"
   },
   {
@@ -1536,19 +1588,35 @@
     "Added": "Jul 2025"
   },
   {
-    "Game": "WUCHANG Fallen Feathers",
-    "Added": "Jul 2025"
-  },
-  {
-    "Game": "Wheel World",
-    "Added": "Jul 2025"
-  },
-  {
-    "Game": "Abiotic Factor",
-    "Added": "Jul 2025"
-  },
-  {
     "Game": "Descenders Next (Game Preview)",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Caesar",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Conquests of Camelot: The Search for the Grail",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Gabriel Knight: Sins of the Fathers",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Hard Head",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Okie Dokie",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Skate Boardin'",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Skeleton+",
     "Added": "Jul 2025"
   },
   {
@@ -1824,10 +1892,6 @@
     "Added": "Dec 2024"
   },
   {
-    "Game": "All You Need Is Help",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "Lightyear Frontier (Game Preview)",
     "Added": "Mar 2024"
   },
@@ -1838,5 +1902,9 @@
   {
     "Game": "Techtonica (Game Preview)",
     "Added": "Jul 2023"
+  },
+  {
+    "Game": "All You Need Is Help",
+    "Added": "Sep 2024"
   }
 ]
