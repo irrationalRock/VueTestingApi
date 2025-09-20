@@ -20,6 +20,10 @@
     "Added": "Jul 2018"
   },
   {
+    "Game": "Hades",
+    "Added": "Sep 2025"
+  },
+  {
     "Game": "Blue Prince",
     "Added": "Apr 2025"
   },
@@ -240,6 +244,10 @@
     "Added": "Dec 2024"
   },
   {
+    "Game": "Frostpunk 2",
+    "Added": "Sep 2024"
+  },
+  {
     "Game": "Tomb Raider: Definitive Edition",
     "Added": "May 2024"
   },
@@ -344,12 +352,12 @@
     "Added": "Sep 2018"
   },
   {
-    "Game": "Wargroove 2",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "Assassin's Creed Origins",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Lara Croft and the Guardian of Light",
+    "Added": "Sep 2025"
   },
   {
     "Game": "The Alters",
@@ -660,8 +668,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "We Love Katamari Reroll + Royal Reverie",
-    "Added": "Sep 2024"
+    "Game": "Wobbly Life",
+    "Added": "Sep 2025"
   },
   {
     "Game": "Ultimate Chicken Horse",
@@ -1096,6 +1104,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Visions of Mana",
+    "Added": "Sep 2025"
+  },
+  {
     "Game": "Farming Simulator 25",
     "Added": "Aug 2025"
   },
@@ -1242,6 +1254,10 @@
   {
     "Game": "Minecraft: Dungeons",
     "Added": "May 2020"
+  },
+  {
+    "Game": "Peppa Pig: World Adventures",
+    "Added": "Sep 2025"
   },
   {
     "Game": "RoboCop: Rogue City",
@@ -1550,6 +1566,18 @@
   {
     "Game": "Generation Zero",
     "Added": "Dec 2021"
+  },
+  {
+    "Game": "Sopa: Tale of the Stolen Potato",
+    "Added": "Oct 2025"
+  },
+  {
+    "Game": "SWORN",
+    "Added": "Sep 2025"
+  },
+  {
+    "Game": "Deep Rock Galactic: Survivor",
+    "Added": "Sep 2025"
   },
   {
     "Game": "Hollow Knight: Silksong",
@@ -1902,9 +1930,5 @@
   {
     "Game": "Techtonica (Game Preview)",
     "Added": "Jul 2023"
-  },
-  {
-    "Game": "All You Need Is Help",
-    "Added": "Sep 2024"
   }
 ]
