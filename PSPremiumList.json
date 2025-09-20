@@ -84,10 +84,6 @@
     "Added": "Jul 2025"
   },
   {
-    "Game": "Battlefield 1",
-    "Added": "Apr 2025"
-  },
-  {
     "Game": "Ratchet and Clank: Rift Apart",
     "Added": "May 2023"
   },
@@ -104,11 +100,15 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Night in the Woods",
-    "Added": "Sep 2024"
+    "Game": "Battlefield 1",
+    "Added": "Apr 2025"
   },
   {
     "Game": "Marvel's Spider-Man",
+    "Added": "Aug 2025"
+  },
+  {
+    "Game": "Sword of the Sea",
     "Added": "Aug 2025"
   },
   {
@@ -146,10 +146,6 @@
   {
     "Game": "XCOM 2",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Odin Sphere: Leifthrasir",
-    "Added": "Sep 2023"
   },
   {
     "Game": "Unicorn Overlord",
@@ -252,6 +248,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Crow Country",
+    "Added": "Sep 2025"
+  },
+  {
     "Game": "Hogwarts Legacy",
     "Added": "Apr 2025"
   },
@@ -344,10 +344,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "The Plucky Squire",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "Coral Island",
     "Added": "Aug 2025"
   },
@@ -418,6 +414,10 @@
   {
     "Game": "South Park: The Fractured But Whole",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Fate/Samurai Remnant",
+    "Added": "Sep 2025"
   },
   {
     "Game": "Atelier Ryza 3: Alchemist of the End & the Secret Key",
@@ -494,6 +494,14 @@
   {
     "Game": "Wolfenstein: The New Order",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "WWE 2K25",
+    "Added": "Sep 2025"
+  },
+  {
+    "Game": "Conscript",
+    "Added": "Sep 2025"
   },
   {
     "Game": "INDIKA",
@@ -592,10 +600,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "F.I.S.T.: Forged in Shadow Torch",
-    "Added": "Dec 2024"
-  },
-  {
     "Game": "Eiyuden Chronicle: Hundred Heroes",
     "Added": "Jun 2025"
   },
@@ -640,12 +644,12 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Road 96",
-    "Added": "Sep 2024"
-  },
-  {
     "Game": "PlateUp!",
     "Added": "Apr 2025"
+  },
+  {
+    "Game": "Green Hell",
+    "Added": "Sep 2025"
   },
   {
     "Game": "Banishers: Ghosts of New Eden",
@@ -928,6 +932,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Persona 5 Tactica",
+    "Added": "Sep 2025"
+  },
+  {
     "Game": "Soul Hackers 2",
     "Added": "May 2025"
   },
@@ -1012,10 +1020,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "Tour de France 2023",
-    "Added": "Oct 2024"
-  },
-  {
     "Game": "Salt and Sacrifice",
     "Added": "Dec 2023"
   },
@@ -1074,6 +1078,14 @@
   {
     "Game": "Eagle Flight",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Tour de France 2023",
+    "Added": "Oct 2024"
+  },
+  {
+    "Game": "The Invincible",
+    "Added": "Sep 2025"
   },
   {
     "Game": "Story of Seasons: A Wonderful Life",
@@ -1368,10 +1380,6 @@
     "Added": "Jun 2025"
   },
   {
-    "Game": "Ghostbusters: Spirits Unleashed",
-    "Added": "Oct 2024"
-  },
-  {
     "Game": "Space Engineers",
     "Added": "Sep 2024"
   },
@@ -1414,6 +1422,10 @@
   {
     "Game": "Vikings: Wolves of Midgard",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ghostbusters: Spirits Unleashed",
+    "Added": "Oct 2024"
   },
   {
     "Game": "Travis Strikes Again: No More Heroes - Complete Edition",
@@ -1800,10 +1812,6 @@
     "Added": "Jul 2022"
   },
   {
-    "Game": "Sword of the Sea",
-    "Added": "Aug 2025"
-  },
-  {
     "Game": "Destiny 2: Legacy Collection",
     "Added": "Jun 2025"
   },
@@ -2084,10 +2092,6 @@
     "Added": "Dec 2024"
   },
   {
-    "Game": "The Last Clockwinder",
-    "Added": "Oct 2024"
-  },
-  {
     "Game": "TimeSplitters: Future Perfect",
     "Added": "Aug 2024"
   },
@@ -2132,8 +2136,8 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Pistol Whip",
-    "Added": "Sep 2024"
+    "Game": "The Last Clockwinder",
+    "Added": "Oct 2024"
   },
   {
     "Game": "DOOM + DOOM II: Enhanced",
@@ -2178,10 +2182,6 @@
   {
     "Game": "Super Puzzle Fighter II Turbo HD Remix",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Dragon's Crown Pro",
-    "Added": "Sep 2023"
   },
   {
     "Game": "TimeSplitters",
@@ -2602,6 +2602,10 @@
   {
     "Game": "Tales from Space: About a Blob",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Legacy of Kain: Defiance",
+    "Added": "Sep 2025"
   },
   {
     "Game": "Arcade Paradise VR",
