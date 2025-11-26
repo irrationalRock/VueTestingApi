@@ -340,10 +340,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "Octopath Traveler II",
-    "Added": "Jun 2024"
-  },
-  {
     "Game": "Control: Ultimate Edition",
     "Added": "Mar 2024"
   },
@@ -374,6 +370,10 @@
   {
     "Game": "Halo: The Master Chief Collection",
     "Added": "Sep 2018"
+  },
+  {
+    "Game": "Octopath Traveler II",
+    "Added": "Jun 2024"
   },
   {
     "Game": "Assassin's Creed Origins",
@@ -476,10 +476,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "Octopath Traveler",
-    "Added": "Jun 2024"
-  },
-  {
     "Game": "Firewatch",
     "Added": "Aug 2023"
   },
@@ -514,6 +510,10 @@
   {
     "Game": "theHunter: Call of the Wild",
     "Added": "Apr 2018"
+  },
+  {
+    "Game": "Octopath Traveler",
+    "Added": "Jun 2024"
   },
   {
     "Game": "Dishonored: Death of the Outsider",
@@ -628,6 +628,10 @@
     "Added": "Feb 2022"
   },
   {
+    "Game": "Great God Grove",
+    "Added": "Nov 2025"
+  },
+  {
     "Game": "Trackmania Turbo",
     "Added": "Oct 2025"
   },
@@ -720,6 +724,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Total Chaos",
+    "Added": "Nov 2025"
+  },
+  {
     "Game": "Far Cry 3: Blood Dragon",
     "Added": "Oct 2025"
   },
@@ -745,10 +753,6 @@
   },
   {
     "Game": "Volcano Princess",
-    "Added": "Jun 2025"
-  },
-  {
-    "Game": "Barbie Project Friendship",
     "Added": "Jun 2025"
   },
   {
@@ -832,12 +836,20 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Barbie Project Friendship",
+    "Added": "Jun 2025"
+  },
+  {
     "Game": "Shadowrun Trilogy",
     "Added": "Jun 2022"
   },
   {
     "Game": "DiRT 5",
     "Added": "Feb 2021"
+  },
+  {
+    "Game": "Pacific Drive",
+    "Added": "Oct 2025"
   },
   {
     "Game": "Sopa: Tale of the Stolen Potato",
@@ -948,6 +960,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Banishers: Ghosts of New Eden",
+    "Added": "Nov 2025"
+  },
+  {
     "Game": "Minami Lane",
     "Added": "Jul 2025"
   },
@@ -969,6 +985,10 @@
   },
   {
     "Game": "Spray Paint Simulator",
+    "Added": "May 2025"
+  },
+  {
+    "Game": "Atlantis",
     "Added": "May 2025"
   },
   {
@@ -1018,6 +1038,10 @@
   {
     "Game": "For Honor: Marching Fire Edition",
     "Added": "Jun 2021"
+  },
+  {
+    "Game": "Clover Pit",
+    "Added": "Nov 2025"
   },
   {
     "Game": "Valiant Hearts: The Great War",
@@ -1092,6 +1116,10 @@
     "Added": "Apr 2025"
   },
   {
+    "Game": "The Crew Motorfest",
+    "Added": "Nov 2025"
+  },
+  {
     "Game": "Assassin's Creed Syndicate",
     "Added": "Oct 2025"
   },
@@ -1113,6 +1141,10 @@
   },
   {
     "Game": "Tales of Kenzera: ZAU",
+    "Added": "May 2025"
+  },
+  {
+    "Game": "Beamrider",
     "Added": "May 2025"
   },
   {
@@ -1240,10 +1272,6 @@
     "Added": "Jun 2024"
   },
   {
-    "Game": "Lords of the Fallen",
-    "Added": "May 2024"
-  },
-  {
     "Game": "Mount & Blade II: Bannerlord",
     "Added": "Feb 2023"
   },
@@ -1254,6 +1282,18 @@
   {
     "Game": "GRID: Legends",
     "Added": "Sep 2022"
+  },
+  {
+    "Game": "Lords of the Fallen",
+    "Added": "May 2024"
+  },
+  {
+    "Game": "Lost Records: Bloom & Rage",
+    "Added": "Dec 2025"
+  },
+  {
+    "Game": "Lara Croft and the Temple of Osiris",
+    "Added": "Nov 2025"
   },
   {
     "Game": "Monopoly (2024)",
@@ -1280,10 +1320,6 @@
     "Added": "Jun 2024"
   },
   {
-    "Game": "SteamWorld Build",
-    "Added": "Dec 2023"
-  },
-  {
     "Game": "Costume Quest",
     "Added": "Oct 2022"
   },
@@ -1302,6 +1338,10 @@
   {
     "Game": "Phoenix Point",
     "Added": "Dec 2019"
+  },
+  {
+    "Game": "SteamWorld Build",
+    "Added": "Dec 2023"
   },
   {
     "Game": "The Evil Within",
@@ -1664,6 +1704,10 @@
     "Added": "Oct 2025"
   },
   {
+    "Game": "Barnstorming",
+    "Added": "May 2025"
+  },
+  {
     "Game": "Mythwrecked: Ambrosia Island",
     "Added": "Mar 2025"
   },
@@ -1766,6 +1810,42 @@
   {
     "Game": "Generation Zero",
     "Added": "Dec 2021"
+  },
+  {
+    "Game": "Marvel Cosmic Invasion",
+    "Added": "Dec 2025"
+  },
+  {
+    "Game": "Kill It With Fire! 2",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Call of Duty: Black Ops 7",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Relic Hunters Legend",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Winter Burrow",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Pigeon Simulator",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Voidtrain",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Egging On",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Dead Static Drive",
+    "Added": "Nov 2025"
   },
   {
     "Game": "The Outer Worlds 2",
@@ -1912,23 +1992,11 @@
     "Added": "May 2025"
   },
   {
-    "Game": "Atlantis",
-    "Added": "May 2025"
-  },
-  {
     "Game": "Atlantis II",
     "Added": "May 2025"
   },
   {
-    "Game": "Barnstorming",
-    "Added": "May 2025"
-  },
-  {
     "Game": "Baseball",
-    "Added": "May 2025"
-  },
-  {
-    "Game": "Beamrider",
     "Added": "May 2025"
   },
   {
