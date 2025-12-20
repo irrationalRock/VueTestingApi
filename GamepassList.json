@@ -76,6 +76,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Dome Keeper",
+    "Added": "Dec 2025"
+  },
+  {
     "Game": "Persona 4: Golden",
     "Added": "Aug 2025"
   },
@@ -98,10 +102,6 @@
   {
     "Game": "Ori and the Will of the Wisps",
     "Added": "Mar 2020"
-  },
-  {
-    "Game": "Hollow Knight: Voidheart Edition",
-    "Added": "Jun 2019"
   },
   {
     "Game": "Neon White",
@@ -134,6 +134,10 @@
   {
     "Game": "Peggle 2",
     "Added": "Nov 2020"
+  },
+  {
+    "Game": "Hollow Knight: Voidheart Edition",
+    "Added": "Jun 2019"
   },
   {
     "Game": "The Walking Dead: The Complete First Season",
@@ -372,10 +376,6 @@
     "Added": "Sep 2018"
   },
   {
-    "Game": "Octopath Traveler II",
-    "Added": "Jun 2024"
-  },
-  {
     "Game": "Assassin's Creed Origins",
     "Added": "Jun 2022"
   },
@@ -410,10 +410,6 @@
   {
     "Game": "Starfield",
     "Added": "Sep 2023"
-  },
-  {
-    "Game": "Mortal Kombat 11",
-    "Added": "Dec 2021"
   },
   {
     "Game": "Deep Rock Galactic",
@@ -454,6 +450,10 @@
   {
     "Game": "Halo: Infinite",
     "Added": "Dec 2021"
+  },
+  {
+    "Game": "Mortal Kombat 1",
+    "Added": "Dec 2025"
   },
   {
     "Game": "Little Rocket Lab",
@@ -510,10 +510,6 @@
   {
     "Game": "theHunter: Call of the Wild",
     "Added": "Apr 2018"
-  },
-  {
-    "Game": "Octopath Traveler",
-    "Added": "Jun 2024"
   },
   {
     "Game": "Dishonored: Death of the Outsider",
@@ -768,10 +764,6 @@
     "Added": "Dec 2024"
   },
   {
-    "Game": "Wildfrost",
-    "Added": "Dec 2024"
-  },
-  {
     "Game": "EA Sports WRC",
     "Added": "Dec 2024"
   },
@@ -836,10 +828,6 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Barbie Project Friendship",
-    "Added": "Jun 2025"
-  },
-  {
     "Game": "Shadowrun Trilogy",
     "Added": "Jun 2022"
   },
@@ -866,10 +854,6 @@
   {
     "Game": "Trials Rising",
     "Added": "Oct 2025"
-  },
-  {
-    "Game": "PAW Patrol World",
-    "Added": "Sep 2025"
   },
   {
     "Game": "I Am Your Beast",
@@ -916,10 +900,6 @@
     "Added": "Jan 2024"
   },
   {
-    "Game": "Hell Let Loose",
-    "Added": "Jan 2024"
-  },
-  {
     "Game": "Wild Hearts",
     "Added": "Nov 2023"
   },
@@ -954,6 +934,10 @@
   {
     "Game": "Kameo: Elements of Power",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "Hell Let Loose",
+    "Added": "Jan 2024"
   },
   {
     "Game": "Star Wars Squadrons",
@@ -1156,10 +1140,6 @@
     "Added": "Feb 2025"
   },
   {
-    "Game": "Carrion",
-    "Added": "Jan 2025"
-  },
-  {
     "Game": "For The King II",
     "Added": "Dec 2024"
   },
@@ -1224,6 +1204,10 @@
     "Added": "Dec 2019"
   },
   {
+    "Game": "Carrion",
+    "Added": "Jan 2025"
+  },
+  {
     "Game": "Zombie Army 4: Dead War",
     "Added": "Apr 2021"
   },
@@ -1284,10 +1268,6 @@
     "Added": "Sep 2022"
   },
   {
-    "Game": "Lords of the Fallen",
-    "Added": "May 2024"
-  },
-  {
     "Game": "Lost Records: Bloom & Rage",
     "Added": "Dec 2025"
   },
@@ -1316,10 +1296,6 @@
     "Added": "Sep 2024"
   },
   {
-    "Game": "Still Wakes the Deep",
-    "Added": "Jun 2024"
-  },
-  {
     "Game": "Costume Quest",
     "Added": "Oct 2022"
   },
@@ -1338,10 +1314,6 @@
   {
     "Game": "Phoenix Point",
     "Added": "Dec 2019"
-  },
-  {
-    "Game": "SteamWorld Build",
-    "Added": "Dec 2023"
   },
   {
     "Game": "The Evil Within",
@@ -1812,11 +1784,27 @@
     "Added": "Dec 2021"
   },
   {
+    "Game": "Bratz: Rhythm & Style",
+    "Added": "Dec 2025"
+  },
+  {
+    "Game": "A Game About Digging A Hole",
+    "Added": "Dec 2025"
+  },
+  {
+    "Game": "Routine",
+    "Added": "Dec 2025"
+  },
+  {
     "Game": "Marvel Cosmic Invasion",
     "Added": "Dec 2025"
   },
   {
     "Game": "Kill It With Fire! 2",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Young Suns",
     "Added": "Nov 2025"
   },
   {
