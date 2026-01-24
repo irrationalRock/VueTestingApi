@@ -80,6 +80,10 @@
     "Added": "Dec 2025"
   },
   {
+    "Game": "Hollow Knight: Silksong",
+    "Added": "Sep 2025"
+  },
+  {
     "Game": "Persona 4: Golden",
     "Added": "Aug 2025"
   },
@@ -102,10 +106,6 @@
   {
     "Game": "Ori and the Will of the Wisps",
     "Added": "Mar 2020"
-  },
-  {
-    "Game": "Neon White",
-    "Added": "Jul 2024"
   },
   {
     "Game": "Hi-Fi RUSH",
@@ -312,6 +312,10 @@
     "Added": "Jul 2019"
   },
   {
+    "Game": "Death Stranding: Director's Cut",
+    "Added": "Jan 2026"
+  },
+  {
     "Game": "South Park: The Stick of Truth",
     "Added": "Oct 2025"
   },
@@ -334,10 +338,6 @@
   {
     "Game": "Monster Train",
     "Added": "Mar 2025"
-  },
-  {
-    "Game": "Citizen Sleeper 2: Starward Vector",
-    "Added": "Jan 2025"
   },
   {
     "Game": "Inscryption",
@@ -376,8 +376,24 @@
     "Added": "Sep 2018"
   },
   {
+    "Game": "Citizen Sleeper 2: Starward Vector",
+    "Added": "Jan 2025"
+  },
+  {
     "Game": "Assassin's Creed Origins",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ninja Gaiden: Ragebound",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "Resident Evil Village",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "Ball x Pit",
+    "Added": "Oct 2025"
   },
   {
     "Game": "Hogwarts Legacy",
@@ -396,16 +412,8 @@
     "Added": "Feb 2025"
   },
   {
-    "Game": "Lonely Mountain: Snow Riders",
-    "Added": "Jan 2025"
-  },
-  {
     "Game": "Age of Mythology: Retold",
     "Added": "Sep 2024"
-  },
-  {
-    "Game": "Football Manager 2024",
-    "Added": "Nov 2023"
   },
   {
     "Game": "Starfield",
@@ -414,10 +422,6 @@
   {
     "Game": "Deep Rock Galactic",
     "Added": "Nov 2020"
-  },
-  {
-    "Game": "Frostpunk",
-    "Added": "Jan 2020"
   },
   {
     "Game": "Fallout: New Vegas - Ultimate Edition",
@@ -444,6 +448,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Lonely Mountain: Snow Riders",
+    "Added": "Jan 2025"
+  },
+  {
     "Game": "Tunic",
     "Added": "Mar 2022"
   },
@@ -452,8 +460,20 @@
     "Added": "Dec 2021"
   },
   {
+    "Game": "Drop Duchy",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "MIO: Memories in Orbit",
+    "Added": "Jan 2026"
+  },
+  {
     "Game": "Mortal Kombat 1",
     "Added": "Dec 2025"
+  },
+  {
+    "Game": "The Outer Worlds 2",
+    "Added": "Oct 2025"
   },
   {
     "Game": "Little Rocket Lab",
@@ -516,7 +536,19 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Warhammer 40,000: Space Marine II",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "Voidtrain",
+    "Added": "Nov 2025"
+  },
+  {
     "Game": "PowerWash Simulator 2",
+    "Added": "Oct 2025"
+  },
+  {
+    "Game": "Ninja Gaiden 4",
     "Added": "Oct 2025"
   },
   {
@@ -624,6 +656,10 @@
     "Added": "Feb 2022"
   },
   {
+    "Game": "Marvel Cosmic Invasion",
+    "Added": "Dec 2025"
+  },
+  {
     "Game": "Great God Grove",
     "Added": "Nov 2025"
   },
@@ -638,6 +674,10 @@
   {
     "Game": "The Rogue Prince of Persia",
     "Added": "Aug 2025"
+  },
+  {
+    "Game": "Back to the Dawn",
+    "Added": "Jul 2025"
   },
   {
     "Game": "My Friendly Neighborhood",
@@ -656,10 +696,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "Have A Nice Death",
-    "Added": "Apr 2024"
-  },
-  {
     "Game": "Immortals Fenyx Rising",
     "Added": "Aug 2022"
   },
@@ -674,10 +710,6 @@
   {
     "Game": "SnowRunner",
     "Added": "May 2021"
-  },
-  {
-    "Game": "Starbound",
-    "Added": "Dec 2020"
   },
   {
     "Game": "Battlefield 4: Premium Edition",
@@ -720,8 +752,28 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Total Chaos",
+    "Game": "Starbound",
+    "Added": "Dec 2020"
+  },
+  {
+    "Game": "INDIKA",
+    "Added": "Feb 2026"
+  },
+  {
+    "Game": "My Little Pony: A Zephyr Heights Mystery",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "Total Chaos (2025)",
     "Added": "Nov 2025"
+  },
+  {
+    "Game": "Egging On",
+    "Added": "Nov 2025"
+  },
+  {
+    "Game": "Keeper (2025)",
+    "Added": "Oct 2025"
   },
   {
     "Game": "Far Cry 3: Blood Dragon",
@@ -788,10 +840,6 @@
     "Added": "Jan 2024"
   },
   {
-    "Game": "Thirsty Suitors",
-    "Added": "Nov 2023"
-  },
-  {
     "Game": "Wartales",
     "Added": "Oct 2023"
   },
@@ -836,6 +884,14 @@
     "Added": "Feb 2021"
   },
   {
+    "Game": "Little Nightmares: Enhanced Edition",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "ROUTINE",
+    "Added": "Dec 2025"
+  },
+  {
     "Game": "Pacific Drive",
     "Added": "Oct 2025"
   },
@@ -864,10 +920,6 @@
     "Added": "Aug 2025"
   },
   {
-    "Game": "Road 96",
-    "Added": "Jan 2025"
-  },
-  {
     "Game": "Call of Duty: Warzone",
     "Added": "Oct 2024"
   },
@@ -877,10 +929,6 @@
   },
   {
     "Game": "Little Kitty, Big City",
-    "Added": "May 2024"
-  },
-  {
-    "Game": "Kona II: Brume",
     "Added": "May 2024"
   },
   {
@@ -936,8 +984,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Hell Let Loose",
-    "Added": "Jan 2024"
+    "Game": "PAW Patrol World",
+    "Added": "Sep 2025"
   },
   {
     "Game": "Star Wars Squadrons",
@@ -976,20 +1024,12 @@
     "Added": "May 2025"
   },
   {
-    "Game": "Shady Part of Me",
-    "Added": "Jan 2025"
-  },
-  {
     "Game": "EA Sports UFC 5",
     "Added": "Jan 2025"
   },
   {
     "Game": "Microsoft Flight Simulator 2024",
     "Added": "Nov 2024"
-  },
-  {
-    "Game": "The Rewinder",
-    "Added": "Apr 2024"
   },
   {
     "Game": "The Walking Dead: The Final Season",
@@ -1020,8 +1060,16 @@
     "Added": "May 2018"
   },
   {
+    "Game": "Shady Part of Me",
+    "Added": "Jan 2025"
+  },
+  {
     "Game": "For Honor: Marching Fire Edition",
     "Added": "Jun 2021"
+  },
+  {
+    "Game": "Final Fantasy II",
+    "Added": "Feb 2026"
   },
   {
     "Game": "Clover Pit",
@@ -1062,10 +1110,6 @@
   {
     "Game": "Need for Speed: Unbound",
     "Added": "Jun 2023"
-  },
-  {
-    "Game": "Sniper Elite 5",
-    "Added": "May 2022"
   },
   {
     "Game": "Broken Age",
@@ -1156,10 +1200,6 @@
     "Added": "Jan 2024"
   },
   {
-    "Game": "Spirittea",
-    "Added": "Nov 2023"
-  },
-  {
     "Game": "Ghostwire: Tokyo",
     "Added": "Apr 2023"
   },
@@ -1204,16 +1244,24 @@
     "Added": "Dec 2019"
   },
   {
-    "Game": "Carrion",
-    "Added": "Jan 2025"
-  },
-  {
     "Game": "Zombie Army 4: Dead War",
     "Added": "Apr 2021"
   },
   {
     "Game": "Wolfenstein: The Old Blood",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "Star Wars: Outlaws",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "Bratz: Rhythm & Style",
+    "Added": "Dec 2025"
+  },
+  {
+    "Game": "A Game About Digging A Hole",
+    "Added": "Dec 2025"
   },
   {
     "Game": "Visions of Mana",
@@ -1276,6 +1324,10 @@
     "Added": "Nov 2025"
   },
   {
+    "Game": "Bounty Star: The Morose Tale of Graveyard Clem",
+    "Added": "Oct 2025"
+  },
+  {
     "Game": "Monopoly (2024)",
     "Added": "Oct 2025"
   },
@@ -1330,10 +1382,6 @@
   {
     "Game": "Kulebra and the Souls of Limbo",
     "Added": "May 2025"
-  },
-  {
-    "Game": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
-    "Added": "Nov 2024"
   },
   {
     "Game": "Dead Island 2",
@@ -1432,6 +1480,10 @@
     "Added": "Oct 2025"
   },
   {
+    "Game": "ANNO: Mutationem",
+    "Added": "Jan 2026"
+  },
+  {
     "Game": "Assassin's Creed Rogue: Remastered",
     "Added": "Oct 2025"
   },
@@ -1456,10 +1508,6 @@
     "Added": "Feb 2025"
   },
   {
-    "Game": "Flintlock: The Siege of Dawn",
-    "Added": "Jul 2024"
-  },
-  {
     "Game": "NHL 24",
     "Added": "Apr 2024"
   },
@@ -1468,12 +1516,12 @@
     "Added": "Jul 2021"
   },
   {
-    "Game": "Madden NFL 25 (2024)",
-    "Added": "Feb 2025"
+    "Game": "Kill It With Fire! 2",
+    "Added": "Nov 2025"
   },
   {
-    "Game": "Orcs Must Die! Deathtrap",
-    "Added": "Jan 2025"
+    "Game": "Madden NFL 25 (2024)",
+    "Added": "Feb 2025"
   },
   {
     "Game": "Car Mechanic Simulator 2021",
@@ -1500,8 +1548,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "The Ascent",
-    "Added": "Jul 2025"
+    "Game": "Orcs Must Die! Deathtrap",
+    "Added": "Jan 2025"
   },
   {
     "Game": "Assassin's Creed Chronicles: China",
@@ -1540,12 +1588,12 @@
     "Added": "Mar 2018"
   },
   {
-    "Game": "The Grinch: Christmas Adventures",
-    "Added": "Oct 2025"
-  },
-  {
     "Game": "The Gunk",
     "Added": "Dec 2021"
+  },
+  {
+    "Game": "Winter Burrow",
+    "Added": "Nov 2025"
   },
   {
     "Game": "The Casting of Frank Stone",
@@ -1588,6 +1636,10 @@
     "Added": "Feb 2018"
   },
   {
+    "Game": "FINAL FANTASY",
+    "Added": "Jan 2026"
+  },
+  {
     "Game": "High on Life",
     "Added": "Jul 2025"
   },
@@ -1624,6 +1676,10 @@
     "Added": "Nov 2020"
   },
   {
+    "Game": "Call of Duty: Black Ops 7",
+    "Added": "Nov 2025"
+  },
+  {
     "Game": "Zombi",
     "Added": "Oct 2025"
   },
@@ -1632,12 +1688,16 @@
     "Added": "Nov 2024"
   },
   {
+    "Game": "Grounded",
+    "Added": "Jul 2020"
+  },
+  {
     "Game": "Madden NFL 24",
     "Added": "Feb 2024"
   },
   {
-    "Game": "Grounded",
-    "Added": "Jul 2020"
+    "Game": "Pigeon Simulator",
+    "Added": "Nov 2025"
   },
   {
     "Game": "The Crew 2",
@@ -1690,6 +1750,10 @@
   {
     "Game": "ReCore: Definitive Edition",
     "Added": "Aug 2017"
+  },
+  {
+    "Game": "Brews & Bastards",
+    "Added": "Jan 2026"
   },
   {
     "Game": "Firefighting Simulator: The Squad",
@@ -1784,23 +1848,7 @@
     "Added": "Dec 2021"
   },
   {
-    "Game": "Bratz: Rhythm & Style",
-    "Added": "Dec 2025"
-  },
-  {
-    "Game": "A Game About Digging A Hole",
-    "Added": "Dec 2025"
-  },
-  {
-    "Game": "Routine",
-    "Added": "Dec 2025"
-  },
-  {
-    "Game": "Marvel Cosmic Invasion",
-    "Added": "Dec 2025"
-  },
-  {
-    "Game": "Kill It With Fire! 2",
+    "Game": "Dead Static Drive",
     "Added": "Nov 2025"
   },
   {
@@ -1808,48 +1856,8 @@
     "Added": "Nov 2025"
   },
   {
-    "Game": "Call of Duty: Black Ops 7",
-    "Added": "Nov 2025"
-  },
-  {
     "Game": "Relic Hunters Legend",
     "Added": "Nov 2025"
-  },
-  {
-    "Game": "Winter Burrow",
-    "Added": "Nov 2025"
-  },
-  {
-    "Game": "Pigeon Simulator",
-    "Added": "Nov 2025"
-  },
-  {
-    "Game": "Voidtrain",
-    "Added": "Nov 2025"
-  },
-  {
-    "Game": "Egging On",
-    "Added": "Nov 2025"
-  },
-  {
-    "Game": "Dead Static Drive",
-    "Added": "Nov 2025"
-  },
-  {
-    "Game": "The Outer Worlds 2",
-    "Added": "Oct 2025"
-  },
-  {
-    "Game": "Bounty Star: The Morose Tale of Graveyard Clem",
-    "Added": "Oct 2025"
-  },
-  {
-    "Game": "Ninja Gaiden 4",
-    "Added": "Oct 2025"
-  },
-  {
-    "Game": "Keeper",
-    "Added": "Oct 2025"
   },
   {
     "Game": "BattleTech: The Crescent Hawk's Inception",
@@ -1868,10 +1876,6 @@
     "Added": "Oct 2025"
   },
   {
-    "Game": "Ball x Pit",
-    "Added": "Oct 2025"
-  },
-  {
     "Game": "Supermarket Simulator",
     "Added": "Oct 2025"
   },
@@ -1885,10 +1889,6 @@
   },
   {
     "Game": "Deep Rock Galactic: Survivor",
-    "Added": "Sep 2025"
-  },
-  {
-    "Game": "Hollow Knight: Silksong",
     "Added": "Sep 2025"
   },
   {
