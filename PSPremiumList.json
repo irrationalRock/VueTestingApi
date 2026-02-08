@@ -260,6 +260,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Resident Evil: Village",
+    "Added": "Jan 2026"
+  },
+  {
     "Game": "Yakuza: Like a Dragon",
     "Added": "Oct 2025"
   },
@@ -288,8 +292,8 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Sayonara Wild Hearts",
-    "Added": "Jan 2025"
+    "Game": "Like a Dragon: Infinite Wealth",
+    "Added": "Jan 2026"
   },
   {
     "Game": "Still Wakes the Deep",
@@ -380,10 +384,6 @@
     "Added": "Nov 2024"
   },
   {
-    "Game": "Cult of the Lamb",
-    "Added": "Aug 2024"
-  },
-  {
     "Game": "Watch Dogs 2",
     "Added": "Aug 2024"
   },
@@ -434,6 +434,14 @@
   {
     "Game": "South Park: The Fractured But Whole",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "The Exit 8",
+    "Added": "Jan 2026"
+  },
+  {
+    "Game": "Darkest Dungeon II",
+    "Added": "Jan 2026"
   },
   {
     "Game": "Fate/Samurai Remnant",
@@ -520,20 +528,16 @@
     "Added": "Dec 2025"
   },
   {
-    "Game": "Skate Story",
-    "Added": "Dec 2025"
-  },
-  {
     "Game": "Pacific Drive",
     "Added": "Nov 2025"
   },
   {
-    "Game": "WWE 2K25",
+    "Game": "Conscript",
     "Added": "Sep 2025"
   },
   {
-    "Game": "Conscript",
-    "Added": "Sep 2025"
+    "Game": "The Rogue Prince of Persia",
+    "Added": "Aug 2025"
   },
   {
     "Game": "INDIKA",
@@ -630,6 +634,10 @@
   {
     "Game": "Trials Rising",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Art of Rally",
+    "Added": "Jan 2026"
   },
   {
     "Game": "Paw Patrol: Grand Prix",
@@ -764,8 +772,8 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Like a Dragon Gaiden: The Man Who Erased His Name",
-    "Added": "Jan 2025"
+    "Game": "Expeditions: A MudRunner Game",
+    "Added": "Jan 2026"
   },
   {
     "Game": "As Dusk Falls",
@@ -774,10 +782,6 @@
   {
     "Game": "Humankind",
     "Added": "May 2025"
-  },
-  {
-    "Game": "SaGa Frontier: Remastered",
-    "Added": "Feb 2025"
   },
   {
     "Game": "Orcs Must Die! 3",
@@ -793,10 +797,6 @@
   },
   {
     "Game": "Sniper Elite 5",
-    "Added": "Jul 2023"
-  },
-  {
-    "Game": "The Ascent",
     "Added": "Jul 2023"
   },
   {
@@ -872,6 +872,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Mortal Shell",
+    "Added": "Jun 2022"
+  },
+  {
     "Game": "The Surge 2",
     "Added": "Jun 2022"
   },
@@ -900,12 +904,12 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Poppy Playtime: Chapter 1",
-    "Added": "Oct 2025"
+    "Game": "A Little to the Left",
+    "Added": "Jan 2026"
   },
   {
-    "Game": "New World: Aeternum",
-    "Added": "Jul 2025"
+    "Game": "Poppy Playtime: Chapter 1",
+    "Added": "Oct 2025"
   },
   {
     "Game": "Endless Dungeon",
@@ -1056,10 +1060,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "SD Gundam Battle Alliance",
-    "Added": "Jan 2025"
-  },
-  {
     "Game": "Earth Defense Force 6",
     "Added": "Aug 2025"
   },
@@ -1134,6 +1134,10 @@
   {
     "Game": "Eagle Flight",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Wizard with a Gun",
+    "Added": "Oct 2025"
   },
   {
     "Game": "The Invincible",
@@ -1344,10 +1348,6 @@
     "Added": "Jun 2022"
   },
   {
-    "Game": "Monopoly Plus",
-    "Added": "Aug 2022"
-  },
-  {
     "Game": "Harold Halibut",
     "Added": "Aug 2025"
   },
@@ -1462,6 +1462,10 @@
   {
     "Game": "Vikings: Wolves of Midgard",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "A Quiet Place: The Road Ahead",
+    "Added": "Jan 2026"
   },
   {
     "Game": "Lego Ninjago Movie Videogame",
@@ -1641,10 +1645,6 @@
   },
   {
     "Game": "Blood Bowl III",
-    "Added": "Mar 2024"
-  },
-  {
-    "Game": "Super Neptunia RPG",
     "Added": "Mar 2024"
   },
   {
@@ -1852,6 +1852,10 @@
     "Added": "Apr 2023"
   },
   {
+    "Game": "Tekken 3",
+    "Added": "Oct 2025"
+  },
+  {
     "Game": "THE ELDER SCROLLS IV: OBLIVION",
     "Added": "Jun 2022"
   },
@@ -1914,6 +1918,10 @@
   {
     "Game": "Tekken 2",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Ridge Racer",
+    "Added": "Jan 2026"
   },
   {
     "Game": "Sly 2: Band of Thieves",
@@ -2496,6 +2504,10 @@
     "Added": "Jun 2022"
   },
   {
+    "Game": "Tomb Raider: Anniversary",
+    "Added": "Nov 2025"
+  },
+  {
     "Game": "Killzone: Liberation",
     "Added": "Jun 2023"
   },
@@ -2814,10 +2826,6 @@
   {
     "Game": "When Vikings Attack!",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Wizard with a Gun",
-    "Added": "Oct 2025"
   },
   {
     "Game": "Secret Agent Clank",
@@ -3710,10 +3718,6 @@
   {
     "Game": "Ghostbusters: Sanctum of Slime",
     "Added": "Jun 2022"
-  },
-  {
-    "Game": "Wizard with a Gun",
-    "Added": "Nov 2025"
   },
   {
     "Game": "Class of Heroes 2G",
