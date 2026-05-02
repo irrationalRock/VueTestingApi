@@ -1,11 +1,11 @@
 [
   {
-    "Game": "Grand Theft Auto V",
-    "Added": "Apr 2025"
-  },
-  {
     "Game": "GoldenEye 007 (2023)",
     "Added": "Jan 2023"
+  },
+  {
+    "Game": "Hades II",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Metaphor: ReFantazio",
@@ -296,6 +296,10 @@
     "Added": "Oct 2025"
   },
   {
+    "Game": "Deep Rock Galactic: Survivor",
+    "Added": "Sep 2025"
+  },
+  {
     "Game": "Rise of the Tomb Raider",
     "Added": "Jul 2025"
   },
@@ -564,6 +568,14 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Final Fantasy V",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "NBA 2K26",
+    "Added": "Apr 2026"
+  },
+  {
     "Game": "Death Howl",
     "Added": "Feb 2026"
   },
@@ -656,10 +668,6 @@
     "Added": "Sep 2022"
   },
   {
-    "Game": "Citizen Sleeper",
-    "Added": "May 2022"
-  },
-  {
     "Game": "Unpacking",
     "Added": "Nov 2021"
   },
@@ -686,6 +694,10 @@
   {
     "Game": "Super Mega Baseball 3",
     "Added": "Feb 2022"
+  },
+  {
+    "Game": "Tiny Bookshop",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Marvel Cosmic Invasion",
@@ -780,6 +792,14 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Call of Duty: Modern Warfare (2019)",
+    "Added": "Apr 2026"
+  },
+  {
+    "Game": "Barbie Horse Trails",
+    "Added": "Apr 2026"
+  },
+  {
     "Game": "DreamWorks Gabby's Dollhouse: Ready to Party",
     "Added": "Mar 2026"
   },
@@ -848,10 +868,6 @@
     "Added": "Jan 2025"
   },
   {
-    "Game": "Hunt: Showdown 1896",
-    "Added": "Dec 2024"
-  },
-  {
     "Game": "EA Sports WRC",
     "Added": "Dec 2024"
   },
@@ -912,16 +928,16 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "My Little Pony: A Zephyr Heights Mystery",
-    "Added": "Jan 2026"
-  },
-  {
     "Game": "Shadowrun Trilogy",
     "Added": "Jun 2022"
   },
   {
     "Game": "DiRT 5",
     "Added": "Feb 2021"
+  },
+  {
+    "Game": "Trepang2",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Little Nightmares: Enhanced Edition",
@@ -1020,10 +1036,6 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Eiyuden Chronicle: Hundred Heroes",
-    "Added": "Apr 2024"
-  },
-  {
     "Game": "Star Wars Squadrons",
     "Added": "Mar 2021"
   },
@@ -1100,6 +1112,10 @@
     "Added": "May 2018"
   },
   {
+    "Game": "SWORN",
+    "Added": "Sep 2025"
+  },
+  {
     "Game": "For Honor: Marching Fire Edition",
     "Added": "Jun 2021"
   },
@@ -1134,10 +1150,6 @@
   {
     "Game": "Herdling",
     "Added": "Aug 2025"
-  },
-  {
-    "Game": "Revenge of the Savage Planet",
-    "Added": "May 2025"
   },
   {
     "Game": "Train Sim World 5",
@@ -1184,8 +1196,20 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Supermarket Simulator",
+    "Added": "Oct 2025"
+  },
+  {
     "Game": "Crime Scene Cleaner",
     "Added": "Apr 2025"
+  },
+  {
+    "Game": "REPLACED",
+    "Added": "Apr 2026"
+  },
+  {
+    "Game": "Planet Coaster 2",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Relooted",
@@ -1300,6 +1324,10 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Super Meat Boy 3D",
+    "Added": "Mar 2026"
+  },
+  {
     "Game": "Star Wars: Outlaws",
     "Added": "Jan 2026"
   },
@@ -1340,10 +1368,6 @@
     "Added": "Oct 2024"
   },
   {
-    "Game": "Creatures of Ava",
-    "Added": "Aug 2024"
-  },
-  {
     "Game": "EA Sports FC 24",
     "Added": "Jun 2024"
   },
@@ -1358,6 +1382,10 @@
   {
     "Game": "GRID: Legends",
     "Added": "Sep 2022"
+  },
+  {
+    "Game": "The Thaumaturge",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Lost Records: Bloom & Rage",
@@ -1414,6 +1442,10 @@
   {
     "Game": "The Evil Within",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "NHL 26",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Easy Delivery Co.",
@@ -1504,10 +1536,6 @@
     "Added": "Jul 2025"
   },
   {
-    "Game": "Dragon Ball Xenoverse 2",
-    "Added": "May 2025"
-  },
-  {
     "Game": "F1 24",
     "Added": "Feb 2025"
   },
@@ -1562,10 +1590,6 @@
   {
     "Game": "Far Cry: New Dawn",
     "Added": "Feb 2025"
-  },
-  {
-    "Game": "NHL 24",
-    "Added": "Apr 2024"
   },
   {
     "Game": "Blinx: The Time Sweeper",
@@ -1740,10 +1764,6 @@
     "Added": "Oct 2025"
   },
   {
-    "Game": "Goat Simulator: Remastered",
-    "Added": "Nov 2024"
-  },
-  {
     "Game": "Grounded",
     "Added": "Jul 2020"
   },
@@ -1904,7 +1924,23 @@
     "Added": "Nov 2025"
   },
   {
-    "Game": "Barbie Horse Trails",
+    "Game": "Sledding Game (Game Preview)",
+    "Added": "Apr 2026"
+  },
+  {
+    "Game": "TerraTech Legion",
+    "Added": "Apr 2026"
+  },
+  {
+    "Game": "Aphelion",
+    "Added": "Apr 2026"
+  },
+  {
+    "Game": "Kiln",
+    "Added": "Apr 2026"
+  },
+  {
+    "Game": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
     "Added": "Apr 2026"
   },
   {
@@ -1956,20 +1992,8 @@
     "Added": "Oct 2025"
   },
   {
-    "Game": "Supermarket Simulator",
-    "Added": "Oct 2025"
-  },
-  {
     "Game": "Monopoly Madness",
     "Added": "Oct 2025"
-  },
-  {
-    "Game": "SWORN",
-    "Added": "Sep 2025"
-  },
-  {
-    "Game": "Deep Rock Galactic: Survivor",
-    "Added": "Sep 2025"
   },
   {
     "Game": "Caesar III",
