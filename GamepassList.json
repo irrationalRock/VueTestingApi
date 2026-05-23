@@ -8,16 +8,16 @@
     "Added": "Apr 2026"
   },
   {
-    "Game": "Metaphor: ReFantazio",
-    "Added": "May 2025"
-  },
-  {
     "Game": "Quake",
     "Added": "Aug 2021"
   },
   {
     "Game": "The Elder Scrolls IV: Oblivion",
     "Added": "Jul 2018"
+  },
+  {
+    "Game": "Metaphor: ReFantazio",
+    "Added": "May 2025"
   },
   {
     "Game": "Hades",
@@ -38,6 +38,10 @@
   {
     "Game": "Gears of War 2",
     "Added": "Jun 2017"
+  },
+  {
+    "Game": "Forza Horizon 6",
+    "Added": "May 2026"
   },
   {
     "Game": "Hollow Knight: Silksong",
@@ -100,10 +104,6 @@
     "Added": "Sep 2025"
   },
   {
-    "Game": "Persona 4: Golden",
-    "Added": "Aug 2025"
-  },
-  {
     "Game": "Monster Train 2",
     "Added": "May 2025"
   },
@@ -122,6 +122,10 @@
   {
     "Game": "Ori and the Will of the Wisps",
     "Added": "Mar 2020"
+  },
+  {
+    "Game": "Persona 4: Golden",
+    "Added": "Aug 2025"
   },
   {
     "Game": "Like a Dragon: Infinite Wealth",
@@ -252,6 +256,10 @@
     "Added": "May 2021"
   },
   {
+    "Game": "Final Fantasy VI",
+    "Added": "Jun 2026"
+  },
+  {
     "Game": "Absolum",
     "Added": "Mar 2026"
   },
@@ -278,6 +286,10 @@
   {
     "Game": "DOOM (2016)",
     "Added": "Aug 2018"
+  },
+  {
+    "Game": "Mixtape",
+    "Added": "May 2026"
   },
   {
     "Game": "Resident Evil 7: Biohazard",
@@ -352,6 +364,10 @@
     "Added": "Jul 2019"
   },
   {
+    "Game": "TerraTech Legion",
+    "Added": "Apr 2026"
+  },
+  {
     "Game": "Death Stranding: Director's Cut",
     "Added": "Jan 2026"
   },
@@ -410,6 +426,10 @@
   {
     "Game": "Assassin's Creed Origins",
     "Added": "Jun 2022"
+  },
+  {
+    "Game": "Remnant II",
+    "Added": "May 2026"
   },
   {
     "Game": "Ninja Gaiden: Ragebound",
@@ -482,6 +502,10 @@
   {
     "Game": "Halo: Infinite",
     "Added": "Dec 2021"
+  },
+  {
+    "Game": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Planet of Lana II: Children of the Leaf",
@@ -568,8 +592,20 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "The Outer Worlds: Spacer’s Choice Edition",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "Black Jacket",
+    "Added": "May 2026"
+  },
+  {
     "Game": "Final Fantasy V",
     "Added": "May 2026"
+  },
+  {
+    "Game": "inKonbini: One Store. Many Stories",
+    "Added": "Apr 2026"
   },
   {
     "Game": "NBA 2K26",
@@ -618,10 +654,6 @@
   {
     "Game": "Little Nightmares II",
     "Added": "Jul 2025"
-  },
-  {
-    "Game": "Crypt Custodian",
-    "Added": "Jun 2025"
   },
   {
     "Game": "Tom Clancy's The Division 2",
@@ -692,8 +724,20 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Crypt Custodian",
+    "Added": "Jun 2025"
+  },
+  {
     "Game": "Super Mega Baseball 3",
     "Added": "Feb 2022"
+  },
+  {
+    "Game": "Jurassic World Evolution 3",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Escape Simulator",
+    "Added": "May 2026"
   },
   {
     "Game": "Tiny Bookshop",
@@ -792,6 +836,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Elite Dangerous",
+    "Added": "May 2026"
+  },
+  {
     "Game": "Call of Duty: Modern Warfare (2019)",
     "Added": "Apr 2026"
   },
@@ -880,10 +928,6 @@
     "Added": "May 2024"
   },
   {
-    "Game": "Galacticare",
-    "Added": "May 2024"
-  },
-  {
     "Game": "Senua's Saga: Hellblade II",
     "Added": "May 2024"
   },
@@ -894,10 +938,6 @@
   {
     "Game": "Wartales",
     "Added": "Oct 2023"
-  },
-  {
-    "Game": "Planet of Lana",
-    "Added": "May 2023"
   },
   {
     "Game": "LEGO Star Wars: The Skywalker Saga",
@@ -934,6 +974,10 @@
   {
     "Game": "DiRT 5",
     "Added": "Feb 2021"
+  },
+  {
+    "Game": "MOTORSLICE",
+    "Added": "May 2026"
   },
   {
     "Game": "Trepang2",
@@ -1068,10 +1112,6 @@
     "Added": "Jun 2025"
   },
   {
-    "Game": "Spray Paint Simulator",
-    "Added": "May 2025"
-  },
-  {
     "Game": "Atlantis",
     "Added": "May 2025"
   },
@@ -1110,6 +1150,10 @@
   {
     "Game": "State of Decay 2: Juggernaut Edition",
     "Added": "May 2018"
+  },
+  {
+    "Game": "Spray Paint Simulator",
+    "Added": "May 2025"
   },
   {
     "Game": "SWORN",
@@ -1202,6 +1246,10 @@
   {
     "Game": "Crime Scene Cleaner",
     "Added": "Apr 2025"
+  },
+  {
+    "Game": "Call of the Elder Gods",
+    "Added": "May 2026"
   },
   {
     "Game": "REPLACED",
@@ -1464,10 +1512,6 @@
     "Added": "May 2025"
   },
   {
-    "Game": "Kulebra and the Souls of Limbo",
-    "Added": "May 2025"
-  },
-  {
     "Game": "Dead Island 2",
     "Added": "Feb 2024"
   },
@@ -1510,6 +1554,10 @@
   {
     "Game": "Minecraft: Dungeons",
     "Added": "May 2020"
+  },
+  {
+    "Game": "Wildgate",
+    "Added": "May 2026"
   },
   {
     "Game": "Construction Simulator",
@@ -1596,6 +1644,10 @@
     "Added": "Jul 2021"
   },
   {
+    "Game": "Ben 10: Power Trip",
+    "Added": "May 2026"
+  },
+  {
     "Game": "Kill It With Fire! 2",
     "Added": "Nov 2025"
   },
@@ -1668,6 +1720,10 @@
     "Added": "Dec 2021"
   },
   {
+    "Game": "Kiln",
+    "Added": "Apr 2026"
+  },
+  {
     "Game": "Winter Burrow",
     "Added": "Nov 2025"
   },
@@ -1678,10 +1734,6 @@
   {
     "Game": "Eternal Strands",
     "Added": "Jan 2025"
-  },
-  {
-    "Game": "Go Mecha Ball",
-    "Added": "Jan 2024"
   },
   {
     "Game": "Goat Simulator 3",
@@ -1710,6 +1762,10 @@
   {
     "Game": "Fable Anniversary",
     "Added": "Feb 2018"
+  },
+  {
+    "Game": "My Friend Peppa Pig",
+    "Added": "May 2026"
   },
   {
     "Game": "Final Fantasy IV",
@@ -1768,6 +1824,10 @@
     "Added": "Jul 2020"
   },
   {
+    "Game": "Outbound",
+    "Added": "May 2026"
+  },
+  {
     "Game": "Pigeon Simulator",
     "Added": "Nov 2025"
   },
@@ -1800,8 +1860,8 @@
     "Added": "Feb 2022"
   },
   {
-    "Game": "PAW Patrol Rescue Wheels: Championship",
-    "Added": "Feb 2026"
+    "Game": "Aphelion",
+    "Added": "Apr 2026"
   },
   {
     "Game": "Assassin's Creed Chronicles: India",
@@ -1924,23 +1984,27 @@
     "Added": "Nov 2025"
   },
   {
+    "Game": "Crashout Crew",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "Kabuto Park",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "Echo Generation 2",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "Luna Abyss",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "Subnautica 2 (Game Preview)",
+    "Added": "May 2026"
+  },
+  {
     "Game": "Sledding Game (Game Preview)",
-    "Added": "Apr 2026"
-  },
-  {
-    "Game": "TerraTech Legion",
-    "Added": "Apr 2026"
-  },
-  {
-    "Game": "Aphelion",
-    "Added": "Apr 2026"
-  },
-  {
-    "Game": "Kiln",
-    "Added": "Apr 2026"
-  },
-  {
-    "Game": "Vampire Crawlers: The Turbo Wildcard from Vampire Survivors",
     "Added": "Apr 2026"
   },
   {
