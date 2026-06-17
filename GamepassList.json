@@ -4,6 +4,10 @@
     "Added": "Jan 2023"
   },
   {
+    "Game": "Persona 5 Royal",
+    "Added": "Jun 2026"
+  },
+  {
     "Game": "Hades II",
     "Added": "Apr 2026"
   },
@@ -14,10 +18,6 @@
   {
     "Game": "The Elder Scrolls IV: Oblivion",
     "Added": "Jul 2018"
-  },
-  {
-    "Game": "Metaphor: ReFantazio",
-    "Added": "May 2025"
   },
   {
     "Game": "Hades",
@@ -124,10 +124,6 @@
     "Added": "Mar 2020"
   },
   {
-    "Game": "Persona 4: Golden",
-    "Added": "Aug 2025"
-  },
-  {
     "Game": "Like a Dragon: Infinite Wealth",
     "Added": "Mar 2026"
   },
@@ -232,10 +228,6 @@
     "Added": "Oct 2019"
   },
   {
-    "Game": "Slay the Spire",
-    "Added": "Aug 2019"
-  },
-  {
     "Game": "Wolfenstein II: The New Colossus",
     "Added": "May 2019"
   },
@@ -250,6 +242,10 @@
   {
     "Game": "Hellblade: Senua's Sacrifice",
     "Added": "Dec 2018"
+  },
+  {
+    "Game": "Slay the Spire",
+    "Added": "Aug 2019"
   },
   {
     "Game": "Psychonauts",
@@ -312,10 +308,6 @@
     "Added": "Sep 2025"
   },
   {
-    "Game": "Rise of the Tomb Raider",
-    "Added": "Jul 2025"
-  },
-  {
     "Game": "Warhammer 40,000: Rogue Trader",
     "Added": "Feb 2025"
   },
@@ -328,16 +320,8 @@
     "Added": "Sep 2024"
   },
   {
-    "Game": "Tomb Raider: Definitive Edition",
-    "Added": "May 2024"
-  },
-  {
     "Game": "Spiritfarer",
     "Added": "Sep 2023"
-  },
-  {
-    "Game": "Teenage Mutant Ninja Turtles: Shredder's Revenge",
-    "Added": "Jun 2022"
   },
   {
     "Game": "Skate",
@@ -362,6 +346,14 @@
   {
     "Game": "Killer Instinct (2013): Anniversary Edition",
     "Added": "Jul 2019"
+  },
+  {
+    "Game": "Rise of the Tomb Raider",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Tomb Raider: Definitive Edition",
+    "Added": "May 2024"
   },
   {
     "Game": "TerraTech Legion",
@@ -700,10 +692,6 @@
     "Added": "Sep 2022"
   },
   {
-    "Game": "Unpacking",
-    "Added": "Nov 2021"
-  },
-  {
     "Game": "Wreckfest",
     "Added": "Feb 2021"
   },
@@ -724,8 +712,8 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Crypt Custodian",
-    "Added": "Jun 2025"
+    "Game": "Unpacking",
+    "Added": "Nov 2021"
   },
   {
     "Game": "Super Mega Baseball 3",
@@ -836,6 +824,10 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Wo Long: Fallen Dynasty",
+    "Added": "Jun 2026"
+  },
+  {
     "Game": "Elite Dangerous",
     "Added": "May 2026"
   },
@@ -900,14 +892,6 @@
     "Added": "Sep 2025"
   },
   {
-    "Game": "Ultimate Chicken Horse",
-    "Added": "Jul 2025"
-  },
-  {
-    "Game": "Volcano Princess",
-    "Added": "Jun 2025"
-  },
-  {
     "Game": "DREDGE",
     "Added": "May 2025"
   },
@@ -968,6 +952,14 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Ultimate Chicken Horse",
+    "Added": "Jul 2025"
+  },
+  {
+    "Game": "Volcano Princess",
+    "Added": "Jun 2025"
+  },
+  {
     "Game": "Shadowrun Trilogy",
     "Added": "Jun 2022"
   },
@@ -1000,10 +992,6 @@
     "Added": "Oct 2025"
   },
   {
-    "Game": "Scott Pilgrim vs. The World: The Game",
-    "Added": "Oct 2025"
-  },
-  {
     "Game": "Trials Fusion",
     "Added": "Oct 2025"
   },
@@ -1018,6 +1006,10 @@
   {
     "Game": "Gears of War: Reloaded",
     "Added": "Aug 2025"
+  },
+  {
+    "Game": "33 Immortals",
+    "Added": "Mar 2025"
   },
   {
     "Game": "Call of Duty: Warzone",
@@ -1046,10 +1038,6 @@
   {
     "Game": "Wild Hearts",
     "Added": "Nov 2023"
-  },
-  {
-    "Game": "Jurassic World Evolution 2",
-    "Added": "May 2022"
   },
   {
     "Game": "Genesis Noir",
@@ -1152,16 +1140,16 @@
     "Added": "May 2018"
   },
   {
-    "Game": "Spray Paint Simulator",
-    "Added": "May 2025"
-  },
-  {
     "Game": "SWORN",
     "Added": "Sep 2025"
   },
   {
     "Game": "For Honor: Marching Fire Edition",
     "Added": "Jun 2021"
+  },
+  {
+    "Game": "EA Sports FC 26",
+    "Added": "Jun 2026"
   },
   {
     "Game": "The Long Dark",
@@ -1284,10 +1272,6 @@
     "Added": "Jun 2025"
   },
   {
-    "Game": "Warhammer 40,000: Space Marine - Master Crafted Edition",
-    "Added": "Jun 2025"
-  },
-  {
     "Game": "Tales of Kenzera: ZAU",
     "Added": "May 2025"
   },
@@ -1330,10 +1314,6 @@
   {
     "Game": "PowerWash Simulator",
     "Added": "Jul 2022"
-  },
-  {
-    "Game": "Lost In Random",
-    "Added": "Apr 2022"
   },
   {
     "Game": "Need for Speed: Hot Pursuit - Remastered",
@@ -1490,6 +1470,14 @@
   {
     "Game": "The Evil Within",
     "Added": "Mar 2021"
+  },
+  {
+    "Game": "Call of Duty: Vanguard",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Undisputed",
+    "Added": "Jun 2026"
   },
   {
     "Game": "NHL 26",
@@ -1984,6 +1972,46 @@
     "Added": "Nov 2025"
   },
   {
+    "Game": "Winds of Arcana: Ruination",
+    "Added": "Jul 2026"
+  },
+  {
+    "Game": "RV There Yet?",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Abyssus",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Junkster",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Beastro",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Frog Sqwad",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Starseeker: Astroneer Expeditions (Game Preview)",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Beatdown City Survivors",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Solarpunk",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Escape the Backrooms",
+    "Added": "May 2026"
+  },
+  {
     "Game": "Crashout Crew",
     "Added": "May 2026"
   },
@@ -2374,10 +2402,6 @@
   {
     "Game": "Towerborne",
     "Added": "Apr 2025"
-  },
-  {
-    "Game": "33 Immortals (Game Preview)",
-    "Added": "Mar 2025"
   },
   {
     "Game": "Overthrown (Game Preview)",
