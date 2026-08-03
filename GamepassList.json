@@ -44,10 +44,6 @@
     "Added": "May 2026"
   },
   {
-    "Game": "Hollow Knight: Silksong",
-    "Added": "Mar 2026"
-  },
-  {
     "Game": "The Witcher 3: Wild Hunt - Complete Edition",
     "Added": "Feb 2026"
   },
@@ -74,14 +70,6 @@
   {
     "Game": "Resident Evil 2 (2019)",
     "Added": "Jan 2024"
-  },
-  {
-    "Game": "Celeste",
-    "Added": "Aug 2023"
-  },
-  {
-    "Game": "Crusader Kings III",
-    "Added": "Sep 2020"
   },
   {
     "Game": "Dead Cells",
@@ -244,10 +232,6 @@
     "Added": "Dec 2018"
   },
   {
-    "Game": "Slay the Spire",
-    "Added": "Aug 2019"
-  },
-  {
     "Game": "Psychonauts",
     "Added": "May 2021"
   },
@@ -348,12 +332,8 @@
     "Added": "Jul 2019"
   },
   {
-    "Game": "Rise of the Tomb Raider",
-    "Added": "Jul 2025"
-  },
-  {
-    "Game": "Tomb Raider: Definitive Edition",
-    "Added": "May 2024"
+    "Game": "Buckshot Roulette",
+    "Added": "Jul 2026"
   },
   {
     "Game": "TerraTech Legion",
@@ -584,6 +564,10 @@
     "Added": "Jun 2021"
   },
   {
+    "Game": "Conker: Live & Reloaded",
+    "Added": "Jul 2026"
+  },
+  {
     "Game": "The Outer Worlds: Spacer’s Choice Edition",
     "Added": "May 2026"
   },
@@ -604,16 +588,16 @@
     "Added": "Apr 2026"
   },
   {
-    "Game": "Death Howl",
-    "Added": "Feb 2026"
-  },
-  {
     "Game": "EA Sports College Football 26",
     "Added": "Feb 2026"
   },
   {
     "Game": "Warhammer 40,000: Space Marine II",
     "Added": "Jan 2026"
+  },
+  {
+    "Game": "Death Howl",
+    "Added": "Dec 2025"
   },
   {
     "Game": "Voidtrain",
@@ -664,14 +648,6 @@
     "Added": "Aug 2024"
   },
   {
-    "Game": "Dungeons Of Hinterberg",
-    "Added": "Jul 2024"
-  },
-  {
-    "Game": "Shadow of the Tomb Raider: Definitive Edition",
-    "Added": "Apr 2024"
-  },
-  {
     "Game": "Superhot: Mind Control Delete",
     "Added": "Apr 2024"
   },
@@ -712,12 +688,12 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Unpacking",
-    "Added": "Nov 2021"
-  },
-  {
     "Game": "Super Mega Baseball 3",
     "Added": "Feb 2022"
+  },
+  {
+    "Game": "The Planet Crafter",
+    "Added": "Jul 2026"
   },
   {
     "Game": "Jurassic World Evolution 3",
@@ -725,6 +701,10 @@
   },
   {
     "Game": "Escape Simulator",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "Luna Abyss",
     "Added": "May 2026"
   },
   {
@@ -750,14 +730,6 @@
   {
     "Game": "The Rogue Prince of Persia",
     "Added": "Aug 2025"
-  },
-  {
-    "Game": "Back to the Dawn",
-    "Added": "Jul 2025"
-  },
-  {
-    "Game": "My Friendly Neighborhood",
-    "Added": "Jul 2025"
   },
   {
     "Game": "Anno 1800",
@@ -804,10 +776,6 @@
     "Added": "Apr 2020"
   },
   {
-    "Game": "Stellaris",
-    "Added": "Aug 2019"
-  },
-  {
     "Game": "Torment: Tides of Numenera",
     "Added": "Jun 2019"
   },
@@ -824,8 +792,20 @@
     "Added": "Jun 2017"
   },
   {
+    "Game": "Abyssus",
+    "Added": "Jun 2026"
+  },
+  {
     "Game": "Wo Long: Fallen Dynasty",
     "Added": "Jun 2026"
+  },
+  {
+    "Game": "Escape the Backrooms",
+    "Added": "May 2026"
+  },
+  {
+    "Game": "Crashout Crew",
+    "Added": "May 2026"
   },
   {
     "Game": "Elite Dangerous",
@@ -912,7 +892,7 @@
     "Added": "May 2024"
   },
   {
-    "Game": "Senua's Saga: Hellblade II",
+    "Game": "Hellblade II: Senua’s Saga",
     "Added": "May 2024"
   },
   {
@@ -952,20 +932,16 @@
     "Added": "Jun 2017"
   },
   {
-    "Game": "Ultimate Chicken Horse",
-    "Added": "Jul 2025"
-  },
-  {
-    "Game": "Volcano Princess",
-    "Added": "Jun 2025"
-  },
-  {
     "Game": "Shadowrun Trilogy",
     "Added": "Jun 2022"
   },
   {
     "Game": "DiRT 5",
     "Added": "Feb 2021"
+  },
+  {
+    "Game": "Tamashika",
+    "Added": "Jul 2026"
   },
   {
     "Game": "MOTORSLICE",
@@ -1072,16 +1048,20 @@
     "Added": "Mar 2021"
   },
   {
+    "Game": "Junkster",
+    "Added": "Jun 2026"
+  },
+  {
+    "Game": "Kabuto Park",
+    "Added": "May 2026"
+  },
+  {
     "Game": "Kingdom Come: Deliverance",
     "Added": "Feb 2026"
   },
   {
     "Game": "Banishers: Ghosts of New Eden",
     "Added": "Nov 2025"
-  },
-  {
-    "Game": "Minami Lane",
-    "Added": "Jul 2025"
   },
   {
     "Game": "Rematch",
@@ -1146,6 +1126,10 @@
   {
     "Game": "For Honor: Marching Fire Edition",
     "Added": "Jun 2021"
+  },
+  {
+    "Game": "Hell is Us",
+    "Added": "Jul 2026"
   },
   {
     "Game": "EA Sports FC 26",
@@ -1312,10 +1296,6 @@
     "Added": "Aug 2022"
   },
   {
-    "Game": "PowerWash Simulator",
-    "Added": "Jul 2022"
-  },
-  {
     "Game": "Need for Speed: Hot Pursuit - Remastered",
     "Added": "Jun 2021"
   },
@@ -1384,24 +1364,12 @@
     "Added": "Mar 2025"
   },
   {
-    "Game": "Sniper Elite: Resistance",
-    "Added": "Jan 2025"
-  },
-  {
     "Game": "Aliens: Dark Descent",
     "Added": "Nov 2024"
   },
   {
     "Game": "South Park: The Fractured but Whole",
     "Added": "Oct 2024"
-  },
-  {
-    "Game": "EA Sports FC 24",
-    "Added": "Jun 2024"
-  },
-  {
-    "Game": "Mount & Blade II: Bannerlord",
-    "Added": "Feb 2023"
   },
   {
     "Game": "Disney Dreamlight Valley: Founder's Edition",
@@ -1476,6 +1444,10 @@
     "Added": "Jun 2026"
   },
   {
+    "Game": "Beastro",
+    "Added": "Jun 2026"
+  },
+  {
     "Game": "Undisputed",
     "Added": "Jun 2026"
   },
@@ -1544,6 +1516,10 @@
     "Added": "May 2020"
   },
   {
+    "Game": "Winds of Arcana: Ruination",
+    "Added": "Jul 2026"
+  },
+  {
     "Game": "Wildgate",
     "Added": "May 2026"
   },
@@ -1600,6 +1576,10 @@
     "Added": "Oct 2025"
   },
   {
+    "Game": "RV There Yet?",
+    "Added": "Jun 2026"
+  },
+  {
     "Game": "ANNO: Mutationem",
     "Added": "Jan 2026"
   },
@@ -1630,6 +1610,10 @@
   {
     "Game": "Blinx: The Time Sweeper",
     "Added": "Jul 2021"
+  },
+  {
+    "Game": "Echo Generation 2",
+    "Added": "May 2026"
   },
   {
     "Game": "Ben 10: Power Trip",
@@ -1736,10 +1720,6 @@
     "Added": "Jul 2020"
   },
   {
-    "Game": "Golf With Your Friends",
-    "Added": "May 2020"
-  },
-  {
     "Game": "Wolfenstein: Youngblood",
     "Added": "Feb 2020"
   },
@@ -1810,6 +1790,10 @@
   {
     "Game": "Grounded",
     "Added": "Jul 2020"
+  },
+  {
+    "Game": "Beatdown City Survivors",
+    "Added": "Jun 2026"
   },
   {
     "Game": "Outbound",
@@ -1908,10 +1892,6 @@
     "Added": "Oct 2025"
   },
   {
-    "Game": "Rain World",
-    "Added": "Aug 2025"
-  },
-  {
     "Game": "Hungry Shark World",
     "Added": "Oct 2025"
   },
@@ -1972,24 +1952,44 @@
     "Added": "Nov 2025"
   },
   {
-    "Game": "Winds of Arcana: Ruination",
+    "Game": "Beast of Reincarnation",
+    "Added": "Aug 2026"
+  },
+  {
+    "Game": "Corsair Cove",
     "Added": "Jul 2026"
   },
   {
-    "Game": "RV There Yet?",
-    "Added": "Jun 2026"
+    "Game": "Mistfall Hunter",
+    "Added": "Jul 2026"
   },
   {
-    "Game": "Abyssus",
-    "Added": "Jun 2026"
+    "Game": "Halo: Campaign Evolved",
+    "Added": "Jul 2026"
   },
   {
-    "Game": "Junkster",
-    "Added": "Jun 2026"
+    "Game": "Shift at Midnight",
+    "Added": "Jul 2026"
   },
   {
-    "Game": "Beastro",
-    "Added": "Jun 2026"
+    "Game": "FixForce",
+    "Added": "Jul 2026"
+  },
+  {
+    "Game": "Mavrix by Matt Jones",
+    "Added": "Jul 2026"
+  },
+  {
+    "Game": "Denshattack!",
+    "Added": "Jul 2026"
+  },
+  {
+    "Game": "PBA Pro Bowling 2026",
+    "Added": "Jul 2026"
+  },
+  {
+    "Game": "Ascend to Zero",
+    "Added": "Jul 2026"
   },
   {
     "Game": "Frog Sqwad",
@@ -2000,32 +2000,8 @@
     "Added": "Jun 2026"
   },
   {
-    "Game": "Beatdown City Survivors",
-    "Added": "Jun 2026"
-  },
-  {
     "Game": "Solarpunk",
     "Added": "Jun 2026"
-  },
-  {
-    "Game": "Escape the Backrooms",
-    "Added": "May 2026"
-  },
-  {
-    "Game": "Crashout Crew",
-    "Added": "May 2026"
-  },
-  {
-    "Game": "Kabuto Park",
-    "Added": "May 2026"
-  },
-  {
-    "Game": "Echo Generation 2",
-    "Added": "May 2026"
-  },
-  {
-    "Game": "Luna Abyss",
-    "Added": "May 2026"
   },
   {
     "Game": "Subnautica 2 (Game Preview)",
@@ -2408,11 +2384,7 @@
     "Added": "Dec 2024"
   },
   {
-    "Game": "Palworld (Game Preview)",
+    "Game": "Palworld",
     "Added": "Jan 2024"
-  },
-  {
-    "Game": "Techtonica (Game Preview)",
-    "Added": "Jul 2023"
   }
 ]
